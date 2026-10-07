@@ -415,9 +415,9 @@
     "What are the implications of innovation heterogeneity and path dependence for economic development?"
    ],
    "notes": [
-    "Moved from Wednesday 7 to Tuesday 6 October (lecturer’s course calendar, slides of 22 September; the lecture slides are dated 6 October). Time not given in the sources."
+    "Moved from Wednesday 7 to Tuesday 6 October (lecture slides dated 6 October). Time not given in the sources."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/ETI_2_InnovationProperties2026.pdf",
@@ -494,10 +494,8 @@
     "Recently, the Nobel prize winning economist Joseph Stiglitz has suggested that it is ‘time to retire metrics like GDP’ (24th November 2019, The Guardian). Critically discuss this statement. What alternatives to GDP would you recommend measuring socio-economic development?",
     "What are the main opportunities and challenges that new technologies and innovation provide for economic and social development? Do these opportunities and challenges differ between low- and high-income countries?"
    ],
-   "notes": [
-    "The lecturer’s course calendar (22 September) lists 8 October; the coursework spreadsheet and the ETI slides of 6 October (“tomorrow”) give Wednesday 7 October."
-   ],
-   "confidence": "MEDIUM",
+   "notes": [],
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
     "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
@@ -703,9 +701,9 @@
    "title": "Replication exercise: regression discontinuity",
    "type": "tutorial",
    "date": "2026-10-15",
-   "start": "09:00",
-   "end": "11:00",
-   "room": "Belvedere Room 3",
+   "start": "16:00",
+   "end": "18:00",
+   "room": "Room not announced",
    "lecturer": "Matilde João Mota",
    "readings": {
     "required": [],
@@ -714,12 +712,14 @@
    },
    "essay_questions": [],
    "notes": [
+    "Moved from 09:00–11:00 to 16:00–18:00 because of the clash with the Socio-Economic Development lecture (announced to the cohort; not yet in the course files).",
     "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
    ],
    "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "Announcement to the cohort, reported on 8 October 2026"
    ]
   },
   {
@@ -755,9 +755,9 @@
     "How do the evolutionary and mainstream perspectives differ with regard to the way they view technological change?"
    ],
    "notes": [
-    "Moved to the morning (lecturer’s course calendar: “time change to morning”; integrated outline: 10:00). End time not stated. A 10:00 start overlaps with Policy Evaluation Tutorial III (09:00–11:00): check with the lecturers."
+    "Moved to the morning: 10:00 start according to the integrated outline of 5 October. End time not stated (shown as two hours in the calendar file)."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
     "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
@@ -1028,10 +1028,8 @@
     "How do different national, regional, or sectoral innovation systems explain variation in patterns of technical change and economic development across contexts?",
     "How are national, regional and sectoral innovation systems related?"
    ],
-   "notes": [
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
-   ],
-   "confidence": "MEDIUM",
+   "notes": [],
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1076,10 +1074,8 @@
     "Why is an evolutionary complex systems approach - particularly agent-based modelling - useful for studying economic development, compared to representative-agent or equilibrium-based models?",
     "What does an economy without technical change and innovation look like, and what insights does this counterfactual provide about the role of innovation in development?"
    ],
-   "notes": [
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
-   ],
-   "confidence": "MEDIUM",
+   "notes": [],
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1141,10 +1137,9 @@
     "What are green or digital technological trajectories?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1196,10 +1191,9 @@
     "Does the adoption of capital-intensive frontier technologies explain weak employment creation in developing-country manufacturing?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1277,14 +1271,11 @@
     "What does a general overview of data from innovation surveys tell us about innovation systems in developed countries?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics.",
-    "Possible date change: the lecturer’s course calendar of 22 September says “date change to 10 Nov” (Tuesday), but the integrated outline of 5 October still lists week 7 as 11–12 November. Shown on 11 November until confirmed."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
-    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
-    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
   },
   {
@@ -1334,10 +1325,9 @@
     "Is a sequence from investment to technology adoption to innovation consistent with what we know about how capabilities are built?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1428,10 +1418,9 @@
     "Are the effects likely to differ in low- and middle-income countries?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1474,10 +1463,9 @@
     "How can countries (and firms) effectively insert themselves into global value chains?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1552,10 +1540,9 @@
     "How does climate change expose global inequalities, and what are the implications for developing countries that contribute little to emissions yet are most affected by its impacts?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1612,10 +1599,9 @@
     "What role can geography play in the process of economic development, and does technical change weaken or strengthen it?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1701,10 +1687,9 @@
     "How can institutions moderate the relation between technical change, structural change and inequality?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1739,10 +1724,9 @@
     "What has been the impact of TRIPS on development?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1848,10 +1832,9 @@
     "Is the developmental state model universally applicable?"
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]
@@ -1905,10 +1888,9 @@
     "Design an industrial and innovation policy strategy for a specific country (or region), addressing its structural challenges and opportunities, and justify your proposed instruments with reference to the literature."
    ],
    "notes": [
-    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC."
    ],
-   "confidence": "MEDIUM",
+   "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
    ]

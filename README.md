@@ -18,6 +18,10 @@ Weekly schedule, reading lists, deadlines and exams for the full-time first year
 
 Every item has a `confidence` field. `HIGH` means the source documents agree. `MEDIUM` and `LOW` items are shown as “not confirmed” on the website and explained under *Source notes*.
 
+## Which source wins
+
+When documents disagree, the most recent document in that course's folder prevails (judged by the file's own creation date, not the download date). A date stated for a specific session overrides a general rule such as “Thursdays 13:30–15:30”.
+
 ## When the schedule changes
 
 1. Edit the item in `program.json` and update `meta.updated`.
