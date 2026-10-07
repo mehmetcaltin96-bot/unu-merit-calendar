@@ -463,46 +463,6 @@
    ]
   },
   {
-   "id": "SED-2.2",
-   "course": "SED",
-   "number": "Lecture II",
-   "source_label": "Week 2, 2.2",
-   "title": "What is (socio)-economic development and how is it linked to innovation and",
-   "type": "lecture",
-   "date": "2026-10-07",
-   "start": "13:30",
-   "end": "15:30",
-   "room": "Belvedere Room 3",
-   "lecturer": "Bart Verspagen",
-   "readings": {
-    "required": [
-     "Fagerberg, J., Srholec, M., & Knell, M. (2007). The competitiveness of nations: Why some countries prosper while others fall behind. World development, 35(10), 1595-1620.",
-     "Szirmai, A., 2015, Developing countries and the concept of development, in A. Szirmai, Socio-economic development, Chapter 1, Cambridge University Press.",
-     "O’Rourke, K. H., & Williamson, J. G. (2005). From Malthus to Ohlin: Trade, industrialisation and distribution since 1500. Journal of Economic Growth, 10(1), 5-34."
-    ],
-    "additional": [
-     "Cirera, Xavier, and William F. Maloney, 2017, The Innovation Paradox: Developing- Country Capabilities and the Unrealized Promise of Technological Catch-Up, Washington DC.",
-     "Broadberry, S. and J. Wallis, 2017. Growing, Shrinking, and Long Run Economic Performance: Historical Perspectives on Economic Development. NBER WP No. 23343.",
-     "Nelson, R.R., 2008. Economic Development from the Perspective of Evolutionary Economic Theory. Oxford Development Studies, 36(1), 9-21.",
-     "Verspagen, B. (1991). A new empirical approach to catching up or falling behind. Structural change and economic dynamics, 2(2), 359-380.",
-     "Hopkins, T. K., & Wallerstein, I. (1977). Patterns of development of the modern world-system. Review (Fernand Braudel Center), 1(2), 111-145."
-    ],
-    "optional": []
-   },
-   "essay_questions": [
-    "What is meant by the term ‘development’? Based on your answer to this question, how would you suggest comparing development levels across countries and time?",
-    "Recently, the Nobel prize winning economist Joseph Stiglitz has suggested that it is ‘time to retire metrics like GDP’ (24th November 2019, The Guardian). Critically discuss this statement. What alternatives to GDP would you recommend measuring socio-economic development?",
-    "What are the main opportunities and challenges that new technologies and innovation provide for economic and social development? Do these opportunities and challenges differ between low- and high-income countries?"
-   ],
-   "notes": [],
-   "confidence": "HIGH",
-   "sources": [
-    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
-    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
-   ]
-  },
-  {
    "id": "PPE-Tutorial2",
    "course": "PPE",
    "number": "Tutorial II",
@@ -545,6 +505,48 @@
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
     "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/Tutorials/Tutorial 2/T2_DiDPSM_student.do"
+   ]
+  },
+  {
+   "id": "SED-2.2",
+   "course": "SED",
+   "number": "Lecture II",
+   "source_label": "Week 2, 2.2",
+   "title": "What is (socio)-economic development and how is it linked to innovation and",
+   "type": "lecture",
+   "date": "2026-10-08",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Fagerberg, J., Srholec, M., & Knell, M. (2007). The competitiveness of nations: Why some countries prosper while others fall behind. World development, 35(10), 1595-1620.",
+     "Szirmai, A., 2015, Developing countries and the concept of development, in A. Szirmai, Socio-economic development, Chapter 1, Cambridge University Press.",
+     "O’Rourke, K. H., & Williamson, J. G. (2005). From Malthus to Ohlin: Trade, industrialisation and distribution since 1500. Journal of Economic Growth, 10(1), 5-34."
+    ],
+    "additional": [
+     "Cirera, Xavier, and William F. Maloney, 2017, The Innovation Paradox: Developing- Country Capabilities and the Unrealized Promise of Technological Catch-Up, Washington DC.",
+     "Broadberry, S. and J. Wallis, 2017. Growing, Shrinking, and Long Run Economic Performance: Historical Perspectives on Economic Development. NBER WP No. 23343.",
+     "Nelson, R.R., 2008. Economic Development from the Perspective of Evolutionary Economic Theory. Oxford Development Studies, 36(1), 9-21.",
+     "Verspagen, B. (1991). A new empirical approach to catching up or falling behind. Structural change and economic dynamics, 2(2), 359-380.",
+     "Hopkins, T. K., & Wallerstein, I. (1977). Patterns of development of the modern world-system. Review (Fernand Braudel Center), 1(2), 111-145."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "What is meant by the term ‘development’? Based on your answer to this question, how would you suggest comparing development levels across countries and time?",
+    "Recently, the Nobel prize winning economist Joseph Stiglitz has suggested that it is ‘time to retire metrics like GDP’ (24th November 2019, The Guardian). Critically discuss this statement. What alternatives to GDP would you recommend measuring socio-economic development?",
+    "What are the main opportunities and challenges that new technologies and innovation provide for economic and social development? Do these opportunities and challenges differ between low- and high-income countries?"
+   ],
+   "notes": [
+    "Week 2 is listed as 06–08 October in the integrated outline of 5 October: ETI on Tuesday 6, SED on Thursday 8 October (also the date in the lecturer’s course calendar). Time follows the outline’s Thursday slot."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
    ]
   },
   {
@@ -694,35 +696,6 @@
    ]
   },
   {
-   "id": "PPE-Tutorial3",
-   "course": "PPE",
-   "number": "Tutorial III",
-   "source_label": "Tutorial 3",
-   "title": "Replication exercise: regression discontinuity",
-   "type": "tutorial",
-   "date": "2026-10-15",
-   "start": "16:00",
-   "end": "18:00",
-   "room": "Room not announced",
-   "lecturer": "Matilde João Mota",
-   "readings": {
-    "required": [],
-    "additional": [],
-    "optional": []
-   },
-   "essay_questions": [],
-   "notes": [
-    "Moved from 09:00–11:00 to 16:00–18:00 because of the clash with the Socio-Economic Development lecture (announced to the cohort; not yet in the course files).",
-    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
-   ],
-   "confidence": "HIGH",
-   "sources": [
-    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
-    "Announcement to the cohort, reported on 8 October 2026"
-   ]
-  },
-  {
    "id": "SED-3.2",
    "course": "SED",
    "number": "Lecture III",
@@ -762,6 +735,35 @@
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
     "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
+   ]
+  },
+  {
+   "id": "PPE-Tutorial3",
+   "course": "PPE",
+   "number": "Tutorial III",
+   "source_label": "Tutorial 3",
+   "title": "Replication exercise: regression discontinuity",
+   "type": "tutorial",
+   "date": "2026-10-15",
+   "start": "16:00",
+   "end": "18:00",
+   "room": "Room not announced",
+   "lecturer": "Matilde João Mota",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Moved from 09:00–11:00 to 16:00–18:00 because of the clash with the Socio-Economic Development lecture (announced to the cohort; not yet in the course files).",
+    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "Announcement to the cohort, reported on 8 October 2026"
    ]
   },
   {
