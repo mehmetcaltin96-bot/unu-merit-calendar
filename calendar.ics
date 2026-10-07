@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:PPE-Lecture1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Lecture I: Causal Inference I
 DTSTART;TZID=Europe/Amsterdam:20260915T140000
 DTEND;TZID=Europe/Amsterdam:20260915T160000
@@ -37,7 +37,7 @@ DESCRIPTION:Public Policy Evaluation · Lecture I (Lecture 1)\nLecturer: Lo
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Lecture2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Lecture II: Causal Inference II
 DTSTART;TZID=Europe/Amsterdam:20260916T090000
 DTEND;TZID=Europe/Amsterdam:20260916T110000
@@ -50,7 +50,7 @@ DESCRIPTION:Public Policy Evaluation · Lecture II (Lecture 2)\nLecturer: L
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-1.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture I: Systems and evolutionary economi
  cs: a history and theory view
 DTSTART;TZID=Europe/Amsterdam:20260922T103000
@@ -74,7 +74,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture I (Week 1\, 1
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Lecture3@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Lecture III: Randomized designs
 DTSTART;TZID=Europe/Amsterdam:20260923T110000
 DTEND;TZID=Europe/Amsterdam:20260923T130000
@@ -95,7 +95,7 @@ DESCRIPTION:Public Policy Evaluation · Lecture III (Lecture 3)\nLecturer:
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture I: Introduction to the course
 DTSTART;TZID=Europe/Amsterdam:20260929T090000
 DTEND;TZID=Europe/Amsterdam:20260929T110000
@@ -108,7 +108,7 @@ DESCRIPTION:Human Development · Lecture I (Session 1)\nLecturer: Bruno Mar
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-1.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture I: Technical Change\, Structural Change
   and Economic Development
 DTSTART;TZID=Europe/Amsterdam:20260929T140000
@@ -130,7 +130,7 @@ DESCRIPTION:Socio-Economic Development · Lecture I (Week 1\, 1.2)\nLecture
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Tutorial1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Tutorial I: RCTs and causal inference
 DTSTART;TZID=Europe/Amsterdam:20261001T140000
 DTEND;TZID=Europe/Amsterdam:20261001T160000
@@ -146,7 +146,7 @@ DESCRIPTION:Public Policy Evaluation · Tutorial I (Tutorial 1)\nLecturer:
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture II: Poverty
 DTSTART;TZID=Europe/Amsterdam:20261002T110000
 DTEND;TZID=Europe/Amsterdam:20261002T130000
@@ -165,7 +165,7 @@ DESCRIPTION:Human Development · Lecture II (Session 2)\nLecturer: Franzisk
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Lecture4@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Lecture IV: Difference in Differences
 DTSTART;TZID=Europe/Amsterdam:20261005T110000
 DTEND;TZID=Europe/Amsterdam:20261005T130000
@@ -180,7 +180,7 @@ DESCRIPTION:Public Policy Evaluation · Lecture IV (Lecture 4)\nLecturer: E
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-2.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture II: Properties of technical change 
  as an evolutionary process
 DTSTART;VALUE=DATE:20261006
@@ -203,7 +203,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture II (Week 2\,
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Lecture5@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Lecture V: Propensity Score Matching
 DTSTART;TZID=Europe/Amsterdam:20261007T090000
 DTEND;TZID=Europe/Amsterdam:20261007T110000
@@ -228,7 +228,7 @@ DESCRIPTION:Public Policy Evaluation · Lecture V (Lecture 5)\nLecturer: Em
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Tutorial2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Tutorial II: Difference-in-differences and propen
  sity score matching (replication)
 DTSTART;TZID=Europe/Amsterdam:20261008T090000
@@ -256,9 +256,9 @@ DESCRIPTION:Public Policy Evaluation · Tutorial II (Tutorial 2)\nLecturer:
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-2.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture II: What is (socio)-economic developmen
- t and how is it linked to innovation and
+ t and how is it linked to innovation and technological change?
 DTSTART;TZID=Europe/Amsterdam:20261008T133000
 DTEND;TZID=Europe/Amsterdam:20261008T153000
 LOCATION:Belvedere Room 3
@@ -278,7 +278,7 @@ DESCRIPTION:Socio-Economic Development · Lecture II (Week 2\, 2.2)\nLectur
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S3@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture III: Causes and consequences of poverty
 DTSTART;TZID=Europe/Amsterdam:20261009T090000
 DTEND;TZID=Europe/Amsterdam:20261009T110000
@@ -299,7 +299,7 @@ DESCRIPTION:Human Development · Lecture III (Session 3)\nLecturer: Franzis
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S4@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture IV: The ideal global poverty measure?
 DTSTART;TZID=Europe/Amsterdam:20261009T110000
 DTEND;TZID=Europe/Amsterdam:20261009T130000
@@ -320,7 +320,7 @@ DESCRIPTION:Human Development · Lecture IV (Session 4)\nLecturer: Franzisk
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Lecture6@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Lecture VI: Regression Discontinuity Design
 DTSTART;TZID=Europe/Amsterdam:20261013T090000
 DTEND;TZID=Europe/Amsterdam:20261013T110000
@@ -337,7 +337,7 @@ DESCRIPTION:Public Policy Evaluation · Lecture VI (Lecture 6)\nLecturer: E
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-3.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture III: Science
 DTSTART;TZID=Europe/Amsterdam:20261014T133000
 DTEND;TZID=Europe/Amsterdam:20261014T153000
@@ -359,7 +359,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture III (Week 3\,
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-3.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture III: Innovation-based growth theory
 DTSTART;TZID=Europe/Amsterdam:20261015T100000
 DTEND;TZID=Europe/Amsterdam:20261015T120000
@@ -380,7 +380,7 @@ DESCRIPTION:Socio-Economic Development · Lecture III (Week 3\, 3.2)\nLectu
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Tutorial3@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Tutorial III: Replication exercise: regression di
  scontinuity
 DTSTART;TZID=Europe/Amsterdam:20261015T160000
@@ -395,7 +395,7 @@ DESCRIPTION:Public Policy Evaluation · Tutorial III (Tutorial 3)\nLecturer
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S5@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture V: Inequality
 DTSTART;TZID=Europe/Amsterdam:20261016T110000
 DTEND;TZID=Europe/Amsterdam:20261016T130000
@@ -430,7 +430,7 @@ DESCRIPTION:Human Development · Lecture V (Session 5)\nLecturer: Bruno Mar
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Lecture7@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Lecture VII: Other topics in evaluation
 DTSTART;TZID=Europe/Amsterdam:20261021T090000
 DTEND;TZID=Europe/Amsterdam:20261021T110000
@@ -472,7 +472,7 @@ DESCRIPTION:Public Policy Evaluation · Lecture VII (Lecture 7)\nLecturer:
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-4.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture IV: Networks\, complexity\, diffusi
  on & industrial dynamics
 DTSTART;TZID=Europe/Amsterdam:20261021T133000
@@ -491,7 +491,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture IV (Week 4\,
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-4.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture IV: Structural Change\, Structural Tran
  sformation\, and “Economic Complexity”
 DTSTART;TZID=Europe/Amsterdam:20261022T133000
@@ -510,7 +510,7 @@ DESCRIPTION:Socio-Economic Development · Lecture IV (Week 4\, 4.2)\nLectur
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S6@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture VI: From Correlation to Causality: Evalua
  ting Education Policies Using the “Laboratory” of Education Systems
 DTSTART;TZID=Europe/Amsterdam:20261023T110000
@@ -521,7 +521,7 @@ DESCRIPTION:Human Development · Lecture VI (Session 6)\nLecturer: Kristof
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-Office@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Policy Evaluation Office hour: Walk-in office hours to discuss the 
  Pre-Analysis Plan
 DTSTART;VALUE=DATE:20261023
@@ -534,7 +534,7 @@ DESCRIPTION:Public Policy Evaluation · Office hour (Lecture 8)\nLecturer:
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-5.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture V: Innovation systems: national\, s
  ectoral\, regional
 DTSTART;TZID=Europe/Amsterdam:20261028T133000
@@ -556,7 +556,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture V (Week 5\, 5
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-5.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture V: Modelling structural change\, innova
  tion and economic development
 DTSTART;TZID=Europe/Amsterdam:20261029T133000
@@ -570,7 +570,7 @@ DESCRIPTION:Socio-Economic Development · Lecture V (Week 5\, 5.2)\nLecture
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S7@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture VII: Financing and inequality in health a
  nd healthcare
 DTSTART;TZID=Europe/Amsterdam:20261030T090000
@@ -581,7 +581,7 @@ DESCRIPTION:Human Development · Lecture VII (Session 7)\nLecturer: Wim Gro
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-6.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture VI: Technological paradigms and tra
  jectories
 DTSTART;TZID=Europe/Amsterdam:20261104T133000
@@ -600,7 +600,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture VI (Week 6\,
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-6.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture VI: Appropriate technologies
 DTSTART;TZID=Europe/Amsterdam:20261105T133000
 DTEND;TZID=Europe/Amsterdam:20261105T153000
@@ -618,7 +618,7 @@ DESCRIPTION:Socio-Economic Development · Lecture VI (Week 6\, 6.2)\nLectur
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S8@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture VIII: Inequality dimensions
 DTSTART;TZID=Europe/Amsterdam:20261106T110000
 DTEND;TZID=Europe/Amsterdam:20261106T130000
@@ -639,7 +639,7 @@ DESCRIPTION:Human Development · Lecture VIII (Session 8)\nLecturer: Bruno
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-7.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture VII: Innovation Indicators
 DTSTART;TZID=Europe/Amsterdam:20261111T133000
 DTEND;TZID=Europe/Amsterdam:20261111T153000
@@ -658,7 +658,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture VII (Week 7\,
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-7.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture VII: Innovation and production capabili
  ties
 DTSTART;TZID=Europe/Amsterdam:20261112T133000
@@ -677,7 +677,7 @@ DESCRIPTION:Socio-Economic Development · Lecture VII (Week 7\, 7.2)\nLectu
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S9@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture IX: Gender (in)equality - causes and cons
  equences
 DTSTART;TZID=Europe/Amsterdam:20261113T110000
@@ -694,7 +694,7 @@ DESCRIPTION:Human Development · Lecture IX (Session 9)\nLecturer: Eleonora
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-8.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture VIII: Automation and employment
 DTSTART;TZID=Europe/Amsterdam:20261118T133000
 DTEND;TZID=Europe/Amsterdam:20261118T153000
@@ -712,7 +712,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture VIII (Week 8\
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-8.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture VIII: Trade\, GVCs\, FDI and developmen
  t
 DTSTART;TZID=Europe/Amsterdam:20261119T133000
@@ -733,7 +733,7 @@ DESCRIPTION:Socio-Economic Development · Lecture VIII (Week 8\, 8.2)\nLect
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S10@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture X: Migration and development
 DTSTART;TZID=Europe/Amsterdam:20261120T110000
 DTEND;TZID=Europe/Amsterdam:20261120T130000
@@ -744,7 +744,7 @@ DESCRIPTION:Human Development · Lecture X (Session 10)\nLecturer: Melissa
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-9.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture IX: Climate change and sustainabili
  ty
 DTSTART;TZID=Europe/Amsterdam:20261125T133000
@@ -766,7 +766,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture IX (Week 9\,
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-9.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture IX: Institutions
 DTSTART;TZID=Europe/Amsterdam:20261126T133000
 DTEND;TZID=Europe/Amsterdam:20261126T153000
@@ -786,7 +786,7 @@ DESCRIPTION:Socio-Economic Development · Lecture IX (Week 9\, 9.2)\nLectur
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S11@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture XI: Climate change: unequal vulnerability
  \, strategies\, and human behavior
 DTSTART;TZID=Europe/Amsterdam:20261127T110000
@@ -806,7 +806,7 @@ DESCRIPTION:Human Development · Lecture XI (Session 11)\nLecturer: Sanae O
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-10.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture X: Technological change\, structura
  l change and inequality
 DTSTART;TZID=Europe/Amsterdam:20261202T133000
@@ -826,7 +826,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture X (Week 10\,
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-10.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture X: Intellectual property rights and dev
  elopment
 DTSTART;TZID=Europe/Amsterdam:20261203T133000
@@ -843,7 +843,7 @@ DESCRIPTION:Socio-Economic Development · Lecture X (Week 10\, 10.2)\nLectu
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S12@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture XII: The welfare state\, social protectio
  n and poverty
 DTSTART;TZID=Europe/Amsterdam:20261204T090000
@@ -870,7 +870,7 @@ DESCRIPTION:Human Development · Lecture XII (Session 12)\nLecturer: Franzi
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S13@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture XIII: Taxation and inequality
 DTSTART;TZID=Europe/Amsterdam:20261204T110000
 DTEND;TZID=Europe/Amsterdam:20261204T130000
@@ -900,7 +900,7 @@ DESCRIPTION:Human Development · Lecture XIII (Session 13)\nLecturer: Bruno
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-11.1@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Technology & Innovation Lecture XI: Innovation policies
 DTSTART;TZID=Europe/Amsterdam:20261209T133000
 DTEND;TZID=Europe/Amsterdam:20261209T153000
@@ -920,7 +920,7 @@ DESCRIPTION:Economics of Technology and Innovation · Lecture XI (Week 11\,
 END:VEVENT
 BEGIN:VEVENT
 UID:SED-11.2@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Socio-Economic Dev. Lecture XI: Industrial policies
 DTSTART;TZID=Europe/Amsterdam:20261210T133000
 DTEND;TZID=Europe/Amsterdam:20261210T153000
@@ -937,7 +937,7 @@ DESCRIPTION:Socio-Economic Development · Lecture XI (Week 11\, 11.2)\nLect
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S14@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture XIV: The political economy of inequality
 DTSTART;TZID=Europe/Amsterdam:20261211T110000
 DTEND;TZID=Europe/Amsterdam:20261211T130000
@@ -969,7 +969,7 @@ DESCRIPTION:Human Development · Lecture XIV (Session 14)\nLecturer: Bruno
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S15@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture XV: Fellows present their topic
 DTSTART;TZID=Europe/Amsterdam:20261218T090000
 DTEND;TZID=Europe/Amsterdam:20261218T110000
@@ -982,7 +982,7 @@ DESCRIPTION:Human Development · Lecture XV (Session 15)\nLecturer: Bruno M
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-S16@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Human Development Lecture XVI: Fellows present their topic
 DTSTART;TZID=Europe/Amsterdam:20261218T110000
 DTEND;TZID=Europe/Amsterdam:20261218T130000
@@ -995,7 +995,7 @@ DESCRIPTION:Human Development · Lecture XVI (Session 16)\nLecturer: Bruno
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-poverty-measure@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:PRESENTATION: Presentation: your ideal global poverty measure
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
@@ -1006,7 +1006,7 @@ DESCRIPTION:Human Development\nEach fellow presents an ideal global poverty
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-SED-presenter-list@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:DUE: Send the presentation list (ETI and SED)
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
@@ -1017,7 +1017,7 @@ DESCRIPTION:Economics of Technology and Innovation\nOne student emails a si
 END:VEVENT
 BEGIN:VEVENT
 UID:PPE-exam@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:EXAM: Take-home exam\, Public Policy Evaluation
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
@@ -1028,7 +1028,7 @@ DESCRIPTION:Public Policy Evaluation\nWeight 50%. The source gives 25 Octob
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-group-work@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:PRESENTATION: Group presentation: dimensions of inequality
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -1038,7 +1038,7 @@ DESCRIPTION:Human Development\n10-minute group presentation on an assigned
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-topic-presentation@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:PRESENTATION: Presentation of your research proposal idea
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
@@ -1048,7 +1048,7 @@ DESCRIPTION:Human Development\n20-minute slot: about 10 minutes of presenta
 END:VEVENT
 BEGIN:VEVENT
 UID:HD-final@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:DUE: Final assignment: research proposal\, Human Development
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
@@ -1058,7 +1058,7 @@ DESCRIPTION:Human Development\nIndividual short research proposal\, 2\,000
 END:VEVENT
 BEGIN:VEVENT
 UID:ETI-SED-final@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:DUE: Final integrated essay (ETI and SED)
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
@@ -1070,7 +1070,7 @@ DESCRIPTION:Economics of Technology and Innovation\nMax. 5\,000 words\; 60%
 END:VEVENT
 BEGIN:VEVENT
 UID:Y1-proposal@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:DUE: PhD proposal submission to the PhD Office
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
@@ -1081,7 +1081,7 @@ DESCRIPTION:Programme\nNo later than 20 May. Max. 4\,000 words excluding re
 END:VEVENT
 BEGIN:VEVENT
 UID:Y1-revision@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:DUE: Proposal resubmission (only if “Revision”)
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
@@ -1092,7 +1092,7 @@ DESCRIPTION:Programme\nThe welcome presentation gives 31 August for resubmi
 END:VEVENT
 BEGIN:VEVENT
 UID:sept-event@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:September PhD event (Research Week and Internal Conference)
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20261001
@@ -1102,7 +1102,7 @@ DESCRIPTION:Skills trainings\, first-year proposal presentations (22–23 S
 END:VEVENT
 BEGIN:VEVENT
 UID:reg-p3@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:SBE course registration deadline\, education period 3
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
@@ -1111,7 +1111,7 @@ DESCRIPTION:Midnight Dutch time.
 END:VEVENT
 BEGIN:VEVENT
 UID:reg-p4@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:SBE course registration deadline\, education period 4
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
@@ -1120,7 +1120,7 @@ DESCRIPTION:Midnight Dutch time.
 END:VEVENT
 BEGIN:VEVENT
 UID:xmas@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Christmas holidays
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20270102
@@ -1130,7 +1130,7 @@ DESCRIPTION:The academic calendar prints “25/01/2026 – 01/01/2027”\;
 END:VEVENT
 BEGIN:VEVENT
 UID:coursework-end@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:End of mandatory coursework (semester 1)
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
@@ -1140,7 +1140,7 @@ DESCRIPTION:Mandatory coursework runs until the end of January\; minimum gr
 END:VEVENT
 BEGIN:VEVENT
 UID:carnival@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Carnival
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270213
@@ -1149,7 +1149,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:reg-p5@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:SBE course registration deadline\, education period 5
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
@@ -1158,7 +1158,7 @@ DESCRIPTION:Midnight Dutch time.
 END:VEVENT
 BEGIN:VEVENT
 UID:march-week@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:March Research Week (mandatory)
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270327
@@ -1168,7 +1168,7 @@ DESCRIPTION:Proposal progress presentations\, higher-year presentations\, s
 END:VEVENT
 BEGIN:VEVENT
 UID:goodfriday@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Good Friday
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
@@ -1177,7 +1177,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:easter@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Easter Monday
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
@@ -1186,7 +1186,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:reg-p6@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:SBE course registration deadline\, education period 6
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
@@ -1195,7 +1195,7 @@ DESCRIPTION:Midnight Dutch time.
 END:VEVENT
 BEGIN:VEVENT
 UID:kingsday@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Bridge Day and King’s Day
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270428
@@ -1204,7 +1204,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:liberation@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Liberation Day
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
@@ -1213,7 +1213,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:ascension@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Ascension Day and Bridge Day
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270508
@@ -1222,7 +1222,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:whit@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:Whit Monday
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
@@ -1231,7 +1231,7 @@ DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:agreement@unu-merit-calendar
-DTSTAMP:20261007T231603Z
+DTSTAMP:20261007T232229Z
 SUMMARY:PhD Agreement to the PhD Office (after admission to year 2)
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001

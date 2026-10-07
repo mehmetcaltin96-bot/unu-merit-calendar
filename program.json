@@ -512,7 +512,7 @@
    "course": "SED",
    "number": "Lecture II",
    "source_label": "Week 2, 2.2",
-   "title": "What is (socio)-economic development and how is it linked to innovation and",
+   "title": "What is (socio)-economic development and how is it linked to innovation and technological change?",
    "type": "lecture",
    "date": "2026-10-08",
    "start": "13:30",
@@ -2016,7 +2016,8 @@
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/ETI_2_InnovationProperties2026.pdf"
-   ]
+   ],
+   "course_label": "Economics of Technology and Innovation · Socio-Economic Development"
   },
   {
    "id": "PPE-exam",
@@ -2083,7 +2084,8 @@
    "confidence": "MEDIUM",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
-   ]
+   ],
+   "course_label": "Economics of Technology and Innovation · Socio-Economic Development"
   },
   {
    "id": "HD-topic-presentation",
@@ -2125,7 +2127,8 @@
    "confidence": "MEDIUM",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
-   ]
+   ],
+   "course_label": "Economics of Technology and Innovation · Socio-Economic Development"
   },
   {
    "id": "Y1-proposal",
