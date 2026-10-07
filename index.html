@@ -250,7 +250,7 @@ function render(V){
     return `<h3><i class="sw sw-${c.code}"></i>${esc(c.name)}</h3><dl class="facts"><dt>Lecturers</dt><dd>${esc(c.lecturers)}</dd><dt>Sessions</dt><dd>${ss.length} (${short(D(a.date))} – ${short(D(z.date))})</dd><dt>Assessment</dt><dd>${c.assessment.map(esc).join('<br>')}</dd></dl>`}).join('');
 
   // Source notes
-  const re=/spreadsheet|TBC|not given|not confirmed|overlap|outline/i;
+  const re=/spreadsheet|TBC|not given|not confirmed|overlap|outline|calls this lecture|date change/i;
   const notes=[];
   V.sessions.forEach(o=>(o.notes||[]).filter(n=>re.test(n)).forEach(n=>notes.push(`<li><b>${esc(C[o.course].short)} ${esc(o.number)}</b> (${short(D(o.date))}): ${esc(n)}</li>`)));
   V.deadlines.filter(t=>t.confidence!=='HIGH').forEach(t=>notes.push(`<li><b>${esc(t.title)}</b>: ${esc(t.details)}</li>`));

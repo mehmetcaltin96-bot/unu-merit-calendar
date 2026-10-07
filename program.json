@@ -293,18 +293,23 @@
    "room": "Belvedere Room 3",
    "lecturer": "Matilde João Mota",
    "readings": {
-    "required": [],
+    "required": [
+     "Olken, B. A. (2007). Monitoring Corruption: Evidence from a Field Experiment in Indonesia. Journal of Political Economy, 115, 200–249. (Part A of the exercises)"
+    ],
     "additional": [],
     "optional": []
    },
    "essay_questions": [],
    "notes": [
-    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
+    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in.",
+    "Part B uses data from a visa lottery study on migration from Tonga to New Zealand (Table 1 in the exercise sheet)."
    ],
    "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/Tutorials/Tutorial 1/PPE_T1.pdf",
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/Lecture slides/PPE-2026-Lecture3-slides.pdf"
    ]
   },
   {
@@ -344,7 +349,7 @@
    "course": "PPE",
    "number": "Lecture IV",
    "source_label": "Lecture 4",
-   "title": "Difference-in-differences design I",
+   "title": "Difference in Differences",
    "type": "lecture",
    "date": "2026-10-05",
    "start": "11:00",
@@ -360,12 +365,14 @@
    },
    "essay_questions": [],
    "notes": [
+    "Slides of 5 October cover fixed effects, 2×2 difference-in-differences, event studies and synthetic control. The course manual (10 September) calls this lecture “DID design I”.",
     "Empirical application papers: TBC in the course manual (to be announced)."
    ],
    "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/Lecture slides/PPE-2026-Lecture4-slides.pptx"
    ]
   },
   {
@@ -408,13 +415,13 @@
     "What are the implications of innovation heterogeneity and path dependence for economic development?"
    ],
    "notes": [
-    "The lecture slides are dated Tuesday 6 October 2026 and refer to the SED lecture as \"tomorrow\"; the coursework spreadsheet lists this topic on Thursday 8 October 13:30–15:30. Time not confirmed."
+    "Moved from Wednesday 7 to Tuesday 6 October (lecturer’s course calendar, slides of 22 September; the lecture slides are dated 6 October). Time not given in the sources."
    ],
    "confidence": "MEDIUM",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/ETI_2_InnovationProperties2026.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
    ]
   },
   {
@@ -422,7 +429,7 @@
    "course": "PPE",
    "number": "Lecture V",
    "source_label": "Lecture 5",
-   "title": "Difference-in-differences design II",
+   "title": "Propensity Score Matching",
    "type": "lecture",
    "date": "2026-10-07",
    "start": "09:00",
@@ -445,12 +452,14 @@
    },
    "essay_questions": [],
    "notes": [
+    "Slides of 7 October cover controls, stratification, matching, propensity score matching and matched difference-in-differences. The course manual (10 September) calls this lecture “DID design II” and lists the difference-in-differences readings below.",
     "Empirical application papers: TBC in the course manual (to be announced)."
    ],
    "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/Lecture slides/PPE-2026-Lecture5-slides.pptx"
    ]
   },
   {
@@ -485,11 +494,14 @@
     "Recently, the Nobel prize winning economist Joseph Stiglitz has suggested that it is ‘time to retire metrics like GDP’ (24th November 2019, The Guardian). Critically discuss this statement. What alternatives to GDP would you recommend measuring socio-economic development?",
     "What are the main opportunities and challenges that new technologies and innovation provide for economic and social development? Do these opportunities and challenges differ between low- and high-income countries?"
    ],
-   "notes": [],
-   "confidence": "HIGH",
+   "notes": [
+    "The lecturer’s course calendar (22 September) lists 8 October; the coursework spreadsheet and the ETI slides of 6 October (“tomorrow”) give Wednesday 7 October."
+   ],
+   "confidence": "MEDIUM",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
    ]
   },
   {
@@ -497,7 +509,7 @@
    "course": "PPE",
    "number": "Tutorial II",
    "source_label": "Tutorial 2",
-   "title": "Replication exercise: difference-in-differences",
+   "title": "Difference-in-differences and propensity score matching (replication)",
    "type": "tutorial",
    "date": "2026-10-08",
    "start": "09:00",
@@ -505,18 +517,36 @@
    "room": "Belvedere Room 3",
    "lecturer": "Matilde João Mota",
    "readings": {
-    "required": [],
-    "additional": [],
+    "required": [
+     "Grosjean, P., Masera, F., & Yousaf, H. (2023). Inflammatory Political Campaigns and Racial Bias in Policing. The Quarterly Journal of Economics, 138(1), 413–463. https://doi.org/10.1093/qje/qjac037",
+     "Goodman-Bacon, A. (2021). Difference-in-differences with variation in treatment timing. Journal of Econometrics, 225(2), 254–277. https://doi.org/10.1016/j.jeconom.2021.03.014",
+     "Callaway, B., & Sant’Anna, P. H. C. (2021). Difference-in-Differences with multiple time periods. Journal of Econometrics, 225(2), 200–230. https://doi.org/10.1016/j.jeconom.2020.12.001",
+     "Smith, J. A., & Todd, P. E. (2005). Does matching overcome LaLonde’s critique of nonexperimental estimators? Journal of Econometrics, 125(1–2), 305–353. https://doi.org/10.1016/j.jeconom.2004.04.011"
+    ],
+    "additional": [
+     "Baker, A., Callaway, B., Cunningham, S., Goodman-Bacon, A., & Sant’Anna, P. H. C. (2026). Difference-in-Differences Designs: A Practitioner’s Guide. Journal of Economic Literature, 64(2), 498–557. https://doi.org/10.1257/jel.20251650",
+     "Roth, J., Sant’Anna, P. H. C., Bilinski, A., & Poe, J. (2023). What’s trending in difference-in-differences? A synthesis of the recent econometrics literature. Journal of Econometrics, 235(2), 2218–2244. https://doi.org/10.1016/j.jeconom.2023.03.008",
+     "Sun, L., & Abraham, S. (2021). Estimating dynamic treatment effects in event studies with heterogeneous treatment effects. Journal of Econometrics, 225(2), 175–199. https://doi.org/10.1016/j.jeconom.2020.09.006",
+     "de Chaisemartin, C., & D’Haultfœuille, X. (2020). Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects. American Economic Review, 110(9), 2964–2996. https://doi.org/10.1257/aer.20181169",
+     "Roth, J. (2022). Pretest with Caution: Event-Study Estimates after Testing for Parallel Trends. American Economic Review: Insights, 4(3), 305–322. https://doi.org/10.1257/aeri.20210236",
+     "Callaway, B., Goodman-Bacon, A., & Sant’Anna, P. H. C. (2024). Event Studies with a Continuous Treatment. AEA Papers and Proceedings, 114, 601–605. https://doi.org/10.1257/pandp.20241047",
+     "Sant’Anna, P. H. C., & Zhao, J. (2020). Doubly robust difference-in-differences estimators. Journal of Econometrics, 219(1), 101–122. https://doi.org/10.1016/j.jeconom.2020.06.003",
+     "Olden, A., & Møen, J. (2022). The triple difference estimator. The Econometrics Journal, 25(3), 531–553. https://doi.org/10.1093/ectj/utac010",
+     "Rosenbaum, P. R., & Rubin, D. B. (1983). The central role of the propensity score in observational studies for causal effects. Biometrika, 70(1), 41–55. https://doi.org/10.1093/biomet/70.1.41",
+     "Heckman, J. J., Ichimura, H., & Todd, P. E. (1997). Matching as an Econometric Evaluation Estimator: Evidence from Evaluating a Job Training Programme. The Review of Economic Studies, 64(4), 605–654. https://doi.org/10.2307/2971733"
+    ],
     "optional": []
    },
    "essay_questions": [],
    "notes": [
-    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
+    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in.",
+    "Stata replication on a synthetic dataset modelled on Grosjean, Masera and Yousaf (2023). Required readings are the ones the exercises cite directly (marked * in the do-file); the rest are suggested background."
    ],
    "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/Tutorials/Tutorial 2/T2_DiDPSM_student.do"
    ]
   },
   {
@@ -604,12 +634,15 @@
    },
    "essay_questions": [],
    "notes": [
+    "Lecturer’s plan for lectures 4–6 (slides of 5 and 7 October): latent confounders (fixed effects, difference-in-differences), observable confounders (controls, propensity score matching, doubly robust estimators), exogenous variation (regression discontinuity, Bartik instruments).",
     "Empirical application papers: TBC in the course manual (to be announced)."
    ],
    "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/Lecture slides/PPE-2026-Lecture4-slides.pptx",
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/Lecture slides/PPE-2026-Lecture5-slides.pptx"
    ]
   },
   {
@@ -722,12 +755,13 @@
     "How do the evolutionary and mainstream perspectives differ with regard to the way they view technological change?"
    ],
    "notes": [
-    "The integrated outline gives a 10:00 start (end time not stated); the coursework spreadsheet gives 13:30–15:30 for this lecture. A 10:00 start overlaps with Policy Evaluation Tutorial III (09:00–11:00). Check with the lecturer."
+    "Moved to the morning (lecturer’s course calendar: “time change to morning”; integrated outline: 10:00). End time not stated. A 10:00 start overlaps with Policy Evaluation Tutorial III (09:00–11:00): check with the lecturers."
    ],
    "confidence": "MEDIUM",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
    ]
   },
   {
@@ -1244,11 +1278,13 @@
    ],
    "notes": [
     "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
-    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics.",
+    "Possible date change: the lecturer’s course calendar of 22 September says “date change to 10 Nov” (Tuesday), but the integrated outline of 5 October still lists week 7 as 11–12 November. Shown on 11 November until confirmed."
    ],
    "confidence": "MEDIUM",
    "sources": [
-    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourse2026_Verspagen_ETI_1.pdf"
    ]
   },
   {
