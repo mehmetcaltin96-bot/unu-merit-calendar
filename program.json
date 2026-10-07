@@ -1,0 +1,2335 @@
+{
+ "meta": {
+  "title": "UNU-MERIT PhD · Full-time Year 1 · 2026–27",
+  "updated": "2026-10-08",
+  "note": "Source: the cohort OneDrive folder “FT First-year ’26-27” (version of 7 October 2026). Zoom links and e-mail addresses are deliberately not published."
+ },
+ "courses": [
+  {
+   "code": "PPE",
+   "name": "Public Policy Evaluation",
+   "short": "Policy Evaluation",
+   "lecturers": "Eleonora (Lonneke) Nillesen, Emanuele Pugliese, Matilde João Mota",
+   "assessment": [
+    "Individual Pre-Analysis Plan (PAP): 30%",
+    "Referee report on an assigned paper: 20%",
+    "Take-home exam: 50%"
+   ],
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "code": "HD",
+   "name": "Human Development",
+   "short": "Human Development",
+   "lecturers": "Bruno Martorano (coordinator)",
+   "assessment": [
+    "Written assignment: individual short research proposal, 2,000 words, due 15 January 2027"
+   ],
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "code": "ETI",
+   "name": "Economics of Technology and Innovation",
+   "short": "Technology & Innovation",
+   "lecturers": "Tommaso Ciarli & Bart Verspagen",
+   "assessment": [
+    "40%: two short essays (max 2,000 words each), two 20-minute presentations (one per course, ETI and SED) and class participation; essay due on the day of the presentation",
+    "60%: integrated final essay (max 5,000 words) combining one lecture from each course, different from the presented ones; due 23 January 2027 (final date TBC)"
+   ],
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "code": "SED",
+   "name": "Socio-Economic Development",
+   "short": "Socio-Economic Dev.",
+   "lecturers": "Tommaso Ciarli & Bart Verspagen",
+   "assessment": [
+    "Assessment shared with Economics of Technology and Innovation (see there)."
+   ],
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  }
+ ],
+ "sessions": [
+  {
+   "id": "PPE-Lecture1",
+   "course": "PPE",
+   "number": "Lecture I",
+   "source_label": "Lecture 1",
+   "title": "Causal Inference I",
+   "type": "lecture",
+   "date": "2026-09-15",
+   "start": "14:00",
+   "end": "16:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Lonneke Nillesen",
+   "readings": {
+    "required": [
+     "Causal inference – the Remix, Ch. 4 Potential Outcomes and Randomization, sections 4.1 – 4.2 (fallacies; potential outcomes)",
+     "Stein, D., & Valters, C. (2012). Understanding theory of change in international development."
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Lecture2",
+   "course": "PPE",
+   "number": "Lecture II",
+   "source_label": "Lecture 2",
+   "title": "Causal Inference II",
+   "type": "lecture",
+   "date": "2026-09-16",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Lonneke Nillesen",
+   "readings": {
+    "required": [
+     "Causal inference – the Remix, Ch. 4 Potential Outcomes and Randomization, sections 4.3 – 4.5 (perfect vs bad doctor; randomization; SUTVA).",
+     "Duflo, Glennerster & Kremer (2008), section 8.2 (Hawthorne and John Henry effects)"
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-1.1",
+   "course": "ETI",
+   "number": "Lecture I",
+   "source_label": "Week 1, 1.1",
+   "title": "Systems and evolutionary economics: a history and theory view",
+   "type": "lecture",
+   "date": "2026-09-22",
+   "start": "10:30",
+   "end": "12:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Freeman, C. & C. Perez, 1988, Structural Crises of Adjustment, Business Cycles and Investment Behaviour, in G. Dosi et al. (eds.) Technical Change and Economic Theory, Francis Pinter, London 1988, pp. 38-66",
+     "Fagerberg, J and B. Verspagen, 2021, Technological revolutions, Structural Change and Catching Up, in N. Foster-McGregor et al (eds.), New Perspectives on Structural Change, Oxford University Press.",
+     "Berger, S. (Ed.). (2009). The Foundations of Non-Equilibrium Economics: The principle of circular and cumulative causation (1st ed.). Routledge. https://doi.org/10.4324/9780203873731, Especially Chapter 6 by P.A. O’Hara (Check Google Scholar for a preprint)"
+    ],
+    "additional": [
+     "Arthur, W. Brian. 2015. Complexity and the Economy, New York: Oxford University Press.",
+     "Ciarli, T., 2012, Structural interactions and long run growth: An application of Experimental Design to Agent Based Models, Revue de l’OFCE, Debates and policies, 124:295–345.",
+     "Iwai, K., 2000, A contribution to the evolutionary theory of innovation, imitation and growth, Journal of Economic Behavior & Organization, vol. 43, pp. 167-198",
+     "Kaldor, N., 1970, The case for regional policies, Scottish Journal of Political Economy, 17: 337-348. https://doi.org/10.1111/j.1467-9485.1970.tb00712.x",
+     "Kuznets, S., 1973, Modern Economic Growth: Findings and Reflections, American Economic Review, 63(3):247–258.",
+     "Chapter 9 in Nelson, R.R. and S.G. Winter, 1982, An Evolutionary Theory of Economic Change, Boston: Belknap Press, pp. 206-232.",
+     "Nomaler, Ö and B. Verspagen, Complexity research in economics: past, present and future, UNU-MERIT working paper 2022-023.",
+     "Nuvolari, A. and B. Verspagen, 2009, Technical choice, innovation, and British steam engineering, 1800–50, Economic History Review, vol. 62, pp. 685-710.",
+     "McCloskey, D. N., 2009, Science, Bourgeois Dignity, and the Industrial Revolution, MPRA Paper 22308.",
+     "Saviotti, P. P. and Gaffard, J. L., 2008, Preface for the special issue of JEE on ’Innovation, structural change and economic development’, Journal of Evolutionary Economics, 18(2):115–117.",
+     "Chapter 2 in Schumpeter, J.A., 1934, The Theory of Economic Development, Oxford University Press.",
+     "Soete, L., Verspagen, B. & B. ter Weel, 2010, Systems of Innovation, in: Hall, B. H. and Rosenberg, N. (eds), Handbook of the Economics of Innovation, Elsevier, Amsterdam, pp 1159-1180"
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How do technological revolutions shape economic development?",
+    "Are technological revolutions evolutionary in nature?",
+    "What role does agent rationality play in the evolutionary economic system?",
+    "What role does equilibrium play in the evolutionary economic system?",
+    "How can we identify causality in evolutionary systems?",
+    "What does cumulative causation imply for economic development?"
+   ],
+   "notes": [
+    "Held during the September Research Week as \"Thematic session 1: Innovation and development\" (Research Week programme: 10:30–12:30; coursework spreadsheet: 11:00–13:00)."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/September event/Research Week Sept - Programme 2026.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Lecture3",
+   "course": "PPE",
+   "number": "Lecture III",
+   "source_label": "Lecture 3",
+   "title": "Randomized designs",
+   "type": "lecture",
+   "date": "2026-09-23",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Lonneke Nillesen",
+   "readings": {
+    "required": [
+     "Causal inference – the Remix, Ch. 7 Instrumental Variables, section 7.5 (Local Average Treatment Effect)",
+     "Duflo, Glennerster & Kremer (2008), sections 5 and 6 (design, compliance, externalities, attrition) and 7.2 (multiple outcomes)",
+     "Bhatt, M. P., Heller, S. B., Kapustin, M., Bertrand, M., & Blattman, C. (2024). Predicting and preventing gun violence: An experimental evaluation of READI Chicago. The Quarterly Journal of Economics, 139(1), 1-56.",
+     "McKenzie, D., & Puerto, S. (2021). Growing markets through business training for female entrepreneurs: A market-level randomized experiment in Kenya. American Economic Journal: Applied Economics, 13(2), 297-332."
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Held during the September Research Week as \"Thematic session 2: Policy evaluation\"."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/September event/Research Week Sept - Programme 2026.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S1",
+   "course": "HD",
+   "number": "Lecture I",
+   "source_label": "Session 1",
+   "title": "Introduction to the course",
+   "type": "lecture",
+   "date": "2026-09-29",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bruno Martorano",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Held during the September Research Week as \"Thematic session 3: Human development\". The coursework spreadsheet gives Monday 28 September 14:00–16:00; the course manual and the Research Week programme give Tuesday 29 September 09:00–11:00."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "FT First-year '26-27/September event/Research Week Sept - Programme 2026.xlsx"
+   ]
+  },
+  {
+   "id": "SED-1.2",
+   "course": "SED",
+   "number": "Lecture I",
+   "source_label": "Week 1, 1.2",
+   "title": "Technical Change, Structural Change and Economic Development",
+   "type": "lecture",
+   "date": "2026-09-29",
+   "start": "14:00",
+   "end": "16:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Amsden, A. H. (2001). Industrializing Late. In Amsden, A. H., editor, The Rise of “the Rest”: Challenges to the West from Late Industrializing Economies, chapter 1, pages 1–28. Oxford University Press.",
+     "Dosi, G., & Nelson, R. R. (2010). Technical Change and Industrial Dynamics as Evolutionary Processes. In B. H. Hall & N. Rosenberg (Eds.), Handbook of the Economics of Innovation (Vol. 1, pp. 51–127). Elsevier. https://doi.org/10.1016/S0169-7218(10)01003-8",
+     "Fagerberg, J., Srholec, M., & Verspagen, B. (2010). Innovation and economic development. Handbook of the Economics of Innovation, 2(1), 833–872. https://doi.org/10.1016/S0169-7218(10)02004-6"
+    ],
+    "additional": [
+     "Bell, M. and Pavitt, K. (1993). Technological Accumulation and Industrial Growth: Contrast Between Developed and Developing Countries. Industrial and Corporate Change, 2(2):157–210.",
+     "Ciarli, T. and Di Maio, M. (2014). Theoretical arguments for industrialisation- driven growth and economic development. In Matambalya, F. A. S. T., editor, African Industrial Development and European Union Co-operation. Prospects for a reengineered partnership. Routledge.",
+     "Cimoli, M., Dosi, G., and Stiglitz, J. E. (2009). Industrial Policy and Development: The Political Economy of Capabilities Accumulation. Oxford University Press.",
+     "Cimoli, M. and Porcile, G. (2009). Sources of learning paths and technological capabilities: an introductory roadmap of development processes. Economics of Innovation and New Technology, 18(7):675–694.",
+     "Cirera, X. and Maloney, W. F. (2017). The Innovation Paradox: Developing- Country Capabilities and the Unrealized Promise of Technological Catch-Up. Technical report, The World Bank, Washington DC.",
+     "Cirera, X., Comin, D., & Cruz, M. (2022). Bridging the Technological Divide: Technology Adoption by Firms in Developing Countries. Washington DC: World Bank.",
+     "Comin, D., & Mestieri, M. (2018). If technology has arrived everywhere, why has income diverged? American Economic Journal: Macroeconomics, 10(3), 137–178.",
+     "Fagerberg, J., Mowery, D. C., & Nelson, R. R. (Eds.). (2006). The Oxford Handbook of Innovation. Oxford: OUP Oxford. Retrieved from https://books.google.com/books?id=Y2LzsML20ngC&pgis=1",
+     "Fagerberg, J. and Srholec, M. (2010). Innovation Systems, Technology and Development: Unpacking the Relationships. In Lundvall, B.-b., Joseph, K. J., Chaminade, C., and Vang, J., editors, Handbook Of Innovation Systems And Developing Countries. Building Domestic Capabilities in a Global Setting, chapter 4, pages 83–115. Edward Elgar, Cheltenham.",
+     "Fagerberg, J. and Verspagen, B. (2020). Technological revolutions, structural change & catching-up.",
+     "Hall, B. H., & Rosenberg, N. (Eds.). (2010). Handbook of The Economics of Innovation (Vol. 1 & 2). Oxford: Elsevier.",
+     "Katz, J. (1985). Domestic Technological Innovations and Dynamic Comparative Advantages: Further Reflections on Comparative Case-Study Program. In Rosenberg, N. and Frischtak, C., editors, International Technology Transfer: Concepts Measures and Comparisons. Praeger Publishers, New York.",
+     "Kremer, M., Willis, J., & You, Y. (2022). Converging to convergence. NBER Macroeconomics Annual, 36",
+     "Rodrik, D., & Stiglitz, J. E. (2024). A new growth strategy for developing nations. In L. Y. Ing & D. Rodrik (Eds.), The New Global Economic Order. Routledge",
+     "Lall, S. (1992). Technological capabilities and industrialization. World Development, 20(2):165–186.",
+     "World Bank (2024). World Development Report 2024: The Middle-Income Trap."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How do technical change and structural change co-evolve, and why is this co- evolution central to understanding long-run economic development?",
+    "In what ways can technical change generate both opportunities for, and barriers to, economic convergence across countries?",
+    "What explains the \"great divergence\" in economic growth, and why have only some countries managed to catch up while others have not?"
+   ],
+   "notes": [
+    "Held during the September Research Week as \"Thematic session 4\"."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/September event/Research Week Sept - Programme 2026.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Tutorial1",
+   "course": "PPE",
+   "number": "Tutorial I",
+   "source_label": "Tutorial 1",
+   "title": "RCTs and causal inference",
+   "type": "tutorial",
+   "date": "2026-10-01",
+   "start": "14:00",
+   "end": "16:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Matilde João Mota",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S2",
+   "course": "HD",
+   "number": "Lecture II",
+   "source_label": "Session 2",
+   "title": "Poverty",
+   "type": "lecture",
+   "date": "2026-10-02",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Franziska Gassmann",
+   "readings": {
+    "required": [
+     "Alkire, S., Foster, J. (2011). Counting and Multidimensional Poverty Measurement. Journal of Public Economics, 95:467–487.",
+     "Ravallion, M. (2016). The Economics of Poverty. Oxford University Press. Chapters 3 and 5.",
+     "Ruggeri Laderchi, R., Saith, R., Stewart, F. (2003). Does it Matter that we do not Agree on the Definition of Poverty? A Comparison of Four Approaches. Oxford Development Studies, 31(3):243–274."
+    ],
+    "additional": [],
+    "optional": [
+     "Foster, Greer, Thorbecke (1984), ‘A Class of Decomposable Poverty Measures’, Econometrica, 52(3), pp. 761–766.",
+     "Sen, A. (1976), ‘Poverty: an Ordinal Approach to Measurement’, Econometrica, 44, 219– 231."
+    ]
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Lecture4",
+   "course": "PPE",
+   "number": "Lecture IV",
+   "source_label": "Lecture 4",
+   "title": "Difference-in-differences design I",
+   "type": "lecture",
+   "date": "2026-10-05",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Emanuele Pugliese",
+   "readings": {
+    "required": [
+     "Causal inference – the Remix, Ch. 9 Difference-in-Differences Fundamentals, sections 9.1 – 9.6"
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Empirical application papers: TBC in the course manual (to be announced)."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-2.1",
+   "course": "ETI",
+   "number": "Lecture II",
+   "source_label": "Week 2, 2.1",
+   "title": "Properties of technical change as an evolutionary process",
+   "type": "lecture",
+   "date": "2026-10-06",
+   "start": null,
+   "end": null,
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Dosi, G., & Nelson, R. R. (2010). Technical Change and Industrial Dynamics as Evolutionary Processes. In B. H. Hall & N. Rosenberg (Eds.), Handbook of the Economics of Innovation (Vol. 1, pp. 51–127). Elsevier. https://doi.org/10.1016/S0169-7218(10)01003-8",
+     "Fagerberg, J., 2005, Innovation: A guide to the literature, in: Fagerberg, J., Mowery, D. and R.R. Nelson (eds), Oxford Handbook of Innovation, Oxford University Press.",
+     "Metcalfe, J. Stan, 2014, Capitalism and Evolution, Journal of Evolutionary Economics 24 (1): 11–34. https://doi.org/10.1007/s00191-013-0307-7."
+    ],
+    "additional": [
+     "Arthur, W. B. (1989). \"Competing Technologies, Increasing Returns, and Lock-In by Historical Events.\" Economic Journal, 99(394): 116-131.",
+     "Arthur, Brian, 2014, The Economy Evolving as Its Technologies Evolve, in Arthur B. Complexity and the Economy, Oxford University Press.",
+     "Dosi, G. and Nelson, R. R., 2013, The Evolution of Technologies: An Assessment of the State-of-the-Art. Eurasian Business Review, 3(1):3–46.",
+     "Kelly, B., Papanikolaou, D., Seru, A., & Taddy, M. (2021). Measuring technological innovation over the long run. American Economic Review: Insights, 3(3), 303–320.",
+     "Kline, S. J., & Rosenberg, N. (1986). \"An Overview of Innovation.\" In The Positive Sum Strategy: Harnessing Technology for Economic Growth. National Academies Press.",
+     "Malerba, Franco, and Luigi Orsenigo (1997).Technological Regimes and Sectoral Patterns of Innovative Activities. Industrial and Corporate Change 6 (1): 83-118. doi:10.1093/icc/6.1.83.",
+     "Metcalfe, J. Stan, 1994, Competition, Fisher’s Principle and Increasing Returns in the Selection Process, Journal of Evolutionary Economics 4 (4): 327–46. https://doi.org/10.1007/BF01236409.",
+     "Nelson, R.R., & Winter, S.G. (1982). An Evolutionary Theory of Economic Change. Harvard University Press.",
+     "Silverberg, G. and Verspagen, B., 2007, The size distribution of innovations revisited: An application of extreme value statistics to citation and value measures of patent significance, Journal of Econometrics, 139(2):318–339.",
+     "Simon, H. A. and Bonini, C. P., 1958, The Size Distribution of Business Firms, American Economic Review, 48(4):607–617.",
+     "Verspagen, B., 2007, Mapping Technological Trajectories as Patent Citation Networks: A Study on the History of Fuel Cell Research, Advances in Complex Systems, 10(1):93."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "Why does an evolutionary approach better capture the properties of innovation (such as uncertainty, non-linearity, and heterogeneity) than linear models of technical change?",
+    "How do clustering in time and space, and the emergence of technological trajectories, shape long-run patterns of innovation and structural change?",
+    "In what ways does uncertainty (risk vs Knightian uncertainty) affect firms' innovation strategies and the broader dynamics of technical change?",
+    "What are the implications of innovation heterogeneity and path dependence for economic development?"
+   ],
+   "notes": [
+    "The lecture slides are dated Tuesday 6 October 2026 and refer to the SED lecture as \"tomorrow\"; the coursework spreadsheet lists this topic on Thursday 8 October 13:30–15:30. Time not confirmed."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/ETI_2_InnovationProperties2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Lecture5",
+   "course": "PPE",
+   "number": "Lecture V",
+   "source_label": "Lecture 5",
+   "title": "Difference-in-differences design II",
+   "type": "lecture",
+   "date": "2026-10-07",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Emanuele Pugliese",
+   "readings": {
+    "required": [
+     "Causal inference – the Remix, Ch. 10 Complex Diff-in-Diff Designs, sections 10.2 and 10.7 – 10.14"
+    ],
+    "additional": [],
+    "optional": [
+     "https://blogs.worldbank.org/impactevaluations/new-synthesis-and-key-lessons-recent-difference-differences-literature",
+     "https://blogs.worldbank.org/impactevaluations/what-are-we-estimating-when-we-estimate-difference-differences",
+     "https://blogs.worldbank.org/impactevaluations/did-you-see-beta-beta-who-part-1",
+     "https://blogs.worldbank.org/impactevaluations/did-you-see-beta-beta-who-part-2",
+     "https://blogs.worldbank.org/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-i-pre-trend",
+     "https://blogs.worldbank.org/impactevaluations/revisiting-difference-differences-parallel-trends-assumption-part-ii-what-happens"
+    ]
+   },
+   "essay_questions": [],
+   "notes": [
+    "Empirical application papers: TBC in the course manual (to be announced)."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "SED-2.2",
+   "course": "SED",
+   "number": "Lecture II",
+   "source_label": "Week 2, 2.2",
+   "title": "What is (socio)-economic development and how is it linked to innovation and",
+   "type": "lecture",
+   "date": "2026-10-07",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Fagerberg, J., Srholec, M., & Knell, M. (2007). The competitiveness of nations: Why some countries prosper while others fall behind. World development, 35(10), 1595-1620.",
+     "Szirmai, A., 2015, Developing countries and the concept of development, in A. Szirmai, Socio-economic development, Chapter 1, Cambridge University Press.",
+     "O’Rourke, K. H., & Williamson, J. G. (2005). From Malthus to Ohlin: Trade, industrialisation and distribution since 1500. Journal of Economic Growth, 10(1), 5-34."
+    ],
+    "additional": [
+     "Cirera, Xavier, and William F. Maloney, 2017, The Innovation Paradox: Developing- Country Capabilities and the Unrealized Promise of Technological Catch-Up, Washington DC.",
+     "Broadberry, S. and J. Wallis, 2017. Growing, Shrinking, and Long Run Economic Performance: Historical Perspectives on Economic Development. NBER WP No. 23343.",
+     "Nelson, R.R., 2008. Economic Development from the Perspective of Evolutionary Economic Theory. Oxford Development Studies, 36(1), 9-21.",
+     "Verspagen, B. (1991). A new empirical approach to catching up or falling behind. Structural change and economic dynamics, 2(2), 359-380.",
+     "Hopkins, T. K., & Wallerstein, I. (1977). Patterns of development of the modern world-system. Review (Fernand Braudel Center), 1(2), 111-145."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "What is meant by the term ‘development’? Based on your answer to this question, how would you suggest comparing development levels across countries and time?",
+    "Recently, the Nobel prize winning economist Joseph Stiglitz has suggested that it is ‘time to retire metrics like GDP’ (24th November 2019, The Guardian). Critically discuss this statement. What alternatives to GDP would you recommend measuring socio-economic development?",
+    "What are the main opportunities and challenges that new technologies and innovation provide for economic and social development? Do these opportunities and challenges differ between low- and high-income countries?"
+   ],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Tutorial2",
+   "course": "PPE",
+   "number": "Tutorial II",
+   "source_label": "Tutorial 2",
+   "title": "Replication exercise: difference-in-differences",
+   "type": "tutorial",
+   "date": "2026-10-08",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Matilde João Mota",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S3",
+   "course": "HD",
+   "number": "Lecture III",
+   "source_label": "Session 3",
+   "title": "Causes and consequences of poverty",
+   "type": "lecture",
+   "date": "2026-10-09",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Franziska Gassmann",
+   "readings": {
+    "required": [
+     "Haushofer, F. and E. Fehr (2014), On the Psychology of Poverty, Science, 344:862–867. DOI: 10.1126/science.1232491",
+     "Robles Aguilar, G., Sumner, A. (2020). Who are the world’s poor? A new profile of global multidimensional poverty. World Development, 126:1–15.",
+     "Ravallion, M. (2016), Are the world’s poorest being left behind?, Journal of Economic Growth, 21:139–164.",
+     "da Costa, L. P., Dias, J. G. (2015). What do Europeans Believe to be the Causes of Poverty? A Multilevel Analysis of Heterogeneity Within and Between Countries. Social Indicators Research, 122, 1–20. https://doi.org/10.1007/s11205-014-0672-0",
+     "de Bruijn, E. J., Antonides, G. (2022). Poverty and economic decision making: a review of scarcity theory. Theory and Decision, 92, 5–37. https://doi.org/10.1007/s11238-021-09802-7"
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S4",
+   "course": "HD",
+   "number": "Lecture IV",
+   "source_label": "Session 4",
+   "title": "The ideal global poverty measure?",
+   "type": "tutorial",
+   "date": "2026-10-09",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Franziska Gassmann",
+   "readings": {
+    "required": [
+     "Pu, C. J., Lambin, E. F., Kusimakwe, I., Gichia, K., Seme, A., Otupiri, F., Davis, J. (2024). How poverty is measured impacts who gets classified as impoverished. PNAS 121(7). doi.org/10.1073/pnas.2316730121.",
+     "Ravallion, M. (2016). The Economics of Poverty. Oxford University Press. Chapter 7.",
+     "Ravallion, M. (2016). Toward better global poverty measures. Journal of Economic Inequality, 14:227–248.",
+     "Ravallion, M. (2020). On measuring global poverty. Annual Review of Economics, 12:167– 88.",
+     "Samman, E. (2013). Eradicating global poverty: a noble goal, but how do we measure it? Working Paper 2. London: ODI."
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Tutorial: each fellow presents their ideal global poverty measure (max. 12 minutes), applied to real-world data. The readings listed are given as inspiration."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Lecture6",
+   "course": "PPE",
+   "number": "Lecture VI",
+   "source_label": "Lecture 6",
+   "title": "Regression Discontinuity Design",
+   "type": "lecture",
+   "date": "2026-10-13",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Emanuele Pugliese",
+   "readings": {
+    "required": [
+     "Causal inference – the Remix, Ch. 6 Regression Discontinuity, sections 6.1 – 6.4 and 6.7"
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Empirical application papers: TBC in the course manual (to be announced)."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-3.1",
+   "course": "ETI",
+   "number": "Lecture III",
+   "source_label": "Week 3, 3.1",
+   "title": "Science",
+   "type": "lecture",
+   "date": "2026-10-14",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Arthur Diamond, \"Economics of Science\" in Steven N. Durlauf and Lawrence E. Blume (eds.), \"The New Palgrave Dictionary of Economics\", 2008, 2nd Edition, Palgrave Macmillan UK. Reproduced with permission of Palgrave Macmillan.",
+     "Bloom, N., Jones, C. I., Van Reenen, J., & Webb, M. (2020). \"Are Ideas Getting Harder to Find?\" American Economic Review, 110(4): 1104-1144.",
+     "Fortunato, S., Bergstrom, C. T., Börner, K., Evans, J. A., Helbing, D., Milojević, S., … Barabási, A. L. (2018, March 2). Science of science. Science. American Association for the Advancement of Science. https://doi.org/10.1126/science.aao0185",
+     "Stephan, P. E. (2010). The Economics of Science. Handbook of the Economics of Innovation, 1(1 C), 217–273. https://doi.org/10.1016/S0169-7218(10)01005-1"
+    ],
+    "additional": [
+     "Arrow, Kenneth. \"Economic Welfare and the Allocation of Resources for Invention.\" In The Rate and Direction of Inventive Activity: Economic and Social Factors (1962). Princeton, NJ: Princeton University Press, 609-625.",
+     "Azoulay, P., Graff Zivin, J. S., & Manso, G. (2011). \"Incentives and Creativity: Evidence from the Academic Life Sciences.\" RAND Journal of Economics, 42(3): 527-554.",
+     "Dasgupta, P., & David, P. A. (1994). Toward a new economics of science. Research Policy, 23(5), 487–521. https://doi.org/10.1016/0048-7333(94)01002-1",
+     "Funk, R. J., & Owen-Smith, J. (2017). \"A dynamic network measure of technological change.\" Management Science, 63(3): 791-817.",
+     "Hao, Q., Xu, F., Li, Y., & Evans, J. (2026). Artificial intelligence tools expand scientists' impact but contract science's focus. Nature, 649, 1237–1243.",
+     "Jones, B. F. (2009). The burden of knowledge and the “death of the renaissance man”: Is innovation getting harder? Review of Economic Studies, 76(1), 283–317.",
+     "Jones, B. F., & Summers, L. H. (2020). A Calculation of the Social Returns to Innovation. Cambridge, MA. https://doi.org/10.3386/W27863",
+     "Nelson, R. R. (1959). The Simple Economics of Basic Scientific Research. Source: Journal of Political Economy, 67(3), 297–306. Retrieved from https://about.jstor.org/terms",
+     "Park, M., Leahey, E., & Funk, R. J. (2023). \"Papers and patents are becoming less disruptive over time.\" Nature, 613: 138-144.",
+     "Stephan, P. (2012). How Economics Shapes Science. Cambridge, MA: Harvard University Press. https://doi.org/10.4159/harvard.9780674062757",
+     "UNESCO (2021). UNESCO Science Report: The Race against Time for Smarter Development. UNESCO",
+     "Wang, D., & Barabási, A.-L. (2021). The Science of Science. Cambridge University Press. https://doi.org/10.1017/9781108610834"
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How do institutional settings and incentive structures shape the production and diffusion of scientific knowledge in the public vs. private sector?",
+    "To what extent do scientometric indicators (e.g., citations, impact factors, network measures) provide reliable measures of scientific productivity and novelty, and what are their limitations?",
+    "What factors influence the likelihood of generating disruptive or radically novel scientific contributions, and how do collaboration patterns, knowledge recombination, and institutional environments affect this process?",
+    "Is there strong evidence of a secular decline in research productivity, and what are the implications for technological progress and economic growth?",
+    "How can the integration of economics of science and science of science perspectives help us better understand the systemic nature of knowledge production and its role in innovation and development?",
+    "How is artificial intelligence changing the production of scientific knowledge, and what are the consequences for the direction and diversity of science?"
+   ],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/ETI_2_InnovationProperties2026.pdf"
+   ]
+  },
+  {
+   "id": "PPE-Tutorial3",
+   "course": "PPE",
+   "number": "Tutorial III",
+   "source_label": "Tutorial 3",
+   "title": "Replication exercise: regression discontinuity",
+   "type": "tutorial",
+   "date": "2026-10-15",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Matilde João Mota",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Exercises are released at least 3 working days before the tutorial; read and think them through beforehand, answers are not handed in."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "SED-3.2",
+   "course": "SED",
+   "number": "Lecture III",
+   "source_label": "Week 3, 3.2",
+   "title": "Innovation-based growth theory",
+   "type": "lecture",
+   "date": "2026-10-15",
+   "start": "10:00",
+   "end": null,
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Verspagen, B., 2005, Innovation and Economic Growth, in: Fagerberg, J., Mowery, D.C. and Nelson, R.R. (eds), The Oxford Handbook of Innovation, Oxford: Oxford University Press, pp. 487-513",
+     "G. Silverberg and B. Verspagen, 1995, Long Term Cyclical Variations of Catching Up and Falling Behind. An Evolutionary Model, Journal of Evolutionary Economics, vol 5, 209-227",
+     "Cantner, U., & Verspagen, B. (2025). The 2025 Sveriges Riksbank prize in economic sciences in memory of Alfred Nobel, Journal of Evolutionary Economics, 35(5), 807- 808."
+    ],
+    "additional": [
+     "Aghion, P., Akcigit, U., & Howitt, P. (2015). The Schumpeterian growth paradigm. Annual review of economics, 7(1), 557-575.",
+     "Silverberg, G. & B. Verspagen, 1995, Evolutionary theorizing on economic growth, in: Dopfer, K. (ed.), The evolutionary foundations of economics, Oxford University Press.",
+     "Romer, P., 1994, The Origins of Endogenous Growth, Journal of Economic Perspectives, vol. 8, pp. 3–22",
+     "Romer, P., 1990, Endogenous technological change, Journal of Political Economy 98, S71-S102",
+     "Jones, C.I., 1995, R&D-based models of economic growth, Journal of Political Economy, 759-784"
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How does evolutionary growth theory differ from mainstream growth theory?",
+    "What is the main driver of economic growth?",
+    "How do the evolutionary and mainstream perspectives differ with regard to the way they view technological change?"
+   ],
+   "notes": [
+    "The integrated outline gives a 10:00 start (end time not stated); the coursework spreadsheet gives 13:30–15:30 for this lecture. A 10:00 start overlaps with Policy Evaluation Tutorial III (09:00–11:00). Check with the lecturer."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S5",
+   "course": "HD",
+   "number": "Lecture V",
+   "source_label": "Session 5",
+   "title": "Inequality",
+   "type": "lecture",
+   "date": "2026-10-16",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bruno Martorano",
+   "readings": {
+    "required": [
+     "Atkinson (2015), Inequality What Can be Done?, chap 1 “Setting the Scene”",
+     "Justino, P. and B. Martorano (2016) Drivers and dynamics of inequalities worldwide (an introduction to Part I), http://unesdoc.unesco.org/images/0024/002459/245907e.pdf",
+     "Stiglitz, J. (2013), The Price of Inequality, chap 4 “Why it matters”, London, Penguin",
+     "Dietrich, S., Giuffrida, V., Martorano, B., & Schmerzeck, G. (2022). COVID-19 policy responses, mobility, and food prices. American Journal of Agricultural Economics, 104(2), 569–588. https://doi.org/10.1111/ajae.12278",
+     "Dietrich, S., Giuffrida, V., Martorano, B., Schmerzeck, G., & Tiberti, M. (2023). Lost in aggregation? On the importance of local food price data for food poverty estimates. UNU- MERIT Working Paper No. 035. https://www.merit.unu.edu/publications/wppdf/2023/wp2023-035.pdf",
+     "Martorano, B., Perra, E., & Tiberti, M. (2023). Spatial inequality during the COVID-19 pandemic in Africa using night-time lights data. UNU-MERIT Working Paper No. 032. https://www.merit.unu.edu/publications/wppdf/2023/wp2023-032.pdf"
+    ],
+    "additional": [],
+    "optional": [
+     "Alfani, G. (2024). Inequality in history: A long-run view. Journal of Economic Surveys, 1– 21. https://doi.org/10.1111/joes.12616",
+     "Alvaredo, F., Bourguignon, F., Ferreira, F. H., & Lustig, N. (2023). Seventy-five years of measuring income inequality in Latin America.",
+     "Chancel, L., Cogneau, D., Gethin, A., Myczkowski, A., & Robilliard, A. S. (2023). Income inequality in Africa, 1990–2019: Measurement, patterns, determinants. World Development, 163, 106162.",
+     "World Inequality Report 2018. https://wir2018.wid.world/",
+     "Milanovic, B. (2024). The three eras of global inequality, 1820–2020 with the focus on the past thirty years. World Development, 177, 106516."
+    ]
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Lecture7",
+   "course": "PPE",
+   "number": "Lecture VII",
+   "source_label": "Lecture 7",
+   "title": "Other topics in evaluation",
+   "type": "lecture",
+   "date": "2026-10-21",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Lonneke Nillesen",
+   "readings": {
+    "required": [
+     "Laajaj, R., & Macours, K. (2021). Measuring skills in developing countries. Journal of Human Resources, 56(4), 1254-1295.",
+     "Jayachandran, S., Biradavolu, M., & Cooper, J. (2023). Using machine learning and qualitative interviews to design a five-question survey module for women’s agency. World Development, 161, 106076. Open access.",
+     "McKenzie, D. (2025). Designing and analysing powerful experiments: Practical tips for applied researchers. World Bank Policy Research Working Paper 11176 (free).",
+     "Evans, D. K., & Popova, A. (2016). Cost-effectiveness analysis in development: Accounting for local costs and noisy impacts. World Development, 77, 262-276.",
+     "Asiedu, E., Karlan, D., Lambon-Quayefio, M., & Udry, C. (2021). A call for structured ethics appendices in social science papers. PNAS, 118(29). Free as NBER WP 28393. [ethics; use its template for your own ethics appendix]",
+     "Glennerster, R. (2017). The practicalities of running randomized evaluations: Partnerships, measurement, ethics, and transparency. Handbook of Field Experiments, Vol. 1, 175-244. Free at https://www.povertyactionlab.org/sites/default/files/research-paper/Practical-issues-in-RCTs_Glennerster.pdf",
+     "Muralidharan, K., & Niehaus, P. (2017). Experimentation at scale. Journal of Economic Perspectives, 31(4), 103-124. Open access."
+    ],
+    "additional": [],
+    "optional": [
+     "Stantcheva, S. (2023). How to run surveys: A guide to creating your own identifying variation and revealing the invisible. Annual Review of Economics, 15, 205-234. Free as NBER Working Paper 30527.",
+     "Dhaliwal, I., Duflo, E., Glennerster, R., & Tulloch, C. (2013). Comparative cost-effectiveness analysis to inform policy in developing countries. Education Policy in Developing Countries, 285-338.",
+     "Williams, M. J. (2020). External validity and policy adaptation: from impact evaluation to policy design. The World Bank Research Observer, 35(2), 158-191.",
+     "Duflo, E., Banerjee, A., Finkelstein, A., Katz, L. F., Olken, B. A., & Sautmann, A. (2020). In praise of moderation: Suggestions for the scope and use of pre-analysis plans for RCTs in economics. NBER WP 26993.",
+     "Deaton, A., & Cartwright, N. (2018). Understanding and misunderstanding randomized controlled trials. Social Science & Medicine, 210, 2-21 (open access)."
+    ]
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-4.1",
+   "course": "ETI",
+   "number": "Lecture IV",
+   "source_label": "Week 4, 4.1",
+   "title": "Networks, complexity, diffusion & industrial dynamics",
+   "type": "lecture",
+   "date": "2026-10-21",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Conway, S. & Steward, F. (2009) Innovation from a Network perspective. in Managing and shaping innovation (eds. Conway, S. & Steward, F.) 63–120 (Oxford University Press).",
+     "Geroski, P. A. (2000). Models of technology diffusion. Research Policy, 29(4–5), 603–625.",
+     "Dosi, G., Lechevalier, S., and Secchi, A., 2010, Introduction: Interfirm heterogeneity–nature, sources and consequences for industrial dynamics. Industrial and Corporate Change, 19(6):1867–1890."
+    ],
+    "additional": [
+     "Akcigit, U., & Ates, S. T. (2021). Ten facts on declining business dynamism and lessons from endogenous growth theory. American Economic Journal: Macroeconomics, 13(1), 257–298.",
+     "Arthur, W. B. (1989). Competing technologies, increasing returns, and lock-in by historical events. Economic Journal, 99(394), 116–131.",
+     "Arthur, W. B. (2009). The Nature of Technology: What It Is and How It Evolves. Free Press",
+     "Boschma, R. A. (2005). \"Proximity and Innovation: A Critical Assessment.\" Regional Studies, 39(1): 61-74.",
+     "Comin, D., & Hobijn, B. (2010). An exploration of technology diffusion. American Economic Review, 100(5), 2031–2059.",
+     "Cowan, Robin & Nicolas Jonard, 2004, Network Structure and the Diffusion of Knowledge, Journal of Economic Dynamics and Control, 28(8): 1557-1575",
+     "Cowan, Robin, Nicolas Jonard & Jean-Benoit Zimmermann, 2006, Evolving Networks of Inventors, Journal of Evolutionary Economics, 16(1-2): 155-174",
+     "Fleming, L. & Sorenson, O. 2001, Technology as a complex adaptive system: evidence from patent data. Res. Policy 30, 1019–1039.",
+     "Frenken, K. (2006). Technological innovation and complexity theory. Economics of Innovation and New Technology, 15(2), 137–155.",
+     "Goel, Sharad, Duncan J Watts, and Daniel G Goldstein, 2012, The Structure of Online Diffusion Networks, in Proceedings of the 13th ACM Conference on Electronic Commerce, 623–638, EC’12, New York, USA: ACM, https://doi.org/10.1145/2229012.2229058.",
+     "Hall, Bronwyn H., 2006, Innovation and Diffusion, in Jan Fagerberg, David C Mowery, and Richard R Nelson (eds), The Oxford Handbook of Innovation, pp. 459–484. Oxford: Oxford University Press.",
+     "Kalyani, A., Bloom, N., Carvalho, M., Hassan, T., Lerner, J., & Tahoun, A. (2025). The diffusion of new technologies. Quarterly Journal of Economics, 140(2), 1299–1365.",
+     "Klepper, S. (1996). Entry, exit, growth, and innovation over the product life cycle. American Economic Review, 86(3), 562–583.",
+     "von Hippel, Eric, 1998, Economics of Product Development by Users: The Impact of “Sticky” Local Information, Management Science 44(5):629-644.",
+     "Mowery, D. and Rosenberg, N., 1979, The influence of market demand upon innovation: A critical review of some recent empirical studies, Research Policy, 8: 102–153.",
+     "Rogers, E. M. (2003). Diffusion of Innovations. Free Press",
+     "Schelling, T. C. (1971). Dynamic models of segregation. Journal of Mathematical Sociology, 1(2), 143–186.",
+     "Valente, M. (2014). An NK-like model for complexity. Journal of Evolutionary Economics, 24(1), 107–134."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How do network structures affect the generation, diffusion, and direction of innovation?",
+    "To what extent do firms exchange knowledge? Does regional agglomeration increase such exchange?",
+    "How do different components of a technology (or knowledge) combine to produce new technologies (or knowledge)?",
+    "Why do new technologies diffuse slowly and unevenly across firms, regions and countries?",
+    "Why does heterogeneity among firms persist within industries, and what explains the evolution of industries over their life cycle?"
+   ],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/ETI_2_InnovationProperties2026.pdf"
+   ]
+  },
+  {
+   "id": "SED-4.2",
+   "course": "SED",
+   "number": "Lecture IV",
+   "source_label": "Week 4, 4.2",
+   "title": "Structural Change, Structural Transformation, and “Economic Complexity”",
+   "type": "lecture",
+   "date": "2026-10-22",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Fagerberg, J., 2000, Technological progress, structural change and productivity growth: a comparative study, Structural Change and Economic Dynamics, vol. 11, pp. 393–411",
+     "Szirmai, A., & Verspagen, B. (2015). Manufacturing and economic growth in developing countries, 1950–2005. Structural change and economic dynamics, 34, 46-59.",
+     "Lavopa, A. & A. Szirmai, 2021, Structural Change as a Modernization Process, in N. Foster-McGregor et al (eds.), New Perspectives on Structural Change, Oxford University Press."
+    ],
+    "additional": [
+     "Cantore, N., & Alcorta, L. (2021). Structuralist contributions to development thinking. in N. Foster-McGregor et al (eds.), New perspectives on structural change: Causes and consequences of structural change in the global economy, 21-49.",
+     "Nomaler, Ö., & Verspagen, B. (2024). Reinterpreting economic complexity in multiple dimensions. arXiv preprint arXiv:2409.01830.",
+     "Nomaler, Ö., & Verspagen, B. (2024). Related or unrelated diversification: What is smart specialization?. Structural Change and Economic Dynamics, 70, 503-515.",
+     "Porcile, G. (2021). Latin-American structuralism and neo-structuralism. in N. Foster-McGregor et al (eds.), New perspectives on structural change: causes and consequences of structural change in the global economy, 50-71.",
+     "Szirmai, A., 2012, Industrialisation as an engine of growth in developing countries, 1950–2005, Structural Change and Economic Dynamics, Vol. 23, pp. 406-420, https://doi.org/10.1016/j.strueco.2011.01.005.",
+     "Ciarli, T., Lorentz, A., Savona, M., and Valente, M., 2010, The effect of consumption and production structure on growth and distribution: A micro to macro model, Metroeconomica, 61(1):180–218."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How can we distinguish structural change and structural transformation?",
+    "Did the role of manufacturing vs services in development change over time?",
+    "How should we characterize the relation between structural change and technological change? Does one lead the other?",
+    "What is the difference between structural transformation and growth?",
+    "What is economic complexity?",
+    "What role does path dependence play in international trade and development?"
+   ],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S6",
+   "course": "HD",
+   "number": "Lecture VI",
+   "source_label": "Session 6",
+   "title": "From Correlation to Causality: Evaluating Education Policies Using the “Laboratory” of Education Systems",
+   "type": "lecture",
+   "date": "2026-10-23",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Kristof De Witte",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-Office",
+   "course": "PPE",
+   "number": "Office hour",
+   "source_label": "Lecture 8",
+   "title": "Walk-in office hours to discuss the Pre-Analysis Plan",
+   "type": "office_hours",
+   "date": "2026-10-23",
+   "start": null,
+   "end": null,
+   "room": "Room 3.09",
+   "lecturer": "Lonneke Nillesen",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Time not given in the sources."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-5.1",
+   "course": "ETI",
+   "number": "Lecture V",
+   "source_label": "Week 5, 5.1",
+   "title": "Innovation systems: national, sectoral, regional",
+   "type": "lecture",
+   "date": "2026-10-28",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Freeman, C., 1995 The ‘national system of innovation’ in historical perspective. Cambridge J. Econ. 19, 5",
+     "Pavitt, K. (1984). Sectoral patterns of technical change: towards a taxonomy and a theory. Research policy, 13(6), 343-373.",
+     "Lundvall, B.-Å. (ed.). (1992). National systems of innovation: Toward a theory of innovation and interactive learning. Pinter.",
+     "Nelson, R. R. (Ed.). (1993). National innovation systems: a comparative analysis. Oxford University Press.",
+     "Cooke, P., Uranga, M. G., & Etxebarria, G. (1997). Regional innovation systems: Institutional and organisational dimensions. Research policy, 26(4-5), 475-491.",
+     "Malerba, F. (2002). Sectoral systems of innovation and production. Research policy, 31(2), 247-264."
+    ],
+    "additional": [
+     "Mowery, D., & Rosenberg, N. (1979). The influence of market demand upon innovation: a critical review of some recent empirical studies. Research policy, 8(2), 102-153.",
+     "Kline, S. J., & Rosenberg, N. (1986). An overview of innovation. The positive sum strategy: Harnessing technology for economic growth. In N. Rosenberg, & R. Landau (Eds.). The Positive sum strategy: harnessing technology for economic growth (pp. 275-305), National Academies Press.",
+     "Lundvall, B.-Å. (1985). Product innovation and user-producer interaction. In Lundvall, B.-Å. (Ed.), The learning economy and the economics of hope (pp. 19-60), Anthem Press.",
+     "Cooke, P., Uranga, M. G., & Etxebarria, G. (1998). Regional systems of innovation: an evolutionary perspective. Environment and planning A, 30(9), 1563-1584.",
+     "Malerba, F., & Nelson, R. (2011). Learning and catching up in different sectoral systems: evidence from six industries. Industrial and corporate change, 20(6), 1645-1675.",
+     "Boschma, R. A. (2005). \"Proximity and Innovation: A Critical Assessment.\" Regional Studies, 39(1): 61-74.",
+     "Srholec, M. and B. Verspagen, 2012, The Voyage of the Beagle into innovation: Explorations on heterogeneity, selection, and sectors, Industrial and Corporate Change, vol. 21, pp. 1221-1253",
+     "Mowery, D. and A. Arora, 2005, Universities in National Innovation Systems, in: Fagerberg, J., Mowery, D. and R.R. Nelson (eds), Oxford Handbook of Innovation, Oxford University Press."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How do innovation systems emerge, and what are they?",
+    "How do interactions between different actors (firms, scientists, users, and public organisations) enable or constrain innovation and diffusion within clusters and regions?",
+    "How do different national, regional, or sectoral innovation systems explain variation in patterns of technical change and economic development across contexts?",
+    "How are national, regional and sectoral innovation systems related?"
+   ],
+   "notes": [
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "SED-5.2",
+   "course": "SED",
+   "number": "Lecture V",
+   "source_label": "Week 5, 5.2",
+   "title": "Modelling structural change, innovation and economic development",
+   "type": "lecture",
+   "date": "2026-10-29",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Ciarli, T. (2012) “Structural Interactions and Long Run Growth: An Application of Experimental Design to Agent Based Models.” Revue de l’OFCE, Debates and policies 124: 295-345."
+    ],
+    "additional": [
+     "Axtell, R. L., & Farmer, J. D. (2025). Agent-based modeling in economics and finance: Past, present, and future. Journal of Economic Literature, 63(1), 197–287.",
+     "Caiani, A., Godin, A., & Lucarelli, S. (2016). \"Innovation and finance: A stock-flow consistent analysis of great surges of development.\" Journal of Evolutionary Economics, 26(4): 1039-1079.",
+     "Ciarli, Tommaso, André Lorentz, Marco Valente, and Maria Savona (2019). Structural Changes and Growth Regimes. Journal of Evolutionary Economics, 29(1), 119-176",
+     "Colander, D.; Howitt, P.; Kirman, A.; Leijonhufvud, A. & Mehrling, P. (2008), ’Beyond DSGE models: toward an empirically based macroeconomics’, American Economic Review 98(2), 236–240",
+     "Dosi, G.; Fagiolo, G. & Roventini, A. (2010), ’Schumpeter Meeting Keynes: A Policy Friendly Model of Endogenous Growth and Business Cycles’, Journal of Economic Dynamics and Control 34, 1748-1767.",
+     "Dosi, G., Pereira, M. C., Roventini, A., & Virgillito, M. E. (2018). \"The effects of labour market reforms upon unemployment and income inequalities: an agent- based model.\" Socio-Economic Review, 16(4): 687-720.",
+     "Dosi, G., & Roventini, A. (2024). Evolutionary growth theory. LEM Working Papers. Pisa.",
+     "Dosi, G., Roventini, A. & Russo, E. Endogenous growth and global divergence in a multi- country agent-based model. J. Econ. Dyn. Control 101, 101–129 (2019).",
+     "Lorentz, A., & Savona, M. (2008). \"Evolutionary micro-dynamics and changes in the economic structure.\" Journal of Evolutionary Economics, 18(3-4): 389-412.",
+     "Metcalfe, S., & Foster, J. (2010). Evolutionary Growth Theory. In M. Setterfield (Ed.), Handbook of Alternative Theories of Economic Growth. Edward Elgar.",
+     "Nelson, R. & Winter, S. (1982), An Evolutionary Theory of Economic Change, Harvard University Press, Cambridge, MA. Ch 12 & 14",
+     "Nuvolari, A. and E. Russo, 2021, Technical progress and structural change: A long- term view, in N. Foster-McGregor et al (eds.), New Perspectives on Structural Change, Oxford University Press.",
+     "Silverberg, G., & Verspagen, B. (2005). \"A percolation model of innovation in complex technology spaces.\" Journal of Economic Dynamics and Control, 29(1-2): 225-244.",
+     "Verspagen, B. (2006), Innovation and Economic Growth, in Jan Fagerberg; David C. Mowery & Richard R. Nelson, ed., The Oxford Handbook of Innovation, Oxford University Press, Oxford, pp. 487-513.",
+     "Verspagen, B., 1993 Uneven Growth Between Interdependent Economies: Evolutionary Views on Technology Gaps, Trade and Growth. (Avebury)."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "Which dimensions of structural change (sectoral reallocation, firm organisation, technological change, demand composition, income distribution) are most critical for explaining long-term economic growth, and how do they interact?",
+    "Why is an evolutionary complex systems approach - particularly agent-based modelling - useful for studying economic development, compared to representative-agent or equilibrium-based models?",
+    "What does an economy without technical change and innovation look like, and what insights does this counterfactual provide about the role of innovation in development?"
+   ],
+   "notes": [
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S7",
+   "course": "HD",
+   "number": "Lecture VII",
+   "source_label": "Session 7",
+   "title": "Financing and inequality in health and healthcare",
+   "type": "lecture",
+   "date": "2026-10-30",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Wim Groot",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-6.1",
+   "course": "ETI",
+   "number": "Lecture VI",
+   "source_label": "Week 6, 6.1",
+   "title": "Technological paradigms and trajectories",
+   "type": "lecture",
+   "date": "2026-11-04",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Dosi, G., 1982, Technological paradigms and technological trajectories: A suggested interpretation of the determinants and directions of technical change, Research Policy, 11(3), 147-162.",
+     "Verspagen, B., 2007, Mapping Technological Trajectories as Patent Citation Networks: A Study on the History of Fuel Cell Research, Advances in Complex Systems, 10(1):93."
+    ],
+    "additional": [
+     "Nomaler, Ö., & Verspagen, B. (2016). River deep, mountain high: of long run knowledge trajectories within and between innovation clusters. Journal of Economic Geography, 16(6), 1259-1278.",
+     "Nomaler, Ö., & Verspagen, B. (2019). Greentech homophily and path dependence in a large patent citation network. Maastricht Economic and Social Research Institute on Innovation and Technology (UNU-MERIT).",
+     "Ciarli, T., & Rafols, I. (2016). The evolution of scientific trajectories in rice: Mapping the relation between research and societal priorities, https://digital.csic.es/bitstream/10261/161822/1/evoluSTIpriori.pdf",
+     "Andersen, B. (1998). The evolution of technological trajectories 1890–1990. Structural Change and Economic Dynamics, 9(1), 5-34."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How are technological trajectories influenced by society?",
+    "Why do innovations ‘cluster’ in time?",
+    "How do IPR and antitrust policy influence innovation investments and outcomes in different industries?",
+    "What are green or digital technological trajectories?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "SED-6.2",
+   "course": "SED",
+   "number": "Lecture VI",
+   "source_label": "Week 6, 6.2",
+   "title": "Appropriate technologies",
+   "type": "lecture",
+   "date": "2026-11-05",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Kaplinsky, R. (2011). Schumacher meets Schumpeter: Appropriate technology below the radar. Research Policy, 40(2), 193–203.",
+     "Basu, S., & Weil, D. N. (1998). Appropriate technology and growth. Quarterly Journal of Economics, 113(4), 1025–1054.",
+     "Moscona, J., & Sastry, K. A. (2025). Inappropriate technology: Evidence from global agriculture. NBER Working Paper 33500."
+    ],
+    "additional": [
+     "Acemoglu, D. (2002). Directed technical change. Review of Economic Studies, 69(4), 781–809.",
+     "Acemoglu, D., & Zilibotti, F. (2001). Productivity differences. Quarterly Journal of Economics, 116(2), 563–606.",
+     "Atkinson, A. B., & Stiglitz, J. E. (1969). A new view of technological change. Economic Journal, 79(315), 573–578.",
+     "Caunedo, J., Keller, E., & Shin, Y. (2023). Technology and the task content of jobs across the development spectrum. World Bank Economic Review, 37(3)",
+     "Chataway, J., Hanlin, R., & Kaplinsky, R. (2014). Inclusive innovation: An architecture for policy development. Innovation and Development, 4(1), 33–54.",
+     "Ciarli, T., & Ràfols, I. (2019). The relation between research priorities and societal demands: The case of rice. Research Policy, 48(4), 949–967.",
+     "Cirera, X., Comin, D., & Cruz, M. (2022). Bridging the Technological Divide: Technology Adoption by Firms in Developing Countries. World Bank.",
+     "Confraria, H., Ciarli, T., & Noyons, E. (2024). Countries' research priorities in relation to the Sustainable Development Goals. Research Policy, 53(3), 104950.",
+     "Diao, X., Ellis, M., McMillan, M., & Rodrik, D. (2025). Africa's manufacturing puzzle: Evidence from Tanzanian and Ethiopian firms. World Bank Economic Review, 39(2).",
+     "Evenson, R. E., & Gollin, D. (2003). Assessing the impact of the Green Revolution, 1960 to 2000. Science, 300(5620), 758–762.",
+     "Gollin, D., Hansen, C. W., & Wingender, A. M. (2021). Two blades of grass: The impact of the Green Revolution. Journal of Political Economy, 129(8), 2344–2384.",
+     "Korinek, A., & Stiglitz, J. E. (2021). Artificial intelligence, globalization, and strategies for economic development. NBER Working Paper 28453.",
+     "Kremer, M., & Glennerster, R. (2004). Strong Medicine: Creating Incentives for Pharmaceutical Research on Neglected Diseases. Princeton University Press.",
+     "Moscona, J., & Sastry, K. A. (2023). Does directed innovation mitigate climate damage? Evidence from U.S. agriculture. Quarterly Journal of Economics, 138(2), 637–701.",
+     "Schumacher, E. F. (1973). Small is Beautiful: A Study of Economics as if People Mattered. Blond & Briggs.",
+     "Stewart, F. (1977). Technology and Underdevelopment. Macmillan.",
+     "World Bank (2025). Digital Progress and Trends Report 2025: Strengthening AI Foundations. World Bank."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "What makes a technology “(in)appropriate”, and for whom? Is appropriateness a property of technologies, or of the contexts in which they are used?",
+    "To what extent do differences in the direction of technical change explain productivity gaps between countries?",
+    "Can developing countries steer technical change towards their own needs? How? Discuss with examples.",
+    "Are digital technologies and artificial intelligence more or less appropriate for low- and middle-income countries than previous general-purpose technologies?",
+    "Does the adoption of capital-intensive frontier technologies explain weak employment creation in developing-country manufacturing?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S8",
+   "course": "HD",
+   "number": "Lecture VIII",
+   "source_label": "Session 8",
+   "title": "Inequality dimensions",
+   "type": "lecture",
+   "date": "2026-11-06",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bruno Martorano",
+   "readings": {
+    "required": [
+     "Bertrand, M., & Mullainathan, S. (2004). Are Emily and Greg more employable than Lakisha and Jamal? A field experiment on labor market discrimination. American Economic Review, 94(4), 991–1013.",
+     "Blau, F. D., & Kahn, L. M. (2017). The gender wage gap: Extent, trends, and explanations. Journal of Economic Literature, 55(3), 789–865.",
+     "Corak, M. (2013). Income inequality, equality of opportunity, and intergenerational mobility. Journal of Economic Perspectives, 27(3), 79–102."
+    ],
+    "additional": [
+     "Anderson, E. S. (1999). What is the Point of Equality? Ethics, 109(2), 287–337.",
+     "Black, S. E., & Devereux, P. J. (2011). Recent developments in intergenerational mobility. Handbook of Labor Economics (Vol. 4, pp. 1487–1541).",
+     "Jäntti, M., & Jenkins, S. P. (2015). Income Mobility. Handbook of Income Distribution (Vol. 2, pp. 807–935).",
+     "Milanovic, B. (2017). Increasing Capital Income Share and Its Effect on Personal Income Inequality.",
+     "Sen, A. (1979). Equality of what?",
+     "World Social Science Report 2016: Challenging inequalities; pathways to a just world. https://unesdoc.unesco.org/ark:/48223/pf0000245825"
+    ],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Group work: each group gives a 10-minute presentation on one dimension of inequality and acts as discussant for another group (5-minute discussion). Final readings and groups were assigned in the first session; the readings under \"Further\" are the manual’s “Other readings”."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-7.1",
+   "course": "ETI",
+   "number": "Lecture VII",
+   "source_label": "Week 7, 7.1",
+   "title": "Innovation Indicators",
+   "type": "lecture",
+   "date": "2026-11-11",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Bogliacino, F., Perani, G., Pianta, M., & Supino, S. (2012). Innovation and development: The evidence from innovation surveys. Latin American Business Review, 13(3), 219-261.",
+     "Jaffe, A. B., & Trajtenberg, M. (2002). Patents, citations, and innovations: A window on the knowledge economy. MIT press.",
+     "Nagaoka, S., Motohashi, K., & Goto, A. (2010). Patent statistics as an innovation indicator. In Handbook of the Economics of Innovation (Vol. 2, pp. 1083-1127). North-Holland."
+    ],
+    "additional": [
+     "Bekamiri, H., Hain, D. S., & Jurowetzki, R. (2024). Patentsberta: A deep nlp based hybrid model for patent distance and classification using augmented sbert. Technological Forecasting and Social Change, 206, 123536.",
+     "Godin, B. (2005), Measurement and statistics on science and technology. 1920 to the present, Routledge, Abingdon.",
+     "Giuri, P., Mariani, M., Brusoni, S., Crespi, G., Francoz, D., Gambardella, A., ... & Verspagen, B. (2007). Inventors and invention processes in Europe: Results from the PatVal-EU survey. Research policy, 36(8), 1107-1127.",
+     "Kahn, M. J. (2022). The status of science, technology and innovation in Africa. Science, Technology and Society, 27(3), 327-350.",
+     "Townsend, J., Henwood, F., Thomas, G., Pavitt, K. and Wyatt, S., (1981), Innovations in Britain since 1945, Occasional Paper No. 16, (Science Policy Research Unit, University of Sussex."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "If you have a quantitative research project in mind, which indicators seem most suited to your project, and why?",
+    "Can you think of AI-based methods to (further) develop indicators based on patent documents?",
+    "What does a general overview of R&D-based data tell us about innovation systems in developed countries?",
+    "What does a general overview of data based on patent documents tell us about innovation systems in developed countries?",
+    "What does a general overview of data from innovation surveys tell us about innovation systems in developed countries?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "SED-7.2",
+   "course": "SED",
+   "number": "Lecture VII",
+   "source_label": "Week 7, 7.2",
+   "title": "Innovation and production capabilities",
+   "type": "lecture",
+   "date": "2026-11-12",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Bell, M. (2009). \"Innovation Capabilities and Directions of Development.\" STEPS Working Paper 33, STEPS Centre.",
+     "Fagerberg, J., Srholec, M. and B. Verspagen, 2010, Innovation and economic development, in B. Hall and N. Rosenberg (eds.), The Handbook of the Economics of Innovation, Chapter 20, Elsevier.",
+     "Lall, S., 1992, Technological capabilities and industrialization, World Development 20, 165–186."
+    ],
+    "additional": [
+     "Abramovitz, M. (1986). \"Catching Up, Forging Ahead, and Falling Behind.\" Journal of Economic History, 46(2): 385-406.",
+     "Amsden, A. H. (2001b). Te Rise of “the Rest”: Challenges to the West from Late Industrializing Economies. Oxford University Press.",
+     "Andreoni, A. (2019). \"A General Theory of Industrial Policy.\" In A. Andreoni, H.-J. Chang, & J. J. S. Andreoni (eds.), The Political Economy of Industrial Policy. Cambridge University Press.",
+     "Atkin, D., Costinot, A., & Fukui, M. (2026). Globalization and the ladder of development: Pushed to the top or held at the bottom? Review of Economic Studies",
+     "Bell, Martin, and Keith Pavitt, 1993, Technological Accumulation and Industrial Growth: Contrast Between Developed and Developing Countries, Industrial and Corporate Change 2 (2): 157–210.",
+     "Cirera, X., Comin, D., and Cruz, M. (2022). Bridging the Technological Divide: Technology Adoption by Firms in Developing Countries. World Bank",
+     "Cirera, X. and Maloney, W. F. (2017). The Innovation Paradox: Developing-Country Capabilities and the Unrealized Promise of Technological Catch-Up. Technical report, The World Bank, Washington DC.",
+     "Cohen, W.M. and D.A. Levinthal, D.A., 1990, Absorptive capacity: A new perspective on learning and innovation, Administrative Science Quarterly, 35(1), 128–152.",
+     "Fagerberg, J., & Srholec, M. (2017). \"Capabilities, Economic Development, Sustainability.\" Cambridge Journal of Economics, 41(3): 905-926.",
+     "Katz, J. (1985). Domestic Technological Innovations and Dynamic Comparative Advantages: Further Reflections on Comparative Case-Study Program. In Rosenberg, N. and Frischtak, C., editors, International Technology Transfer: Concepts Measures and Comparisons. Praeger Publishers, New York.",
+     "Katz, Jorge, 2001, Structural Reforms and Technological Behaviour: The Sources and Nature of Technological Change in Latin America in the 1990s, Research Policy 30: 1–19.",
+     "Kim, L. (1999). Building Technological Capability for Industrialization: Analytical Frameworks and Korea’s Experience. Industrial and Corporate Change, 8(1):111–136.",
+     "Kim, L., 2003, The dynamics of technology development: Lessons from the Korean experience, in S. Lall and S. Urata (eds.), Competitiveness, FDI and Technological Activity in East Asia, Edward Elgar, Cheltenham, pp. 143–167.",
+     "Lee, K. (2019). The Art of Economic Catch-Up: Barriers, Detours and Leapfrogging in Innovation Systems. Cambridge University Press",
+     "Lee, K. (2024). Innovation–Development Detours for Latecomers: Managing Global– Local Interfaces in the De-Globalization Era. Cambridge University Press.",
+     "Nelson, R., 1993, National Innovation Systems: A Comparative Analysis, Oxford University Press, New York.",
+     "World Bank (2024). World Development Report 2024: The Middle-Income Trap. World Bank."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "How do different types of technological capabilities (production, investment, innovation, linkage, social capabilities) shape the ability of countries and firms to sustain long-run economic development?",
+    "What are the main challenges in measuring technological capabilities at the firm and national level, and how do existing approaches capture different dimensions of capability?",
+    "What lessons can be drawn from late-industrialising countries on building capabilities, and how transferable are these strategies to today low-income economies?",
+    "In what ways does the concept of capabilities complement or challenge approaches based on economic complexity and fitness?",
+    "Is a sequence from investment to technology adoption to innovation consistent with what we know about how capabilities are built?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S9",
+   "course": "HD",
+   "number": "Lecture IX",
+   "source_label": "Session 9",
+   "title": "Gender (in)equality - causes and consequences",
+   "type": "lecture",
+   "date": "2026-11-13",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Eleonora (Lonneke) Nillesen",
+   "readings": {
+    "required": [
+     "Anderson, S. (2025). Gender Biased Norms. https://doi.org/10.2139/ssrn.5460014",
+     "Bertrand, M. (2020). Gender in the Twenty-First Century. AEA Papers and Proceedings, 110, 1–24. https://doi.org/10.1257/pandp.20201126",
+     "Jayachandran, S. (2015). The Roots of Gender Inequality in Developing Countries. Annual Review of Economics, 7(1), 63–88. https://doi.org/10.1146/annurev-economics-080614-115404"
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-8.1",
+   "course": "ETI",
+   "number": "Lecture VIII",
+   "source_label": "Week 8, 8.1",
+   "title": "Automation and employment",
+   "type": "lecture",
+   "date": "2026-11-18",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Vivarelli, Marco, 2007, Innovation and employment: A survey, IZA Discussion Papers, No. 2621, Institute for the Study of Labor (IZA), Bonn, https://nbn-resolving.de/urn:nbn:de:101:1-2008042202",
+     "Autor, D. H., 2022, The Labor Market Impacts of Technological Change: From Unbridled Enthusiasm to Qualified Optimism to Vast Uncertainty. SSRN Electronic Journal (2022). doi:10.2139/ssrn.4122803"
+    ],
+    "additional": [
+     "Acemoglu, D. and D. Autor, Skills, 2011, Tasks and Technologies: Implications for Employment and Earnings, Chapter 12 in D. Card and O. Ashenfelter (eds), Handbook of Labor Economics, Elsevier, Volume 4, Part B, pp. 1043-1171",
+     "Acemoglu, D., & Restrepo, P. (2019). \"Automation and New Tasks: How Technology Displaces and Reinstates Labor.\" Journal of Economic Perspectives, 33(2): 3-30.",
+     "Acemoglu, D. & Restrepo, P., 2022, Tasks, Automation, and the Rise in U.S. Wage Inequality. Econometrica 90, 1973–2016.",
+     "Autor, D., Chin, C., Salomons, A., & Seegmiller, B. (2024). New frontiers: The origins and content of new work, 1940-2018. Quarterly Journal of Economics, 139(3), 1399-1465.",
+     "David Autor, Neil Thompson, Expertise, Journal of the European Economic Association, Volume 23, Issue 4, August 2025, Pages 1203-1271",
+     "Bessen, J. E. (2019). AI and Jobs: The Role of Demand. NBER Working Paper No. 24235.",
+     "Brynjolfsson, E., Chandar, B., & Chen, R. (2025). Canaries in the coal mine? Six facts about the recent employment effects of artificial intelligence. Stanford Digital Economy Lab Working Paper.",
+     "Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. Quarterly Journal of Economics, 140(2), 889-942.",
+     "Cazzaniga, M., et al. (2024). Gen-AI: Artificial intelligence and the future of work. IMF Staff Discussion Note SDN/2024/001.",
+     "Ciarli, T., M. Kenney, S. Massini, L. Piscitello, 2021, Digital technologies, innovation, and skills: Emerging trajectories and challenges, Research Policy, vol 50.",
+     "Ciarli, T., Marzucchi, A., Salgado, E. & Savona, M., 2018, The effect of R&D Growth on Employment and Self-Employment in Local Labour Markets. SPRU Working Paper Series (SPRU - Science and Technology Policy Research, University of Sussex).",
+     "Dosi, G., M. Piva, M. E. Virgillito, and M. Vivarelli, 2021, Embodied and Disembodied Technological Change: The Sectoral Patterns of Job-Creation and Job-Destruction, Research Policy 50 (4): 104199, https://doi.org/10.1016/j.respol.2021.104199.",
+     "Eloundou, T., Manning, S., Mishkin, P., & Rock, D. (2024). GPTs are GPTs: Labor market impact potential of LLMs. Science, 384(6702), 1306–1308",
+     "Foster-McGregor, N., Nomaler, Ö. and B. Verspagen, 2021, Job Automation Risk, Economic Structure and Trade: a European Perspective, Research Policy, vol. 50, article 104269",
+     "Frey, CB and MA Osborne, 2017, The future of employment: How susceptible are jobs to computerisation? Technological Forecasting and Social Change, 114, 254- 280",
+     "Goldin, C., & Katz, L. F. (2008). The Race Between Education and Technology. Harvard University Press.",
+     "Gmyrek, P., Berg, J., Kamiński, K., Konopczyński, F., Ładna, A., Nafradi, B., Rosłaniec, K., & Troszyński, M. (2025). Generative AI and jobs: A refined global index of occupational exposure. ILO Working Paper 140.",
+     "Anders Humlum and Emilie Vestergaard (2025), \"Still Waters, Rapid Currents: Early Labor Market Transformation under Generative AI,\" NBER Working Paper 33777",
+     "Hötte, K., Somers, M. & Theodorakopoulos, A., 2022, Technology and jobs: A systematic literature review.",
+     "Jaccoud, F., Petit, F., Ciarli, T., & Savona, M. (2026). Automation and employment over the technology life cycle: Evidence from European regions. Research Policy, 55(10), 105611. https://doi.org/https://doi.org/10.1016/j.respol.2026.105611",
+     "Korinek, A., & Stiglitz, J. E. (2021). \"Artificial Intelligence and Its Implications for Income Distribution and Unemployment.\" In The Economics of Artificial Intelligence: An Agenda, NBER",
+     "Maloney, W., and C. Molina, 2019, Is automation labor-displacing in the developing countries, too? Robots, polarization, and jobs, The World Bank.",
+     "Neto, Antonio Soares Martins, Nanditha Mathew, Pierre Mohnen, and Tania Treibich, 2021, Is There Job Polarization in Developing Economies? A Review and Outlook.",
+     "Nomaler, Ö and B. Verspagen, 2020, Perpetual Growth, the Labour Share and Robots, Economics of Innovation and New Technology, vol. 20, pp. 540-558",
+     "Prytkova, E., Petit, F., Li, D., Chaturvedi, S., & Ciarli, T. (2025). The Employment Impact of Emerging Digital Technologies (CESifo Working Paper Series, 10955 No. 10955). Munich: CESifo. https://ideas.repec.org/p/ces/ceswps/_10955.htm",
+     "Vivarelli, M., 2021, Globalization, structural change, and technological change in emerging economies: the impact on employment and skills, in N. Foster-McGregor et al (eds.), New Perspectives on Structural Change, Oxford University Press.",
+     "Webb, M. (2020). \"The Impact of Artificial Intelligence on the Labor Market.\" SSRN Working Paper"
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "Under what conditions does technological change lead to employment creation versus destruction, and how do these conditions vary across sectors and regions?",
+    "How can technological change be combined with stable employment growth?",
+    "How can we disentangle the effects of various forms of technological change and different technologies on employment demand and income distribution?",
+    "Are new digital automation technologies fundamentally different from past technologies in their impact on labour markets?",
+    "What does the early evidence on generative AI tell us about its effects on productivity, employment and wages, and for whom?",
+    "Are the effects likely to differ in low- and middle-income countries?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "SED-8.2",
+   "course": "SED",
+   "number": "Lecture VIII",
+   "source_label": "Week 8, 8.2",
+   "title": "Trade, GVCs, FDI and development",
+   "type": "lecture",
+   "date": "2026-11-19",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Lall, S. (2000). The Technological structure and performance of developing country manufactured exports, 1985-98. Oxford development studies, 28(3), 337- 369.",
+     "Los, B., Timmer, M. and G. de Vries, 2015, How global are global value chains? A new approach to measure international fragmentation, Journal of Regional Science, vol. 55: 66–92",
+     "Goerg, H. and D. Greenaway, (2004). Much Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct Investment? World Bank Research Observer, 19, 171-197."
+    ],
+    "additional": [
+     "Fagerberg, J., BÅ Lundvall, M Srholec (2018). Global value chains, national innovation systems and economic development, The European Journal of Development Research 30 (3), 533-556.",
+     "Soete, L. (1987). The impact of technological innovation on international trade patterns: the evidence reconsidered. Research policy, 16(2-4), 101-130.",
+     "Cimoli, M., & Soete, L. (1992). A generalized technology gap trade model. Economie Appliquée, 45(3), 33-54.",
+     "Krugman, P. (1979). A model of innovation, technology transfer, and the world distribution of income. Journal of political economy, 87(2), 253-266.",
+     "Foster-Mcgregor, N., 2019, Global Value Chains and Employment Growth in Asia, Asian Development Review, vol. 36: 100–130",
+     "Melitz, M. J. (2003). The impact of trade on intra-industry reallocations and aggregate industry productivity. Econometrica, 71(6), 1695-1725.",
+     "Wang, J. Y., & Blomström, M. (1992). Foreign investment and technology transfer: A simple model. European economic review, 36(1), 137-155.",
+     "Borensztein, E., J. De Gregorio, and J-W. Lee., 1998, How does Foreign Direct Investment Affect Economic Growth? Journal of International Economics, 45, 115- 135.",
+     "Autor, D., Dorn, D. and G.H. Hanson, 2016, The China shock: Learning from labor- market adjustment to large changes in trade, Annual Review of Economics, 8, 205- 240."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "What are the conditions for successful catching up?",
+    "How have different trade policies influenced patterns of economic development?",
+    "Under which conditions do firms learn from trade in low-income countries? To which extent does this lead to innovation?",
+    "How can countries (and firms) effectively insert themselves into global value chains?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S10",
+   "course": "HD",
+   "number": "Lecture X",
+   "source_label": "Session 10",
+   "title": "Migration and development",
+   "type": "lecture",
+   "date": "2026-11-20",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Melissa Siegel",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": [],
+    "video": [
+     "(Watch before session in preparation) Migration Basics playlist: https://www.youtube.com/watch?v=DtMly75DMeE&list=PLSXt5YZnBPR36GRZSenu7EuP A_ifRw7TH",
+     "(For review after session) Migration and Development playlist: https://www.youtube.com/watch?v=FiP29IlHYH8&list=PLSXt5YZnBPR0VmBLzA08s1j9wT _Wq9QHl"
+    ]
+   },
+   "essay_questions": [],
+   "notes": [
+    "Watch the Migration Basics playlist before the session; the Migration and Development playlist is for review afterwards."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-9.1",
+   "course": "ETI",
+   "number": "Lecture IX",
+   "source_label": "Week 9, 9.1",
+   "title": "Climate change and sustainability",
+   "type": "lecture",
+   "date": "2026-11-25",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Acemoglu, D., Aghion, P., Bursztyn, L., & Hemous, D. (2012). “The Environment and Directed Technical Change.” American Economic Review, 102(1): 131–166",
+     "Unruh, G. C. (2000). Understanding carbon lock-in. Energy policy, 28(12), 817- 830.",
+     "Porter, M. E. and van der Linde, C. (1995). Toward a new conception of the environment-competitiveness relationship. Journal of economic perspectives, 9(4), 97-118.",
+     "Jacobsson, S., & Bergek, A. (2004). Transforming the energy sector: the evolution of technological systems in renewable energy technology. Industrial and corporate change, 13(5), 815-849."
+    ],
+    "additional": [
+     "Savona, Maria, and Tommaso Ciarli. 2019, Structural Changes and Climate Change. A Selected Review of the Empirical Stylised Facts, Ecological Economics 159 (May): 244–60.",
+     "Kemp, R and L. Soete. (1992). The greening of technological progress: An evolutionary perspective. Futures, 24(5), 437-457.",
+     "Popp, D., Newell, R.G., Jaffe, A.B., 2010. Energy, the Environment, and Technological Change, in: Handbook of the Economics of Innovation, Handbook of the Economics of Innovation. Elsevier, pp. 873–937.",
+     "Popp, D., 2019. Environmental Policy and Innovation: A Decade of Research, NBER Working Paper.",
+     "Churchill, S.A., Inekwe, J., Ivanovski, K. and R. Smyth, 2018, The Environmental Kuznets Curve in the OECD: 1870–2014, Energy Economics, vol. 75: 389-399.",
+     "Ciarli, Tommaso, and Maria Savona. 2019, Modelling the Evolution of Economic Structure and Climate Change: A Review, Ecological Economics 158 (April): 51–64. https://doi.org/10.1016/J.ECOLECON.2018.12.008.",
+     "Ciarli, T. & Safarzynska, K., 2020, Sustainability and Industrial Change: The Hindering Role of Complexity.",
+     "Laestadius, S., 2015, Transition Paths. Assessing Conditions and Alternatives, in: Fagerberg, J., Laestadius, S. & B. Martin (eds.) The triple challenge for Europe, Oxford: Oxford University Press.",
+     "Wiebe, K.S. and N. Yamano, 2016, Estimating CO2 emissions embodied in final demand and trade using the OECD ICIO 2015. Methodology and results, OECD Science, Technology and Industry Working Papers 2016/05."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "To what extent has economic development historically driven climate change, and how does structural change explain the growth-emissions relationship?",
+    "What role can policy play in directing technical change towards low-carbon innovation, and under what conditions is this influence constrained?",
+    "Is technical change sufficient to address the impact of production and consumption on environmental sustainability?",
+    "How does climate change expose global inequalities, and what are the implications for developing countries that contribute little to emissions yet are most affected by its impacts?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "SED-9.2",
+   "course": "SED",
+   "number": "Lecture IX",
+   "source_label": "Week 9, 9.2",
+   "title": "Institutions",
+   "type": "lecture",
+   "date": "2026-11-26",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Acemoglu, D., Johnson, S., & Robinson, J. A. (2005). Institutions as a fundamental cause of long-run growth. In P. Aghion & S. Durlauf (Eds.), Handbook of Economic Growth (Vol. 1A, ch. 6, pp. 385–472). Elsevier.",
+     "Nelson, R. R., & Sampat, B. N. (2001). Making sense of institutions as a factor shaping economic performance. Journal of Economic Behavior & Organization, 44(1), 31–54.",
+     "Chang, H.-J. (2011). Institutions and economic development: Theory, policy and history. Journal of Institutional Economics, 7(4), 473–498."
+    ],
+    "additional": [
+     "Abramovitz, Moses, 1986, Catching Up, Forging Ahead, and Falling Behind, Journal of Economic History 66: 385–406.",
+     "Acemoglu, D., Johnson, S., and J.A. Robinson, 2001, The Colonial Origins of Comparative Development: An Empirical Investigation, American Economic Review, 91(5), 1369-1401.",
+     "Acemoglu, D., & Johnson, S. (2023). Power and Progress: Our Thousand-Year Struggle over Technology and Prosperity. PublicAffairs.",
+     "Acemoglu, D., Naidu, S., Restrepo, P., & Robinson, J. A. (2019). Democracy does cause growth. Journal of Political Economy, 127(1), 47–100.",
+     "Albouy, D. Y. (2012). The colonial origins of comparative development: An empirical investigation: Comment. American Economic Review, 102(6), 3059–3076.",
+     "Besley, T., & Persson, T. (2011). Pillars of Prosperity: The Political Economics of Development Clusters. Princeton University Press.",
+     "Chapter 3 in J.M. Cypher, The process of economic development, 5th edition",
+     "Cimoli, M., Dosi, G., Nelson, R. R., & Stiglitz, J. E. (2009). Institutions and policies shaping industrial development: An introductory note. In Cimoli, Dosi & Stiglitz (Eds.), Industrial Policy and Development. Oxford University Press.",
+     "Diamond, J., 2002, Evolution, consequences and future of plant and animal domestication, Nature, 418, 700-707.",
+     "Engerman, S.L. and K. L. Sokoloff, 2005, Colonialism, inequality, and long-run paths of development, NBER Working Paper 11057",
+     "Evans, P. (1995). Embedded Autonomy: States and Industrial Transformation. Princeton University Press.",
+     "Gallup, J., Sachs, J. and A. Mellinger, 1998, Geography and economic development, NBER WP no. 6849.",
+     "Glaeser, E. L., La Porta, R., Lopez-de-Silanes, F., & Shleifer, A. (2004). Do institutions cause growth? Journal of Economic Growth, 9(3), 271–303.",
+     "Hall, P. A., & Soskice, D. (Eds.) (2001). Varieties of Capitalism: The Institutional Foundations of Comparative Advantage. Oxford University Press.",
+     "Henderson, V., Shalizi, Z. and A. Venables, 2001, Geography and development, Journal of Economic Geography, 1, 81-105.",
+     "Hodgson, G. M. (2006). What are institutions? Journal of Economic Issues, 40(1), 1–25.",
+     "Kenny, C., and D. Williams, 2001, What do we know about economic growth? Or, why don’t we know very much? World Development, 29(1), 1-22.",
+     "Mokyr, J. (2016). A Culture of Growth: The Origins of the Modern Economy. Princeton University Press.",
+     "Nelson, R. R. (2008). Economic development from the perspective of evolutionary economic theory. Oxford Development Studies, 36(1), 9–21.",
+     "Nunn, N. (2008). The long-term effects of Africa's slave trades. Quarterly Journal of Economics, 123(1), 139–176.",
+     "Rodrik, D., A. Subramanian and F. Trebbi., 2004, Institutions Rule: The Primacy of Institutions over Geography and Integration in Economic Development, Journal of Economic Growth, 9(2), 131-65.",
+     "Sachs, J., 2003, Institutions Don’t Rule: Direct Effects of Geography on Per Capita Income, NBER Working Paper w9490."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "To what extent should institutions be considered the ultimate cause of socio- economic development? Is radical institutional reform a prerequisite for economic growth?",
+    "Do institutions cause technical change, or co-evolve with it? Discuss using examples.",
+    "Can colonialism be felt in modern patterns of development and technical change? Is colonialism missing in the debate on geography and institutions?",
+    "Which institutions matter most for building innovation and production capabilities in latecomer countries?",
+    "What role can geography play in the process of economic development, and does technical change weaken or strengthen it?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S11",
+   "course": "HD",
+   "number": "Lecture XI",
+   "source_label": "Session 11",
+   "title": "Climate change: unequal vulnerability, strategies, and human behavior",
+   "type": "lecture",
+   "date": "2026-11-27",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Sanae Okamoto",
+   "readings": {
+    "required": [
+     "Thomas K, Hardy RD, Lazrus H, et al. Explaining differential vulnerability to climate change: A social science review. WIREs Clim Change. 2019; 10:e565. https://doi.org/10.1002/wcc.565",
+     "Vollmer, A., S. Ceolotto, and N. Farrell. 2026. “Nature-Based Solutions for Climate Adaptation: Review of Barriers to Adoption and Guidelines for Policymakers.” Environmental Policy and Governance 36, no. 3: 422–443. https://doi.org/10.1002/eet.70056",
+     "Nielsen, K. S., Cologna, V., Bauer, J. M. et al. Realizing the full potential of behavioural science for climate change mitigation. Nature Climate Change, 14, 322–330 (2024). https://doi.org/10.1038/s41558-024-01951-1"
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-10.1",
+   "course": "ETI",
+   "number": "Lecture X",
+   "source_label": "Week 10, 10.1",
+   "title": "Technological change, structural change and inequality",
+   "type": "lecture",
+   "date": "2026-12-02",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Ciarli, T. and Ràfols, I. (2019). The Relation between Research Priorities and Societal Demands: The Case of Rice. Research Policy, 48(4):949–967.",
+     "Ciarli, Tommaso, Maria Savona, and Jodie Thorpe, 2021, Innovation for Inclusive Structural Change, in Jeong-Dong Lee, Keun Lee, Slavo Radosevic, Dirk Meissner, and Nicholas S. Vonortas (eds), The Challenges of Technology and Economic Catch- Up in Emerging Economies, Oxford University Press."
+    ],
+    "additional": [
+     "Acemoglu, D. & Restrepo, P., 2022, Tasks, Automation, and the Rise in U.S. Wage Inequality. Econometrica 90, 1973–2016.",
+     "Acemoglu, Daron, and David Autor. 2011. “Skills, Tasks and Technologies: Implications for Employment and Earnings.” In Handbook of Labor Economics, edited by David Card and Orley Ashenfelter, 4:1043–1171. Elsevier. https://doi.org/10.1016/S0169-7218(11)02410-5.",
+     "Aghion, P., Antonin, C., & Bunel, S. (2021). The Power of Creative Destruction: Economic Upheaval and the Wealth of Nations. Harvard University Press.",
+     "Aghion, P., Akcigit, U., Bergeaud, A., Blundell, R. and D. Hemous, 2019, Innovation and top income inequality, Review of Economic Studies, 86(1), 1-45.",
+     "Aghion, Philippe, Ufuk Akcigit, Ari Hyytinen, and Otto Toivanen. 2017. “The Social Origins of Inventors.” 24110. NBER Working Paper No. 24110. http://www.nber.org/papers/w24110?utm_campaign=ntw&utm_medium=email &utm_source=ntw.",
+     "Autor, D., Dorn, D., Katz, L.F., Patterson, C., van Reenen, J., 2020, The fall of the labor share and the rise of superstar firms, Quarterly Journal of Economics, 135, 645-709.",
+     "Bell, Alex, Raj Chetty, Xavier Jaravel, Neviana Petkova, and John Van Reenen. 2019. \"Who Becomes an Inventor in America? The Importance of Exposure to Innovation.\" Quarterly Journal of Economics, 134(2), 647–713",
+     "Chataway, Joanna, Rebecca Hanlin, and Raphael Kaplinsky. 2014. “Inclusive Innovation: An Architecture for Policy Development.” Innovation and Development 4 (1): 33–54. https://doi.org/10.1080/2157930X.2013.876800.",
+     "Castellacci, F., 2022, Innovation and social welfare: A new research agenda. J. Econ. Surv. doi:10.1111/joes.12537",
+     "Ciarli, T. (Ed.). (2022). Changing Directions: Steering science, technology and innovation towards the Sustainable Development Goals. Brighton, UK: STRINGS, SPRU, University of Sussex. https://doi.org/10.20919/FSOF1258",
+     "Ciarli, T., Lorentz, A., Valente, M., and Savona, M., 2019, Structural changes and growth regimes, Journal of Evolutionary Economics, 29(1):119–176.",
+     "Coluccia, D. M., Gaia Dossi, B., & Ottinger, S. (2023). Racial Discrimination and Lost Innovation.",
+     "Confraria, H., Ciarli, T., & Noyons, E. (2024). Countries’ research priorities in relation to the Sustainable Development Goals. Research Policy, 53(3), 104950. https://doi.org/10.1016/j.respol.2023.104950",
+     "Das, Maitreyi Bordia, and Sabina Anne Espinoza. 2019. “Inclusion Matters in Africa.” Washington DC. https://openknowledge.worldbank.org/bitstream/handle/10986/32528/IM-Africa.pdf.",
+     "Dossi, G. (2024). Race and Science.",
+     "Evenhuis, E., Lee, N., Martin, R., & Tyler, P. (2021). Rethinking the political economy of place: challenges of productivity and inclusion. Cambridge Journal of Regions, Economy and Society, 14(1), 3–24. https://doi.org/10.1093/cjres/rsaa043",
+     "Klingler-Vidra, R., & Wade, R. (2020). \"Science and innovation policies for inclusive development in the Global South.\" Journal of Development Studies, 56(6): 1118-1134.",
+     "Lakner, C. & Milanovic, B., 2016, Global Income Distribution: From the Fall of the Berlin Wall to the Great Recession. World Bank Econ. Rev. 30, 203–232.",
+     "Lee, K., & Malerba, F. (2017). \"Catch-up cycles and changes in industrial leadership: Windows of opportunity and responses of firms and countries.\" Research Policy, 46(2): 338-351.",
+     "Kalyani, A., Bloom, N., Carvalho, M., Hassan, T., Lerner, J., & Tahoun, A. (2025). The diffusion of new technologies. Quarterly Journal of Economics, 140(2), 1299–1365.",
+     "Korinek, A., & Stiglitz, J. E. (2021). Artificial intelligence, globalization, and strategies for economic development. NBER Working Paper 28453.",
+     "Moll, B., Rachel, L., & Restrepo, P. (2022). Uneven growth: Automation's impact on income and wealth inequality. Econometrica, 90(6), 2645–2683.",
+     "Piketty, T. (2014). Capital in the Twenty-First Century. Belknap Press of Harvard University Press, Cambridge, MA.",
+     "Saha, A. & Ciarli, T., 2018, Innovation, Structural Change, and Inclusion. A Cross Country PVAR Analysis. SWPS (SPRU - Science and Technology Policy Research, University of Sussex)"
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "Under what conditions does technical change exacerbate or reduce income inequality, and how do these conditions vary across stages of development?",
+    "Does more inclusion in innovation processes enhance structural change and growth; what are the trade-offs?",
+    "What structural transformation pathways are most compatible with reducing inequality?",
+    "How can institutions moderate the relation between technical change, structural change and inequality?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "SED-10.2",
+   "course": "SED",
+   "number": "Lecture X",
+   "source_label": "Week 10, 10.2",
+   "title": "Intellectual property rights and development",
+   "type": "lecture",
+   "date": "2026-12-03",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "CIPR, 2002, Integrating Intellectual Property Rights and Development Policy.",
+     "Park, W. G., & Lippoldt, D. (2005). International Licensing and the Strengthening of Intellectual Property Rights in Developing Countries during the 1990s. OECD economic studies, 2005(1)."
+    ],
+    "additional": [
+     "David, P.A. “Intellectual Property Institutions and the Panda’s Thumb: Patents, Copyrights, and Trade Secrets in Economic Theory and History.” In Global Dimensions of Intellectual Property Rights in Science and Technology, edited by M.B. Wallerstein, M.E. Mogee and R.A. Schoen, 19-64. Washington, D.C.: National Academy Press, 1993.",
+     "van Dijk, T. W. P. (1994). The limits of patent protection. Essays on the Economics of Intellectual Property Rights, Universitaire Pers Maastricht.",
+     "Helpman, E. (1993). Innovation, Imitation, and Intellectual Property Rights. Econometrica, 61(6), 1247-80."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "Which fields of knowledge are especially important for development and IPRs, and what are current issues in this field?",
+    "How do multinational companies play a role in development and IPRs?",
+    "What has been the impact of TRIPS on development?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S12",
+   "course": "HD",
+   "number": "Lecture XII",
+   "source_label": "Session 12",
+   "title": "The welfare state, social protection and poverty",
+   "type": "lecture",
+   "date": "2026-12-04",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Franziska Gassmann",
+   "readings": {
+    "required": [
+     "Alderman, H. and R. Yemtsov (2013), ‘How Can Safety Nets Contribute to Economic Growth?’, Policy Research Working Paper 6437, The World Bank, Washington DC. https://openknowledge.worldbank.org/handle/10986/15578",
+     "Atkinson, A. B. (1996). The Economics of the Welfare State. The American Economist, 40(2), 5–15. doi:10.1177/056943459604000202",
+     "Barr, N. (1992). Economic Theory and the Welfare State: A Survey and Interpretation. Journal of Economic Literature, 30(2), 741–803. http://www.jstor.org/stable/2727702",
+     "Barrientos, A. (2012), ‘Social Transfers and Growth: What Do We Know? What Do We Need to Find Out?’, World Development, 40(1), pp. 11–20. https://doi.org/10.1016/j.worlddev.2011.05.012",
+     "Beaulier, S. and Caplan, B. (2007), Behavioral Economics and Perverse Effects of the Welfare State. Kyklos, 60: 485–507. https://doi.org/10.1111/j.1467-6435.2007.00382.x",
+     "Devereux, S. & R. Sabates-Wheeler (2004). Transformative social protection. IDS Working Paper 232. Brighton: IDS.",
+     "Lindbeck, A. (2006). The Welfare State — Background, Achievements, Problems. IFN Working Paper No. 662, Research Institute of Industrial Economics (IFN), Stockholm."
+    ],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S13",
+   "course": "HD",
+   "number": "Lecture XIII",
+   "source_label": "Session 13",
+   "title": "Taxation and inequality",
+   "type": "lecture",
+   "date": "2026-12-04",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bruno Martorano",
+   "readings": {
+    "required": [
+     "Piketty (2014), Capital in the Twenty-First Century, Harvard University Press, chap. 14 “Rethinking the Progressive Income Tax”",
+     "Piketty, T., Saez, E., & Stantcheva, S. (2014). Optimal Taxation of Top Labor Incomes: A Tale of Three Elasticities. American Economic Journal: Economic Policy, 6(1): 230–71.",
+     "Ivanova, A., Keen, M., & Klemm, A. (2005). The Russian ‘flat tax’ reform. Economic Policy, 20(43), 398–444. https://www.imf.org/external/pubs/ft/wp/2005/wp0516.pdf",
+     "Martorano, B. (2014). The Impact of Uruguay’s 2007 Tax Reform on Equity and Efficiency. Development Policy Review, 32(6), 701–714. https://onlinelibrary.wiley.com/doi/epdf/10.1111/dpr.12085"
+    ],
+    "additional": [],
+    "optional": [
+     "Diamond, P., & Saez, E. (2011). The Case for a Progressive Tax: From Basic Research to Policy Recommendations. Journal of Economic Perspectives, 25(4), pp. 165–190.",
+     "IMF (2017), Fiscal Monitor 2017. https://www.imf.org/en/Publications/FM/Issues/2017/10/05/fiscal-monitor-october-2017",
+     "Martorano, B. (2018). Taxation and inequality in developing countries: Lessons from the recent experience of Latin America. Journal of International Development, 30(2): 256– 273. https://onlinelibrary.wiley.com/doi/epdf/10.1002/jid.3350",
+     "Alstadsæter, A., Johannesen, N., & Zucman, G. (2018). Who owns the wealth in tax havens? Macro evidence and implications for global inequality. Journal of Public Economics, 162, 89–100."
+    ]
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-11.1",
+   "course": "ETI",
+   "number": "Lecture XI",
+   "source_label": "Week 11, 11.1",
+   "title": "Innovation policies",
+   "type": "lecture",
+   "date": "2026-12-09",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bart Verspagen",
+   "readings": {
+    "required": [
+     "Lundvall, B.-Å., Borrás, S. (2005). Science, Technology and Innovation Policy. In J. Fagerberg, D. Mowery & R. Nelson (Eds). The Oxford Handbook of Innovation (pp. 599-631), Oxford University Press.",
+     "Steinmueller, W. E. (2010). Economics of technology policy. In B.H. Hall & N. Rosenberg (Eds.), Handbook of the Economics of Innovation (Vol. 2, pp. 1181- 1218), North-Holland.",
+     "Schot, J., & Steinmueller, W. E. (2018). Three frames for innovation policy: R&D, systems of innovation and transformative change. Research policy, 47(9), 1554- 1567."
+    ],
+    "additional": [
+     "Wade, R. H. (2018). The developmental state: dead or alive? Development and change, 49(2), 518-546.",
+     "Cimoli, M., Dosi, G. and J.E. Stiglitz (Eds.). (2009), Industrial Policy and Development: The Political Economy of Capabilities Accumulation, Oxford Academic.",
+     "Smith, K. (1991). Innovation policy in an evolutionary context. In P.P. Saviotti & S. J. Metcalfe (Eds.), Evolutionary theories of economic and Technological change (pp. 256-275). Routledge.",
+     "Metcalfe, J. S. (2003). Equilibrium and evolutionary foundations of competition and technology policy: new perspectives on the division of labour and the innovation process. In P. Pelikan & G. Wegner (Eds.), The evolutionary analysis of economic policy (pp. 162-190), Edward Elgar Publishing."
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "Do different theoretical foundations for innovation policy lead to different policies?",
+    "Transformative policy or transformative politics?",
+    "How much government involvement is good for innovation?",
+    "Is the developmental state model universally applicable?"
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "SED-11.2",
+   "course": "SED",
+   "number": "Lecture XI",
+   "source_label": "Week 11, 11.2",
+   "title": "Industrial policies",
+   "type": "lecture",
+   "date": "2026-12-10",
+   "start": "13:30",
+   "end": "15:30",
+   "room": "Belvedere Room 3",
+   "lecturer": "Tommaso Ciarli",
+   "readings": {
+    "required": [
+     "Juhász, R., Lane, N., & Rodrik, D. (2024). The new economics of industrial policy. Annual Review of Economics, 16, 213–242.",
+     "Warwick, K., 2013. Beyond Industrial Policy: Emerging Issues and New Trends (No. 2), OECD Science, Technology and Industry Policy Papers. OECD Publishing."
+    ],
+    "additional": [
+     "Amsden, A.H., 2001, The Rise of ``the Rest’’: Challenges to the West from Late Industrializing Economies, Oxford University Press.",
+     "Andreoni, A., & Chang, H.-J. (2019). \"The Political Economy of Industrial Policy: Structural Interdependencies, Policy Alignment and Conflict Management.\" Structural Change and Economic Dynamics, 48: 136-150.",
+     "Barwick, P. J., Kalouptsidi, M., & Zahur, N. B. (2024). Industrial policy: Lessons from shipbuilding. Journal of Economic Perspectives, 38(4), 55–80.",
+     "Bloom, N., Van Reenen, J., Williams, H., 2019, A Toolkit of Policies to Promote Innovation, Journal of Economic Perspectives, 33, 163–184. doi:10.1257/jep.33.3.163",
+     "Chang, H.J., 2002, Kicking away the ladder: Development strategy in historical perspective, Anthem World Economics Series. Anthem.",
+     "Choi, J., & Levchenko, A. A. (2025). The long-term effects of industrial policy. Journal of Monetary Economics.",
+     "Ciarli, T., Espinoza Madariaga, A., & Foster-McGregor, N. (2024). Industrial strategies for tackling the challenges of the twenty-first century: Trends in objectives, rationales and design in policy and academia.",
+     "Cimoli, M., Dosi, G., Nelson, R.R., Stiglitz, J.E., 2009a, Institutions and Policies Shaping Industrial Development: An Introductory Note, in Cimoli, M., Dosi, G., Stiglitz, J. (eds.), Industrial Policy and Development. The Political Economy of Capabilities Accumulation, The Initiative for Policy Dialogue Series, Oxford University Press, pp. 19–38.",
+     "Crafts, N.F.R. and Hughes, A., 2014, Industrial policy for the medium to long-term.",
+     "Criscuolo, C., Gonne, N., Kitazawa, K. & Lalanne, G. 2022, An industrial policy framework for OECD countries.",
+     "Edler, J., Fagerberg, J., 2017. Innovation policy: what, why, and how. Oxford Rev. Econ. Policy 33, 2–23.",
+     "Evenett, S., Jakubik, A., Martín, F., & Ruta, M. (2024). The return of industrial policy in data. The World Economy, 47(7), 2762–2788.",
+     "Hasanov, F. & Cherif, R., 2019, The Return of the Policy That Shall Not Be Named: Principles of Industrial Policy. IMF Work. Pap. 2019, 1",
+     "Hausmann, R., and Rodrik, D. (2006). Doomed to choose: Industrial policy as predicament. John F. Kennedy School of Government",
+     "Juhász, R., Lane, N., Oehlsen, E., & Pérez, V. C. (2022). The who, what, when, and how of industrial policy: A text-based approach. STEG Working Paper.",
+     "Juhász, R., & Steinwender, C. (2024). Industrial policy and the Great Divergence. Annual Review of Economics, 16, 27–54.",
+     "Lane, N. (2025). Manufacturing revolutions: Industrial policy and industrialization in South Korea. Quarterly Journal of Economics, 140(3)",
+     "Mazzucato, M., Kattel, R., & Ryan-Collins, J. (2020). \"Challenge-Driven Innovation Policy: A New Policy Toolkit.\" Journal of Industry, Competition and Trade, 20: 421-437.",
+     "Mazzucato, M., & Rodrik, D. (2026). Industrial policy with conditionalities: A taxonomy and sample cases. Industrial and Corporate Change.",
+     "Öniş, Z., 1991, The Logic of the Developmental State, review of 4 books (Asia's Next Giant: South Korea and Late Industrialization by Alice H. Amsden; The Political Economy of the New Asian Industrialism by Frederic C. Deyo; MITI and the Japanese Miracle by Chalmers Johnson; Governing the Market: Economic Theory and the Role of Government in East Asian Industrialization by Robert Wade), Comparative Politics, Vol. 24, No. 1 (Oct., 1991), pp. 109-126.",
+     "Pack, H. & Saggi, K., 2006, Is there a case for industrial policy? A critical survey, World Bank Research Observer 21, 267–297.",
+     "Rodrik, D. (2004). \"Industrial Policy for the Twenty-First Century.\" https://www.hks.harvard.edu/publications/industrial-policy-twenty-first-century"
+    ],
+    "optional": []
+   },
+   "essay_questions": [
+    "What distinguishes the rationales for industrial policy in mainstream economics (market failures) versus evolutionary economics (systemic failures, coordination failures, capability building), and how do these differences translate into distinct policy instruments?",
+    "Under what conditions have sectoral/vertical policies been more effective than horizontal ones, and what does this suggest for current challenges such as digitalisation and decarbonisation?",
+    "Design an industrial and innovation policy strategy for a specific country (or region), addressing its structural challenges and opportunities, and justify your proposed instruments with reference to the literature."
+   ],
+   "notes": [
+    "Opens with a 20-minute presentation by a full-time PhD fellow (assessed), followed by discussion. Presenter: TBC.",
+    "Date follows the integrated course outline of 5 October 2026 (ETI on Wednesday, SED on Thursday). The earlier coursework spreadsheet ends on 18–19 November with a different order of topics."
+   ],
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-S14",
+   "course": "HD",
+   "number": "Lecture XIV",
+   "source_label": "Session 14",
+   "title": "The political economy of inequality",
+   "type": "lecture",
+   "date": "2026-12-11",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bruno Martorano",
+   "readings": {
+    "required": [
+     "Günther, I. and Martorano, B. (2023). Inequality, social mobility and redistributive preferences. UNU-MERIT Working Paper No. 017. https://www.merit.unu.edu/publications/wppdf/2023/wp2023-017.pdf",
+     "Iacoella, F., Justino, P., & Martorano, B. (2020). Roots of dissent: Trade liberalization and the rise of populism in Brazil. WIDER Working Paper 2020/118.",
+     "Iacoella, F., Justino, P., & Martorano, B. (2021). Do pandemics lead to rebellion? Policy responses to COVID-19, inequality, and protests in the USA. WIDER Working Paper 2021/57.",
+     "Justino, P., Martorano, B., & Metzger, L. (2024). Can Preferences for Redistribution Explain the Impact of Austerity on Political Participation? Evidence from the UK. Oxford Bulletin of Economics and Statistics."
+    ],
+    "additional": [],
+    "optional": [
+     "Giuliano, P. and Spilimbergo, A. (2024). Aggregate Shocks and the Formation of Preferences and Beliefs. NBER Working Paper No. w32669.",
+     "Stantcheva, S. (2024). Perceptions and preferences for redistribution. Oxford Open Economics, 3(Supplement_1), i96–i100.",
+     "Hauser, O. P., & Norton, M. I. (2017). (Mis)perceptions of inequality. Current Opinion in Psychology, 18, 21–25.",
+     "Hirschman, A. O., & Rothschild, M. (1973). The changing tolerance for income inequality in the course of economic development. Quarterly Journal of Economics, 87(4), 544–566.",
+     "Hvidberg, K. B., Kreiner, C. T., & Stantcheva, S. (2023). Social positions and fairness views on inequality. Review of Economic Studies, 90(6), 3083–3118.",
+     "Starmans, C., Sheskin, M., & Bloom, P. (2017). Why people prefer unequal societies. Nature Human Behaviour, 1(4), 0082."
+    ]
+   },
+   "essay_questions": [],
+   "notes": [],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S15",
+   "course": "HD",
+   "number": "Lecture XV",
+   "source_label": "Session 15",
+   "title": "Fellows present their topic",
+   "type": "presentation",
+   "date": "2026-12-18",
+   "start": "09:00",
+   "end": "11:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bruno Martorano",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Fellows present their initial ideas for the final research proposal: 20-minute slot each (about 10 minutes of presentation, the rest for discussion). Attendance at both sessions is expected; acting as discussant is part of the exercise."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "HD-S16",
+   "course": "HD",
+   "number": "Lecture XVI",
+   "source_label": "Session 16",
+   "title": "Fellows present their topic",
+   "type": "presentation",
+   "date": "2026-12-18",
+   "start": "11:00",
+   "end": "13:00",
+   "room": "Belvedere Room 3",
+   "lecturer": "Bruno Martorano",
+   "readings": {
+    "required": [],
+    "additional": [],
+    "optional": []
+   },
+   "essay_questions": [],
+   "notes": [
+    "Fellows present their initial ideas for the final research proposal: 20-minute slot each (about 10 minutes of presentation, the rest for discussion). Attendance at both sessions is expected; acting as discussant is part of the exercise."
+   ],
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  }
+ ],
+ "deadlines": [
+  {
+   "id": "HD-poverty-measure",
+   "course": "HD",
+   "date": "2026-10-09",
+   "time": "11:00",
+   "title": "Presentation: your ideal global poverty measure",
+   "details": "Each fellow presents an ideal global poverty measure (max. 12 minutes), applied to real-world data: concept and definition, choice of indicator(s), and the final measure.",
+   "type": "presentation",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/Human Development/Lecture 1 _ Human Developmet.pdf"
+   ]
+  },
+  {
+   "id": "ETI-SED-presenter-list",
+   "course": "ETI",
+   "date": "2026-10-22",
+   "time": null,
+   "title": "Send the presentation list (ETI and SED)",
+   "details": "One student emails a single list stating who presents in which session (each fellow presents twice, once per course, in weeks 6–11).",
+   "type": "deadline",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf",
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/ETI_2_InnovationProperties2026.pdf"
+   ]
+  },
+  {
+   "id": "PPE-exam",
+   "course": "PPE",
+   "date": "2026-10-25",
+   "time": null,
+   "title": "Take-home exam, Public Policy Evaluation",
+   "details": "Weight 50%. The source gives 25 October 2026 (a Sunday) with “no class”; exact release and submission times are not stated.",
+   "type": "exam",
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "PPE-PAP",
+   "course": "PPE",
+   "date": null,
+   "time": null,
+   "title": "Pre-Analysis Plan (PAP)",
+   "details": "Weight 30%. Individual PAP for a hypothetical impact evaluation. Deadline and guidelines to be communicated during the first weeks of the course.",
+   "type": "deadline",
+   "confidence": "LOW",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf"
+   ]
+  },
+  {
+   "id": "PPE-referee",
+   "course": "PPE",
+   "date": null,
+   "time": null,
+   "title": "Referee report on an assigned paper",
+   "details": "Weight 20%. Deadline and guidelines to be communicated during the first weeks of the course.",
+   "type": "deadline",
+   "confidence": "LOW",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Policy Evaluation/PPE-2026- course manual.pdf"
+   ]
+  },
+  {
+   "id": "HD-group-work",
+   "course": "HD",
+   "date": "2026-11-06",
+   "time": "11:00",
+   "title": "Group presentation: dimensions of inequality",
+   "details": "10-minute group presentation on an assigned paper plus discussant role for another group.",
+   "type": "presentation",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/Human Development/Lecture 1 _ Human Developmet.pdf"
+   ]
+  },
+  {
+   "id": "ETI-SED-short-essays",
+   "course": "ETI",
+   "date": null,
+   "time": null,
+   "title": "Two short essays and two presentations (ETI and SED)",
+   "details": "One session per course in weeks 6–11 (4 November – 10 December). Essay max. 2,000 words, submitted on the day of the presentation; 20-minute presentation.",
+   "type": "deadline",
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "HD-topic-presentation",
+   "course": "HD",
+   "date": "2026-12-18",
+   "time": "09:00",
+   "title": "Presentation of your research proposal idea",
+   "details": "20-minute slot: about 10 minutes of presentation, the rest for comments and questions.",
+   "type": "presentation",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/Human Development/Lecture 1 _ Human Developmet.pdf"
+   ]
+  },
+  {
+   "id": "HD-final",
+   "course": "HD",
+   "date": "2027-01-15",
+   "time": null,
+   "title": "Final assignment: research proposal, Human Development",
+   "details": "Individual short research proposal, 2,000 words, with a novel idea and the empirical strategy to address it.",
+   "type": "deadline",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
+    "FT First-year '26-27/Mandatory courses/Human Development/Lecture 1 _ Human Developmet.pdf",
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+   ]
+  },
+  {
+   "id": "ETI-SED-final",
+   "course": "ETI",
+   "date": "2027-01-23",
+   "time": null,
+   "title": "Final integrated essay (ETI and SED)",
+   "details": "Max. 5,000 words; 60% of the grade. Combines the topics and questions of two lectures, one from each course, other than those presented. Final date TBC.",
+   "type": "deadline",
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Mandatory courses/Economics of Innovation (FT)/PhDcourseIntegrated_20261005.pdf"
+   ]
+  },
+  {
+   "id": "Y1-proposal",
+   "course": "PRG",
+   "date": "2027-05-20",
+   "time": null,
+   "title": "PhD proposal submission to the PhD Office",
+   "details": "No later than 20 May. Max. 4,000 words excluding references and appendices; requires supervisor endorsement; submit at least two weeks before the defence.",
+   "type": "deadline",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/PhD Guide/UNU-MERIT PhD Guide_2026-27.pdf",
+    "FT First-year '26-27/Welcome Y1 FT programme 2026.pptx"
+   ]
+  },
+  {
+   "id": "Y1-revision",
+   "course": "PRG",
+   "date": "2027-08-31",
+   "time": null,
+   "title": "Proposal resubmission (only if “Revision”)",
+   "details": "The welcome presentation gives 31 August for resubmission; the PhD Guide says revisions are normally submitted by mid-August.",
+   "type": "deadline",
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/PhD Guide/UNU-MERIT PhD Guide_2026-27.pdf",
+    "FT First-year '26-27/Welcome Y1 FT programme 2026.pptx"
+   ]
+  }
+ ],
+ "events": [
+  {
+   "id": "sept-event",
+   "start": "2026-09-21",
+   "end": "2026-09-30",
+   "title": "September PhD event (Research Week and Internal Conference)",
+   "details": "Skills trainings, first-year proposal presentations (22–23 September), Internal Conference (24–25 September).",
+   "type": "event",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/September event/Research Week Sept - Programme 2026.xlsx"
+   ]
+  },
+  {
+   "id": "reg-p3",
+   "start": "2026-11-06",
+   "end": null,
+   "title": "SBE course registration deadline, education period 3",
+   "details": "Midnight Dutch time.",
+   "type": "registration",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Manual course registration 2026-2027.pdf"
+   ]
+  },
+  {
+   "id": "reg-p4",
+   "start": "2026-11-27",
+   "end": null,
+   "title": "SBE course registration deadline, education period 4",
+   "details": "Midnight Dutch time.",
+   "type": "registration",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Manual course registration 2026-2027.pdf"
+   ]
+  },
+  {
+   "id": "xmas",
+   "start": "2026-12-25",
+   "end": "2027-01-01",
+   "title": "Christmas holidays",
+   "details": "The academic calendar prints “25/01/2026 – 01/01/2027”; read as 25 December.",
+   "type": "holiday",
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "coursework-end",
+   "start": "2027-01-31",
+   "end": null,
+   "title": "End of mandatory coursework (semester 1)",
+   "details": "Mandatory coursework runs until the end of January; minimum grade 6, required average 7.5.",
+   "type": "event",
+   "confidence": "MEDIUM",
+   "sources": [
+    "FT First-year '26-27/PhD Guide/UNU-MERIT PhD Guide_2026-27.pdf",
+    "FT First-year '26-27/Welcome Y1 FT programme 2026.pptx"
+   ]
+  },
+  {
+   "id": "carnival",
+   "start": "2027-02-08",
+   "end": "2027-02-12",
+   "title": "Carnival",
+   "details": "",
+   "type": "holiday",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "reg-p5",
+   "start": "2027-02-19",
+   "end": null,
+   "title": "SBE course registration deadline, education period 5",
+   "details": "Midnight Dutch time.",
+   "type": "registration",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Manual course registration 2026-2027.pdf"
+   ]
+  },
+  {
+   "id": "march-week",
+   "start": "2027-03-17",
+   "end": "2027-03-26",
+   "title": "March Research Week (mandatory)",
+   "details": "Proposal progress presentations, higher-year presentations, skills and methods sessions; with Dual Career fellows.",
+   "type": "event",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Welcome Y1 FT programme 2026.pptx",
+    "FT First-year '26-27/PhD Guide/UNU-MERIT PhD Guide_2026-27.pdf"
+   ]
+  },
+  {
+   "id": "goodfriday",
+   "start": "2027-03-26",
+   "end": null,
+   "title": "Good Friday",
+   "details": "",
+   "type": "holiday",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "easter",
+   "start": "2027-03-29",
+   "end": null,
+   "title": "Easter Monday",
+   "details": "",
+   "type": "holiday",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "reg-p6",
+   "start": "2027-04-16",
+   "end": null,
+   "title": "SBE course registration deadline, education period 6",
+   "details": "Midnight Dutch time.",
+   "type": "registration",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Manual course registration 2026-2027.pdf"
+   ]
+  },
+  {
+   "id": "kingsday",
+   "start": "2027-04-26",
+   "end": "2027-04-27",
+   "title": "Bridge Day and King’s Day",
+   "details": "",
+   "type": "holiday",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "liberation",
+   "start": "2027-05-05",
+   "end": null,
+   "title": "Liberation Day",
+   "details": "",
+   "type": "holiday",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "ascension",
+   "start": "2027-05-06",
+   "end": "2027-05-07",
+   "title": "Ascension Day and Bridge Day",
+   "details": "",
+   "type": "holiday",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "whit",
+   "start": "2027-05-17",
+   "end": null,
+   "title": "Whit Monday",
+   "details": "",
+   "type": "holiday",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/Elective courses/Academic Calendar SBE 2026-2027 - course registration.pdf"
+   ]
+  },
+  {
+   "id": "agreement",
+   "start": "2027-09-30",
+   "end": null,
+   "title": "PhD Agreement to the PhD Office (after admission to year 2)",
+   "details": "",
+   "type": "event",
+   "confidence": "HIGH",
+   "sources": [
+    "FT First-year '26-27/PhD Guide/UNU-MERIT PhD Guide_2026-27.pdf"
+   ]
+  }
+ ]
+}

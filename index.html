@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>UNU-MERIT Year 1 Schedule</title>
+<meta name="description" content="UNU-MERIT PhD programme, full-time first year 2026–27: weekly schedule, reading lists and deadlines.">
+<style>
+/* Colours taken from the CSS custom properties of merit.unu.edu (--unu-navy, --main-color, --red, greys). */
+:root{
+  --navy:#15234A; --blue:#4097DB; --red:#A9283C;
+  --grey-2:#DAD9DC; --grey-3:#C3C3C7;
+  --bg:#FFFFFF; --ink:#15234A; --ink-soft:#4a5370; --rule:#DAD9DC; --zebra:#F6F6F7;
+  --c-PPE:#4097DB; --c-HD:#A9283C; --c-ETI:#15234A; --c-SED:#999DA4; --c-PRG:#129E6D;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0f1730; --ink:#ECECED; --ink-soft:#b9bccb; --rule:#2c375a; --zebra:#141e3c;
+    --navy:#ECECED; --c-ETI:#8fa3d9; --c-SED:#C3C3C7; --red:#e0677a; --blue:#66C3FF;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0f1730; --ink:#ECECED; --ink-soft:#b9bccb; --rule:#2c375a; --zebra:#141e3c;
+  --navy:#ECECED; --c-ETI:#8fa3d9; --c-SED:#C3C3C7; --red:#e0677a; --blue:#66C3FF;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;overflow-wrap:anywhere;background:var(--bg);color:var(--ink);
+  font:15px/1.5 National2,"Helvetica Neue",Helvetica,Arial,sans-serif;}
+.wrap{max-width:980px;margin:0 auto;padding:0 16px}
+header{border-bottom:3px solid var(--navy);padding:28px 0 14px}
+header .kicker{font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft)}
+h1{font-size:26px;line-height:1.2;margin:4px 0 6px;font-weight:700;color:var(--navy)}
+header p{margin:0;color:var(--ink-soft);font-size:14px}
+nav{position:sticky;top:0;background:var(--bg);border-bottom:1px solid var(--rule);z-index:5}
+nav .wrap{display:flex;gap:20px;overflow-x:auto;white-space:nowrap}
+nav a{display:inline-block;padding:10px 0;color:var(--ink);text-decoration:none;font-size:14px;border-bottom:2px solid transparent}
+nav a:hover{border-bottom-color:var(--blue)}
+h2{font-size:18px;color:var(--navy);margin:36px 0 8px;padding-bottom:4px;border-bottom:1px solid var(--rule)}
+h3{font-size:15px;margin:22px 0 6px;color:var(--navy)}
+a{color:var(--blue)}
+.legend{display:flex;flex-wrap:wrap;gap:6px 18px;margin:12px 0 0;font-size:13px;color:var(--ink-soft)}
+.sw{display:inline-block;width:10px;height:10px;margin-right:6px;vertical-align:0}
+.sw-PPE{background:var(--c-PPE)} .sw-HD{background:var(--c-HD)} .sw-ETI{background:var(--c-ETI)} .sw-SED{background:var(--c-SED)} .sw-PRG{background:var(--c-PRG)}
+.tools{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.btn{font:inherit;font-size:13px;padding:5px 11px;border:1px solid var(--navy);background:transparent;color:var(--navy);cursor:pointer;text-decoration:none}
+.btn:hover,.btn[aria-pressed="true"]{background:var(--navy);color:var(--bg)}
+.upcoming{border-left:3px solid var(--red);padding:2px 0 2px 14px;margin:20px 0 0}
+.upcoming h2{border:0;margin:0 0 4px;padding:0}
+.upcoming ul{list-style:none;margin:0;padding:0}
+.upcoming li{padding:3px 0;font-size:14px}
+.upcoming .what{font-weight:600}
+.week{margin:0;border-bottom:1px solid var(--rule)}
+.week>summary{list-style:none;cursor:pointer;padding:12px 0;display:flex;gap:12px;align-items:baseline}
+.week>summary::-webkit-details-marker{display:none}
+.week>summary::before{content:"+";width:14px;color:var(--ink-soft);flex:none}
+.week[open]>summary::before{content:"−"}
+.week>summary .wk{margin-right:auto;font-weight:700;color:var(--navy)}
+.week>summary .count{font-size:13px;color:var(--ink-soft);text-align:right}
+.week.now>summary .wk::after{content:"this week";white-space:nowrap;margin-left:10px;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--bg);background:var(--blue);padding:1px 6px;vertical-align:2px}
+.week.past>summary .wk{color:var(--ink-soft);font-weight:600}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:0 0 14px}
+th{text-align:left;font-weight:600;font-size:12px;letter-spacing:.04em;text-transform:uppercase;color:var(--ink-soft);border-bottom:1px solid var(--navy);padding:6px 8px}
+td{padding:7px 8px;border-bottom:1px solid var(--rule);vertical-align:top}
+td.day{white-space:nowrap;width:118px}
+td.day small{display:block;color:var(--ink-soft)}
+td.item{border-left:3px solid var(--grey-3)}
+.c-PPE{border-left-color:var(--c-PPE)!important} .c-HD{border-left-color:var(--c-HD)!important}
+.c-ETI{border-left-color:var(--c-ETI)!important} .c-SED{border-left-color:var(--c-SED)!important} .c-PRG{border-left-color:var(--c-PRG)!important}
+.course{font-size:12px;color:var(--ink-soft)}
+.num{font-weight:600}
+tr.due td{background:var(--zebra)}
+.tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--red);margin-right:6px}
+.tag.info{color:var(--blue)}
+.tbc{font-size:12px;color:var(--red);white-space:nowrap}
+details.more summary{cursor:pointer;color:var(--blue);font-size:13px;margin-top:3px}
+details.more[open] summary{margin-bottom:6px}
+.more h4{margin:10px 0 3px;font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-soft)}
+.more ol,.more ul{margin:0;padding-left:20px}
+.more li{margin:2px 0;font-size:13.5px}
+.note{font-size:13px;color:var(--ink-soft);margin:4px 0 0}
+.note::before{content:"Note: ";font-weight:600}
+.desc{font-size:13px;color:var(--ink-soft);margin:3px 0 0}
+td.where{font-size:13px;color:var(--ink-soft);width:150px}
+.dl-table td.day{width:130px}
+.rl-course{margin-top:26px}
+.rl-session{margin:14px 0;padding-left:12px;border-left:3px solid var(--grey-2)}
+.rl-session h4{margin:0 0 2px;font-size:14.5px}
+.rl-session .meta{font-size:12.5px;color:var(--ink-soft);margin-bottom:4px}
+.rl-session ol,.rl-session ul{margin:2px 0 6px;padding-left:20px;font-size:13.5px}
+.rl-session .sub{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--ink-soft);margin-top:6px}
+.filter{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+.facts{display:grid;grid-template-columns:max-content 1fr;gap:4px 16px;font-size:14px}
+.facts dt{color:var(--ink-soft)}
+.facts dd{margin:0}
+footer{margin:48px 0 32px;padding-top:12px;border-top:1px solid var(--rule);font-size:12.5px;color:var(--ink-soft)}
+@media (max-width:640px){
+  h1{font-size:21px}
+  table,thead,tbody,tr,td,th{display:block}
+  thead{display:none}
+  tr{border-bottom:1px solid var(--rule);padding:8px 0}
+  td{border:0;padding:2px 0}
+  td.item{padding-left:10px}
+  td.day,td.where{width:auto}
+  td.day small{display:inline;margin-left:6px}
+}
+@media print{nav,.tools,.btn{display:none}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="kicker">UNU-MERIT · PhD programme · Full-time track</div>
+    <h1>Year 1 schedule 2026–27</h1>
+    <p id="updated">Loading…</p>
+    <div class="legend" id="legend"></div>
+    <div class="tools">
+      <a class="btn" href="calendar.ics" download>Calendar file (.ics)</a>
+      <button class="btn" id="past-btn" aria-pressed="false" type="button">Show past weeks</button>
+    </div>
+  </div>
+</header>
+<nav><div class="wrap">
+  <a href="#upcoming">Upcoming</a>
+  <a href="#schedule">Weekly schedule</a>
+  <a href="#deadlines">Deadlines &amp; exams</a>
+  <a href="#readings">Reading lists</a>
+  <a href="#courses">Courses</a>
+  <a href="#source-notes">Source notes</a>
+</div></nav>
+<main class="wrap">
+  <section class="upcoming" id="upcoming"><h2>Next 14 days</h2><ul id="upcoming-list"></ul></section>
+  <section id="schedule"><h2>Weekly schedule</h2><div id="weeks"></div></section>
+  <section id="deadlines"><h2>Deadlines, presentations and exams</h2><table class="dl-table"><thead><tr><th>Date</th><th>What</th><th>Details</th></tr></thead><tbody id="deadline-rows"></tbody></table></section>
+  <section id="readings"><h2>Reading lists</h2><div class="filter" id="reading-filter"></div><div id="reading-list"></div></section>
+  <section id="courses"><h2>Courses and assessment</h2><div id="course-list"></div></section>
+  <section id="source-notes"><h2>Source notes</h2><p class="desc" style="margin-bottom:8px">Items on which the source documents disagree or which have not been announced yet. They are also marked “not confirmed” in the schedule.</p><ul id="note-list"></ul></section>
+</main>
+<footer><div class="wrap" id="footer"></div></footer>
+<script>
+const MONTHS=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const MONTHS_L=['January','February','March','April','May','June','July','August','September','October','November','December'];
+const DAYS=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+const TYPE={lecture:'',tutorial:'Tutorial',presentation:'Presentation',office_hours:'Office hours',exam:'Exam',deadline:'Due',event:'Programme',registration:'Registration',holiday:'Holiday'};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const linkify=s=>esc(s).replace(/(https?:\/\/[^\s)]+[^\s).,;])/g,'<a href="$1" target="_blank" rel="noopener">$1</a>');
+const D=s=>{const [y,m,d]=s.split('-').map(Number);return new Date(y,m-1,d)};
+const iso=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+const monday=d=>{const x=new Date(d);x.setDate(x.getDate()-((x.getDay()+6)%7));return x};
+const short=d=>`${d.getDate()} ${MONTHS[d.getMonth()]}`;
+const long=s=>{const d=D(s);return `${DAYS[d.getDay()]} ${d.getDate()} ${MONTHS_L[d.getMonth()]} ${d.getFullYear()}`};
+function isoWeek(d){const x=new Date(Date.UTC(d.getFullYear(),d.getMonth(),d.getDate()));const g=x.getUTCDay()||7;x.setUTCDate(x.getUTCDate()+4-g);const y0=new Date(Date.UTC(x.getUTCFullYear(),0,1));return Math.ceil(((x-y0)/864e5+1)/7)}
+const hours=o=>o.start?(o.end?`${o.start}–${o.end}`:`${o.start}–?`):'';
+let showPast=false;
+try{showPast=localStorage.getItem('showPast')==='1'}catch(e){}
+
+fetch('program.json',{cache:'no-cache'}).then(r=>r.json()).then(render).catch(e=>{document.getElementById('updated').textContent='Could not load the data: '+e});
+
+function detail(o){
+  const r=o.readings||{};
+  const list=(h,a,ordered)=>a&&a.length?`<h4>${h}</h4><${ordered?'ol':'ul'}>${a.map(x=>`<li>${linkify(x)}</li>`).join('')}</${ordered?'ol':'ul'}>`:'';
+  const body=list('Required / core readings',r.required,1)+list('Additional readings',r.additional,1)+list('Optional',r.optional,1)+list('Video',r.video,0)+list('Questions for the final essay',o.essay_questions,0);
+  const notes=(o.notes||[]).map(x=>`<p class="note">${linkify(x)}</p>`).join('');
+  const n=(r.required||[]).length+(r.additional||[]).length+(r.optional||[]).length;
+  const q=(o.essay_questions||[]).length;
+  return notes+(body?`<details class="more"><summary>${n?n+(n===1?' reading':' readings'):'Details'}${q?' · '+q+(q===1?' question':' questions'):''}</summary>${body}</details>`:'');
+}
+
+function render(V){
+  const C=Object.fromEntries(V.courses.map(c=>[c.code,c]));C.PRG={code:'PRG',name:'Programme',short:'Programme'};
+  document.getElementById('updated').textContent=`Last updated: ${long(V.meta.updated)}. Times are Maastricht time (Europe/Amsterdam). Room is Belvedere Room 3 unless stated otherwise.`;
+  document.getElementById('legend').innerHTML=[...V.courses,C.PRG].map(c=>`<span><i class="sw sw-${c.code}"></i>${esc(c.name)}</span>`).join('');
+  const today=new Date();today.setHours(0,0,0,0);
+
+  const items=[];
+  V.sessions.forEach(o=>items.push({...o,kind:'session'}));
+  V.deadlines.forEach(t=>items.push({...t,kind:'deadline',start:t.time}));
+  V.events.forEach(e=>items.push({...e,kind:'event',course:'PRG',date:e.start,until:e.end,start:null,end:null}));
+  const sortKey=x=>x.date+(x.start||'00');
+
+  // Upcoming
+  const horizon=new Date(today);horizon.setDate(horizon.getDate()+14);
+  const soon=items.filter(x=>x.date&&D(x.date)>=today&&D(x.date)<=horizon).sort((a,b)=>sortKey(a).localeCompare(sortKey(b)));
+  const twin=x=>soon.some(t=>t.kind==='deadline'&&t.course===x.course&&t.date===x.date&&t.start===x.start);
+  const up=soon.filter(x=>x.kind==='deadline'||(x.kind==='event'&&x.type!=='holiday')||(['tutorial','presentation','office_hours'].includes(x.type)&&!twin(x)));
+  document.getElementById('upcoming-list').innerHTML=up.length?up.map(x=>{
+    const d=D(x.date);const c=C[x.course]||C.PRG;
+    const label=x.kind==='session'?`${TYPE[x.type]}: ${x.title}`:x.title;
+    return `<li><i class="sw sw-${x.course}"></i>${DAYS[d.getDay()].slice(0,3)} ${short(d)}${x.start?' '+x.start:''} · <span class="what">${esc(label)}</span> <span class="course">(${esc(c.short)})</span></li>`}).join('')
+    :'<li>No deadlines, presentations or tutorials in the next 14 days.</li>';
+
+  // Weeks
+  const byWeek={};
+  items.filter(x=>x.date).forEach(x=>{const k=iso(monday(D(x.date)));(byWeek[k]=byWeek[k]||[]).push(x)});
+  const thisWeek=iso(monday(today));
+  const html=Object.keys(byWeek).sort().map(k=>{
+    const mon=D(k);const sun=new Date(mon);sun.setDate(sun.getDate()+6);
+    const xs=byWeek[k].sort((a,b)=>sortKey(a).localeCompare(sortKey(b)));
+    const past=sun<today, now=k===thisWeek;
+    const nS=xs.filter(x=>x.kind==='session').length, nD=xs.filter(x=>x.kind==='deadline').length;
+    const count=[nS?`${nS} session${nS>1?'s':''}`:'',nD?`${nD} due / exam`:''].filter(Boolean).join(' · ')||'programme';
+    const rows=xs.map(x=>{
+      const d=D(x.date);const c=C[x.course]||C.PRG;
+      const when=`${DAYS[d.getDay()]}<small>${short(d)}${x.until?' – '+short(D(x.until)):''}${x.start?' · '+(x.kind==='session'?hours(x):x.start):''}</small>`;
+      const tbc=x.confidence&&x.confidence!=='HIGH'?' <span class="tbc" title="Sources disagree or the item is not final">not confirmed</span>':'';
+      if(x.kind==='session'){
+        const tag=TYPE[x.type]?`<span class="tag info">${TYPE[x.type]}</span>`:'';
+        return `<tr><td class="day">${when}</td><td class="item c-${x.course}"><div class="course">${esc(c.name)}</div><span class="num">${esc(x.number)}</span> · ${tag}${esc(x.title)}${tbc}${detail(x)}</td><td class="where">${esc(x.lecturer||'')}<br>${esc(x.room||'')}</td></tr>`;
+      }
+      const due=x.kind==='deadline';
+      return `<tr class="${due?'due':''}"><td class="day">${when}</td><td class="item c-${x.course}"><div class="course">${esc(c.name)}</div><span class="tag${due?'':' info'}">${TYPE[x.type]}</span>${esc(x.title)}${tbc}${x.details?`<p class="desc">${linkify(x.details)}</p>`:''}</td><td class="where"></td></tr>`;
+    }).join('');
+    return `<details class="week${now?' now':''}${past?' past':''}" data-past="${past?1:0}" ${past?'':'open'} id="w-${k}">
+      <summary><span class="wk">Week ${isoWeek(mon)} · ${short(mon)} – ${short(sun)} ${sun.getFullYear()}</span><span class="count">${count}</span></summary>
+      <table><thead><tr><th>Day</th><th>Session</th><th>Lecturer · Room</th></tr></thead><tbody>${rows}</tbody></table></details>`;
+  }).join('');
+  const box=document.getElementById('weeks');box.innerHTML=html;
+  const pb=document.getElementById('past-btn');
+  const applyPast=()=>{box.querySelectorAll('.week[data-past="1"]').forEach(w=>{w.style.display=showPast?'':'none'});pb.setAttribute('aria-pressed',showPast);pb.textContent=showPast?'Hide past weeks':'Show past weeks'};
+  pb.onclick=()=>{showPast=!showPast;try{localStorage.setItem('showPast',showPast?'1':'0')}catch(e){}applyPast()};
+  applyPast();
+
+  // Deadlines table
+  const ds=[...V.deadlines].sort((a,b)=>(a.date||'9999').localeCompare(b.date||'9999'));
+  document.getElementById('deadline-rows').innerHTML=ds.map(t=>{
+    const c=C[t.course]||C.PRG;const done=t.date&&D(t.date)<today;
+    const when=t.date?`${short(D(t.date))} ${D(t.date).getFullYear()}<small>${DAYS[D(t.date).getDay()]}${t.time?' · '+t.time:''}</small>`:'<span class="tbc">date not announced</span>';
+    return `<tr class="${done?'':'due'}"><td class="day">${when}</td><td class="item c-${t.course}"><div class="course">${esc(c.name)}</div>${esc(t.title)}${t.confidence!=='HIGH'&&t.date?' <span class="tbc">not confirmed</span>':''}</td><td style="font-size:13.5px">${linkify(t.details)}</td></tr>`}).join('');
+
+  // Reading lists
+  const order=['PPE','HD','ETI','SED'];let sel='all';
+  const fil=document.getElementById('reading-filter');
+  fil.innerHTML=['all',...order].map(k=>`<button type="button" class="btn" data-k="${k}" aria-pressed="${k==='all'}">${k==='all'?'All courses':esc(C[k].name)}</button>`).join('');
+  const drawReadings=()=>{
+    document.getElementById('reading-list').innerHTML=order.filter(k=>sel==='all'||sel===k).map(k=>{
+      const ss=V.sessions.filter(o=>o.course===k);
+      return `<div class="rl-course"><h3><i class="sw sw-${k}"></i>${esc(C[k].name)}</h3>`+ss.map(o=>{
+        const r=o.readings||{};const L=(h,a,ordered)=>a&&a.length?`<div class="sub">${h}</div><${ordered?'ol':'ul'}>${a.map(x=>`<li>${linkify(x)}</li>`).join('')}</${ordered?'ol':'ul'}>`:'';
+        const body=L('Required / core',r.required,1)+L('Additional',r.additional,1)+L('Optional',r.optional,1)+L('Video',r.video,0);
+        const n=(o.notes||[]).filter(x=>/TBC|inspiration|Watch/i.test(x)).map(x=>`<p class="note">${esc(x)}</p>`).join('');
+        return `<div class="rl-session c-${k}"><h4>${esc(o.number)} · ${esc(o.title)}</h4><div class="meta">${long(o.date)} · ${esc(o.lecturer||'')}</div>${body||'<p class="desc" style="margin:0">No readings listed for this session in the course manual.</p>'}${n}</div>`}).join('')+'</div>';
+    }).join('');
+  };
+  fil.onclick=e=>{const b=e.target.closest('button');if(!b)return;sel=b.dataset.k;fil.querySelectorAll('button').forEach(x=>x.setAttribute('aria-pressed',x===b));drawReadings()};
+  drawReadings();
+
+  // Courses
+  document.getElementById('course-list').innerHTML=V.courses.map(c=>{
+    const ss=V.sessions.filter(o=>o.course===c.code);const a=ss[0],z=ss[ss.length-1];
+    return `<h3><i class="sw sw-${c.code}"></i>${esc(c.name)}</h3><dl class="facts"><dt>Lecturers</dt><dd>${esc(c.lecturers)}</dd><dt>Sessions</dt><dd>${ss.length} (${short(D(a.date))} – ${short(D(z.date))})</dd><dt>Assessment</dt><dd>${c.assessment.map(esc).join('<br>')}</dd></dl>`}).join('');
+
+  // Source notes
+  const re=/spreadsheet|TBC|not given|not confirmed|overlap|outline/i;
+  const notes=[];
+  V.sessions.forEach(o=>(o.notes||[]).filter(n=>re.test(n)).forEach(n=>notes.push(`<li><b>${esc(C[o.course].short)} ${esc(o.number)}</b> (${short(D(o.date))}): ${esc(n)}</li>`)));
+  V.deadlines.filter(t=>t.confidence!=='HIGH').forEach(t=>notes.push(`<li><b>${esc(t.title)}</b>: ${esc(t.details)}</li>`));
+  V.events.filter(e=>e.confidence!=='HIGH').forEach(e=>notes.push(`<li><b>${esc(e.title)}</b>: ${esc(e.details)}</li>`));
+  document.getElementById('note-list').innerHTML=[...new Set(notes)].join('');
+  document.getElementById('footer').innerHTML=`${esc(V.meta.note)} Changes are made in <code>program.json</code>; the calendar file is regenerated on every update.`;
+}
+</script>
+</body>
+</html>

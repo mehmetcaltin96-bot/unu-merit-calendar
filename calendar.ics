@@ -1,0 +1,1257 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//unu-merit-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UNU-MERIT Year 1 2026-27
+X-WR-TIMEZONE:Europe/Amsterdam
+BEGIN:VTIMEZONE
+TZID:Europe/Amsterdam
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:PPE-Lecture1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Lecture I: Causal Inference I
+DTSTART;TZID=Europe/Amsterdam:20260915T140000
+DTEND;TZID=Europe/Amsterdam:20260915T160000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Lecture I (Lecture 1)\nLecturer: Lo
+ nneke Nillesen\n\nRequired / core readings:\n- Causal inference – the Re
+ mix\, Ch. 4 Potential Outcomes and Randomization\, sections 4.1 – 4.2 (f
+ allacies\; potential outcomes)\n- Stein\, D.\, & Valters\, C. (2012). Unde
+ rstanding theory of change in international development.
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Lecture2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Lecture II: Causal Inference II
+DTSTART;TZID=Europe/Amsterdam:20260916T090000
+DTEND;TZID=Europe/Amsterdam:20260916T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Lecture II (Lecture 2)\nLecturer: L
+ onneke Nillesen\n\nRequired / core readings:\n- Causal inference – the R
+ emix\, Ch. 4 Potential Outcomes and Randomization\, sections 4.3 – 4.5 (
+ perfect vs bad doctor\; randomization\; SUTVA).\n- Duflo\, Glennerster & K
+ remer (2008)\, section 8.2 (Hawthorne and John Henry effects)
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-1.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture I: Systems and evolutionary economi
+ cs: a history and theory view
+DTSTART;TZID=Europe/Amsterdam:20260922T103000
+DTEND;TZID=Europe/Amsterdam:20260922T123000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture I (Week 1\, 1
+ .1)\nLecturer: Bart Verspagen\nNote: Held during the September Research We
+ ek as "Thematic session 1: Innovation and development" (Research Week prog
+ ramme: 10:30–12:30\; coursework spreadsheet: 11:00–13:00).\n\nRequired
+  / core readings:\n- Freeman\, C. & C. Perez\, 1988\, Structural Crises of
+  Adjustment\, Business Cycles and Investment Behaviour\, in G. Dosi et al.
+  (eds.) Technical Change and Economic Theory\, Francis Pinter\, London 198
+ 8\, pp. 38-66\n- Fagerberg\, J and B. Verspagen\, 2021\, Technological rev
+ olutions\, Structural Change and Catching Up\, in N. Foster-McGregor et al
+  (eds.)\, New Perspectives on Structural Change\, Oxford University Press.
+ \n- Berger\, S. (Ed.). (2009). The Foundations of Non-Equilibrium Economic
+ s: The principle of circular and cumulative causation (1st ed.). Routledge
+ . https://doi.org/10.4324/9780203873731\, Especially Chapter 6 by P.A. O
+ ’Hara (Check Google Scholar for a preprint)\n\nPlus 12 additional readin
+ gs (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Lecture3@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Lecture III: Randomized designs
+DTSTART;TZID=Europe/Amsterdam:20260923T110000
+DTEND;TZID=Europe/Amsterdam:20260923T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Lecture III (Lecture 3)\nLecturer: 
+ Lonneke Nillesen\nNote: Held during the September Research Week as "Themat
+ ic session 2: Policy evaluation".\n\nRequired / core readings:\n- Causal i
+ nference – the Remix\, Ch. 7 Instrumental Variables\, section 7.5 (Local
+  Average Treatment Effect)\n- Duflo\, Glennerster & Kremer (2008)\, sectio
+ ns 5 and 6 (design\, compliance\, externalities\, attrition) and 7.2 (mult
+ iple outcomes)\n- Bhatt\, M. P.\, Heller\, S. B.\, Kapustin\, M.\, Bertran
+ d\, M.\, & Blattman\, C. (2024). Predicting and preventing gun violence: A
+ n experimental evaluation of READI Chicago. The Quarterly Journal of Econo
+ mics\, 139(1)\, 1-56.\n- McKenzie\, D.\, & Puerto\, S. (2021). Growing mar
+ kets through business training for female entrepreneurs: A market-level ra
+ ndomized experiment in Kenya. American Economic Journal: Applied Economics
+ \, 13(2)\, 297-332.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture I: Introduction to the course
+DTSTART;TZID=Europe/Amsterdam:20260929T090000
+DTEND;TZID=Europe/Amsterdam:20260929T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture I (Session 1)\nLecturer: Bruno Mar
+ torano\nNote: Held during the September Research Week as "Thematic session
+  3: Human development". The coursework spreadsheet gives Monday 28 Septemb
+ er 14:00–16:00\; the course manual and the Research Week programme give 
+ Tuesday 29 September 09:00–11:00.
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-1.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture I: Technical Change\, Structural Change
+  and Economic Development
+DTSTART;TZID=Europe/Amsterdam:20260929T140000
+DTEND;TZID=Europe/Amsterdam:20260929T160000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture I (Week 1\, 1.2)\nLecture
+ r: Tommaso Ciarli\nNote: Held during the September Research Week as "Thema
+ tic session 4".\n\nRequired / core readings:\n- Amsden\, A. H. (2001). Ind
+ ustrializing Late. In Amsden\, A. H.\, editor\, The Rise of “the Rest”
+ : Challenges to the West from Late Industrializing Economies\, chapter 1\,
+  pages 1–28. Oxford University Press.\n- Dosi\, G.\, & Nelson\, R. R. (2
+ 010). Technical Change and Industrial Dynamics as Evolutionary Processes. 
+ In B. H. Hall & N. Rosenberg (Eds.)\, Handbook of the Economics of Innovat
+ ion (Vol. 1\, pp. 51–127). Elsevier. https://doi.org/10.1016/S0169-7218(
+ 10)01003-8\n- Fagerberg\, J.\, Srholec\, M.\, & Verspagen\, B. (2010). Inn
+ ovation and economic development. Handbook of the Economics of Innovation\
+ , 2(1)\, 833–872. https://doi.org/10.1016/S0169-7218(10)02004-6\n\nPlus 
+ 16 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Tutorial1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Tutorial I: RCTs and causal inference
+DTSTART;TZID=Europe/Amsterdam:20261001T140000
+DTEND;TZID=Europe/Amsterdam:20261001T160000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Tutorial I (Tutorial 1)\nLecturer: 
+ Matilde João Mota\nNote: Exercises are released at least 3 working days b
+ efore the tutorial\; read and think them through beforehand\, answers are 
+ not handed in.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture II: Poverty
+DTSTART;TZID=Europe/Amsterdam:20261002T110000
+DTEND;TZID=Europe/Amsterdam:20261002T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture II (Session 2)\nLecturer: Franzisk
+ a Gassmann\n\nRequired / core readings:\n- Alkire\, S.\, Foster\, J. (2011
+ ). Counting and Multidimensional Poverty Measurement. Journal of Public Ec
+ onomics\, 95:467–487.\n- Ravallion\, M. (2016). The Economics of Poverty
+ . Oxford University Press. Chapters 3 and 5.\n- Ruggeri Laderchi\, R.\, Sa
+ ith\, R.\, Stewart\, F. (2003). Does it Matter that we do not Agree on the
+  Definition of Poverty? A Comparison of Four Approaches. Oxford Developmen
+ t Studies\, 31(3):243–274.\n\nOptional:\n- Foster\, Greer\, Thorbecke (1
+ 984)\, ‘A Class of Decomposable Poverty Measures’\, Econometrica\, 52(
+ 3)\, pp. 761–766.\n- Sen\, A. (1976)\, ‘Poverty: an Ordinal Approach t
+ o Measurement’\, Econometrica\, 44\, 219– 231.
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Lecture4@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Lecture IV: Difference-in-differences design I
+DTSTART;TZID=Europe/Amsterdam:20261005T110000
+DTEND;TZID=Europe/Amsterdam:20261005T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Lecture IV (Lecture 4)\nLecturer: E
+ manuele Pugliese\nNote: Empirical application papers: TBC in the course ma
+ nual (to be announced).\n\nRequired / core readings:\n- Causal inference 
+ – the Remix\, Ch. 9 Difference-in-Differences Fundamentals\, sections 9.
+ 1 – 9.6
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-2.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture II: Properties of technical change 
+ as an evolutionary process
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+TRANSP:TRANSPARENT
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture II (Week 2\, 
+ 2.1)\nLecturer: Tommaso Ciarli\nDate or time not confirmed: see notes.\nNo
+ te: The lecture slides are dated Tuesday 6 October 2026 and refer to the S
+ ED lecture as "tomorrow"\; the coursework spreadsheet lists this topic on 
+ Thursday 8 October 13:30–15:30. Time not confirmed.\n\nRequired / core r
+ eadings:\n- Dosi\, G.\, & Nelson\, R. R. (2010). Technical Change and Indu
+ strial Dynamics as Evolutionary Processes. In B. H. Hall & N. Rosenberg (E
+ ds.)\, Handbook of the Economics of Innovation (Vol. 1\, pp. 51–127). El
+ sevier. https://doi.org/10.1016/S0169-7218(10)01003-8\n- Fagerberg\, J.\, 
+ 2005\, Innovation: A guide to the literature\, in: Fagerberg\, J.\, Mowery
+ \, D. and R.R. Nelson (eds)\, Oxford Handbook of Innovation\, Oxford Unive
+ rsity Press.\n- Metcalfe\, J. Stan\, 2014\, Capitalism and Evolution\, Jou
+ rnal of Evolutionary Economics 24 (1): 11–34. https://doi.org/10.1007/s0
+ 0191-013-0307-7.\n\nPlus 11 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Lecture5@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Lecture V: Difference-in-differences design II
+DTSTART;TZID=Europe/Amsterdam:20261007T090000
+DTEND;TZID=Europe/Amsterdam:20261007T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Lecture V (Lecture 5)\nLecturer: Em
+ anuele Pugliese\nNote: Empirical application papers: TBC in the course man
+ ual (to be announced).\n\nRequired / core readings:\n- Causal inference 
+ – the Remix\, Ch. 10 Complex Diff-in-Diff Designs\, sections 10.2 and 10
+ .7 – 10.14\n\nOptional:\n- https://blogs.worldbank.org/impactevaluations
+ /new-synthesis-and-key-lessons-recent-difference-differences-literature\n-
+  https://blogs.worldbank.org/impactevaluations/what-are-we-estimating-when
+ -we-estimate-difference-differences\n- https://blogs.worldbank.org/impacte
+ valuations/did-you-see-beta-beta-who-part-1\n- https://blogs.worldbank.org
+ /impactevaluations/did-you-see-beta-beta-who-part-2\n- https://blogs.world
+ bank.org/impactevaluations/revisiting-difference-differences-parallel-tren
+ ds-assumption-part-i-pre-trend\n- https://blogs.worldbank.org/impactevalua
+ tions/revisiting-difference-differences-parallel-trends-assumption-part-ii
+ -what-happens
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-2.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture II: What is (socio)-economic developmen
+ t and how is it linked to innovation and
+DTSTART;TZID=Europe/Amsterdam:20261007T133000
+DTEND;TZID=Europe/Amsterdam:20261007T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture II (Week 2\, 2.2)\nLectur
+ er: Bart Verspagen\n\nRequired / core readings:\n- Fagerberg\, J.\, Srhole
+ c\, M.\, & Knell\, M. (2007). The competitiveness of nations: Why some cou
+ ntries prosper while others fall behind. World development\, 35(10)\, 1595
+ -1620.\n- Szirmai\, A.\, 2015\, Developing countries and the concept of de
+ velopment\, in A. Szirmai\, Socio-economic development\, Chapter 1\, Cambr
+ idge University Press.\n- O’Rourke\, K. H.\, & Williamson\, J. G. (2005)
+ . From Malthus to Ohlin: Trade\, industrialisation and distribution since 
+ 1500. Journal of Economic Growth\, 10(1)\, 5-34.\n\nPlus 5 additional read
+ ings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Tutorial2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Tutorial II: Replication exercise: difference-in-
+ differences
+DTSTART;TZID=Europe/Amsterdam:20261008T090000
+DTEND;TZID=Europe/Amsterdam:20261008T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Tutorial II (Tutorial 2)\nLecturer:
+  Matilde João Mota\nNote: Exercises are released at least 3 working days 
+ before the tutorial\; read and think them through beforehand\, answers are
+  not handed in.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S3@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture III: Causes and consequences of poverty
+DTSTART;TZID=Europe/Amsterdam:20261009T090000
+DTEND;TZID=Europe/Amsterdam:20261009T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture III (Session 3)\nLecturer: Franzis
+ ka Gassmann\n\nRequired / core readings:\n- Haushofer\, F. and E. Fehr (20
+ 14)\, On the Psychology of Poverty\, Science\, 344:862–867. DOI: 10.1126
+ /science.1232491\n- Robles Aguilar\, G.\, Sumner\, A. (2020). Who are the 
+ world’s poor? A new profile of global multidimensional poverty. World De
+ velopment\, 126:1–15.\n- Ravallion\, M. (2016)\, Are the world’s poore
+ st being left behind?\, Journal of Economic Growth\, 21:139–164.\n- da C
+ osta\, L. P.\, Dias\, J. G. (2015). What do Europeans Believe to be the Ca
+ uses of Poverty? A Multilevel Analysis of Heterogeneity Within and Between
+  Countries. Social Indicators Research\, 122\, 1–20. https://doi.org/10.
+ 1007/s11205-014-0672-0\n- de Bruijn\, E. J.\, Antonides\, G. (2022). Pover
+ ty and economic decision making: a review of scarcity theory. Theory and D
+ ecision\, 92\, 5–37. https://doi.org/10.1007/s11238-021-09802-7
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S4@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture IV: The ideal global poverty measure?
+DTSTART;TZID=Europe/Amsterdam:20261009T110000
+DTEND;TZID=Europe/Amsterdam:20261009T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture IV (Session 4)\nLecturer: Franzisk
+ a Gassmann\nNote: Tutorial: each fellow presents their ideal global povert
+ y measure (max. 12 minutes)\, applied to real-world data. The readings lis
+ ted are given as inspiration.\n\nRequired / core readings:\n- Pu\, C. J.\,
+  Lambin\, E. F.\, Kusimakwe\, I.\, Gichia\, K.\, Seme\, A.\, Otupiri\, F.\
+ , Davis\, J. (2024). How poverty is measured impacts who gets classified a
+ s impoverished. PNAS 121(7). doi.org/10.1073/pnas.2316730121.\n- Ravallion
+ \, M. (2016). The Economics of Poverty. Oxford University Press. Chapter 7
+ .\n- Ravallion\, M. (2016). Toward better global poverty measures. Journal
+  of Economic Inequality\, 14:227–248.\n- Ravallion\, M. (2020). On measu
+ ring global poverty. Annual Review of Economics\, 12:167– 88.\n- Samman\
+ , E. (2013). Eradicating global poverty: a noble goal\, but how do we meas
+ ure it? Working Paper 2. London: ODI.
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Lecture6@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Lecture VI: Regression Discontinuity Design
+DTSTART;TZID=Europe/Amsterdam:20261013T090000
+DTEND;TZID=Europe/Amsterdam:20261013T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Lecture VI (Lecture 6)\nLecturer: E
+ manuele Pugliese\nNote: Empirical application papers: TBC in the course ma
+ nual (to be announced).\n\nRequired / core readings:\n- Causal inference 
+ – the Remix\, Ch. 6 Regression Discontinuity\, sections 6.1 – 6.4 and 
+ 6.7
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-3.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture III: Science
+DTSTART;TZID=Europe/Amsterdam:20261014T133000
+DTEND;TZID=Europe/Amsterdam:20261014T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture III (Week 3\,
+  3.1)\nLecturer: Tommaso Ciarli\n\nRequired / core readings:\n- Arthur Dia
+ mond\, "Economics of Science" in Steven N. Durlauf and Lawrence E. Blume (
+ eds.)\, "The New Palgrave Dictionary of Economics"\, 2008\, 2nd Edition\, 
+ Palgrave Macmillan UK. Reproduced with permission of Palgrave Macmillan.\n
+ - Bloom\, N.\, Jones\, C. I.\, Van Reenen\, J.\, & Webb\, M. (2020). "Are 
+ Ideas Getting Harder to Find?" American Economic Review\, 110(4): 1104-114
+ 4.\n- Fortunato\, S.\, Bergstrom\, C. T.\, Börner\, K.\, Evans\, J. A.\, 
+ Helbing\, D.\, Milojević\, S.\, … Barabási\, A. L. (2018\, March 2). S
+ cience of science. Science. American Association for the Advancement of Sc
+ ience. https://doi.org/10.1126/science.aao0185\n- Stephan\, P. E. (2010). 
+ The Economics of Science. Handbook of the Economics of Innovation\, 1(1 C)
+ \, 217–273. https://doi.org/10.1016/S0169-7218(10)01005-1\n\nPlus 12 add
+ itional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Tutorial3@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Tutorial III: Replication exercise: regression di
+ scontinuity
+DTSTART;TZID=Europe/Amsterdam:20261015T090000
+DTEND;TZID=Europe/Amsterdam:20261015T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Tutorial III (Tutorial 3)\nLecturer
+ : Matilde João Mota\nNote: Exercises are released at least 3 working days
+  before the tutorial\; read and think them through beforehand\, answers ar
+ e not handed in.
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-3.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture III: Innovation-based growth theory
+DTSTART;TZID=Europe/Amsterdam:20261015T100000
+DTEND;TZID=Europe/Amsterdam:20261015T120000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture III (Week 3\, 3.2)\nLectu
+ rer: Bart Verspagen\nDate or time not confirmed: see notes.\nNote: The int
+ egrated outline gives a 10:00 start (end time not stated)\; the coursework
+  spreadsheet gives 13:30–15:30 for this lecture. A 10:00 start overlaps 
+ with Policy Evaluation Tutorial III (09:00–11:00). Check with the lectur
+ er.\n\nRequired / core readings:\n- Verspagen\, B.\, 2005\, Innovation and
+  Economic Growth\, in: Fagerberg\, J.\, Mowery\, D.C. and Nelson\, R.R. (e
+ ds)\, The Oxford Handbook of Innovation\, Oxford: Oxford University Press\
+ , pp. 487-513\n- G. Silverberg and B. Verspagen\, 1995\, Long Term Cyclica
+ l Variations of Catching Up and Falling Behind. An Evolutionary Model\, Jo
+ urnal of Evolutionary Economics\, vol 5\, 209-227\n- Cantner\, U.\, & Vers
+ pagen\, B. (2025). The 2025 Sveriges Riksbank prize in economic sciences i
+ n memory of Alfred Nobel\, Journal of Evolutionary Economics\, 35(5)\, 807
+ - 808.\n\nPlus 5 additional readings (see the website).\n\nEnd time not gi
+ ven in the sources\; shown as two hours.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S5@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture V: Inequality
+DTSTART;TZID=Europe/Amsterdam:20261016T110000
+DTEND;TZID=Europe/Amsterdam:20261016T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture V (Session 5)\nLecturer: Bruno Mar
+ torano\n\nRequired / core readings:\n- Atkinson (2015)\, Inequality What C
+ an be Done?\, chap 1 “Setting the Scene”\n- Justino\, P. and B. Martor
+ ano (2016) Drivers and dynamics of inequalities worldwide (an introduction
+  to Part I)\, http://unesdoc.unesco.org/images/0024/002459/245907e.pdf\n- 
+ Stiglitz\, J. (2013)\, The Price of Inequality\, chap 4 “Why it matters
+ ”\, London\, Penguin\n- Dietrich\, S.\, Giuffrida\, V.\, Martorano\, B.\
+ , & Schmerzeck\, G. (2022). COVID-19 policy responses\, mobility\, and foo
+ d prices. American Journal of Agricultural Economics\, 104(2)\, 569–588.
+  https://doi.org/10.1111/ajae.12278\n- Dietrich\, S.\, Giuffrida\, V.\, Ma
+ rtorano\, B.\, Schmerzeck\, G.\, & Tiberti\, M. (2023). Lost in aggregatio
+ n? On the importance of local food price data for food poverty estimates. 
+ UNU- MERIT Working Paper No. 035. https://www.merit.unu.edu/publications/w
+ ppdf/2023/wp2023-035.pdf\n- Martorano\, B.\, Perra\, E.\, & Tiberti\, M. (
+ 2023). Spatial inequality during the COVID-19 pandemic in Africa using nig
+ ht-time lights data. UNU-MERIT Working Paper No. 032. https://www.merit.un
+ u.edu/publications/wppdf/2023/wp2023-032.pdf\n\nOptional:\n- Alfani\, G. (
+ 2024). Inequality in history: A long-run view. Journal of Economic Surveys
+ \, 1– 21. https://doi.org/10.1111/joes.12616\n- Alvaredo\, F.\, Bourguig
+ non\, F.\, Ferreira\, F. H.\, & Lustig\, N. (2023). Seventy-five years of 
+ measuring income inequality in Latin America.\n- Chancel\, L.\, Cogneau\, 
+ D.\, Gethin\, A.\, Myczkowski\, A.\, & Robilliard\, A. S. (2023). Income i
+ nequality in Africa\, 1990–2019: Measurement\, patterns\, determinants. 
+ World Development\, 163\, 106162.\n- World Inequality Report 2018. https:/
+ /wir2018.wid.world/\n- Milanovic\, B. (2024). The three eras of global ine
+ quality\, 1820–2020 with the focus on the past thirty years. World Devel
+ opment\, 177\, 106516.
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Lecture7@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Lecture VII: Other topics in evaluation
+DTSTART;TZID=Europe/Amsterdam:20261021T090000
+DTEND;TZID=Europe/Amsterdam:20261021T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Public Policy Evaluation · Lecture VII (Lecture 7)\nLecturer: 
+ Lonneke Nillesen\n\nRequired / core readings:\n- Laajaj\, R.\, & Macours\,
+  K. (2021). Measuring skills in developing countries. Journal of Human Res
+ ources\, 56(4)\, 1254-1295.\n- Jayachandran\, S.\, Biradavolu\, M.\, & Coo
+ per\, J. (2023). Using machine learning and qualitative interviews to desi
+ gn a five-question survey module for women’s agency. World Development\,
+  161\, 106076. Open access.\n- McKenzie\, D. (2025). Designing and analysi
+ ng powerful experiments: Practical tips for applied researchers. World Ban
+ k Policy Research Working Paper 11176 (free).\n- Evans\, D. K.\, & Popova\
+ , A. (2016). Cost-effectiveness analysis in development: Accounting for lo
+ cal costs and noisy impacts. World Development\, 77\, 262-276.\n- Asiedu\,
+  E.\, Karlan\, D.\, Lambon-Quayefio\, M.\, & Udry\, C. (2021). A call for 
+ structured ethics appendices in social science papers. PNAS\, 118(29). Fre
+ e as NBER WP 28393. [ethics\; use its template for your own ethics appendi
+ x]\n- Glennerster\, R. (2017). The practicalities of running randomized ev
+ aluations: Partnerships\, measurement\, ethics\, and transparency. Handboo
+ k of Field Experiments\, Vol. 1\, 175-244. Free at https://www.povertyacti
+ onlab.org/sites/default/files/research-paper/Practical-issues-in-RCTs_Glen
+ nerster.pdf\n- Muralidharan\, K.\, & Niehaus\, P. (2017). Experimentation 
+ at scale. Journal of Economic Perspectives\, 31(4)\, 103-124. Open access.
+ \n\nOptional:\n- Stantcheva\, S. (2023). How to run surveys: A guide to cr
+ eating your own identifying variation and revealing the invisible. Annual 
+ Review of Economics\, 15\, 205-234. Free as NBER Working Paper 30527.\n- D
+ haliwal\, I.\, Duflo\, E.\, Glennerster\, R.\, & Tulloch\, C. (2013). Comp
+ arative cost-effectiveness analysis to inform policy in developing countri
+ es. Education Policy in Developing Countries\, 285-338.\n- Williams\, M. J
+ . (2020). External validity and policy adaptation: from impact evaluation 
+ to policy design. The World Bank Research Observer\, 35(2)\, 158-191.\n- D
+ uflo\, E.\, Banerjee\, A.\, Finkelstein\, A.\, Katz\, L. F.\, Olken\, B. A
+ .\, & Sautmann\, A. (2020). In praise of moderation: Suggestions for the s
+ cope and use of pre-analysis plans for RCTs in economics. NBER WP 26993.\n
+ - Deaton\, A.\, & Cartwright\, N. (2018). Understanding and misunderstandi
+ ng randomized controlled trials. Social Science & Medicine\, 210\, 2-21 (o
+ pen access).
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-4.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture IV: Networks\, complexity\, diffusi
+ on & industrial dynamics
+DTSTART;TZID=Europe/Amsterdam:20261021T133000
+DTEND;TZID=Europe/Amsterdam:20261021T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture IV (Week 4\, 
+ 4.1)\nLecturer: Tommaso Ciarli\n\nRequired / core readings:\n- Conway\, S.
+  & Steward\, F. (2009) Innovation from a Network perspective. in Managing 
+ and shaping innovation (eds. Conway\, S. & Steward\, F.) 63–120 (Oxford 
+ University Press).\n- Geroski\, P. A. (2000). Models of technology diffusi
+ on. Research Policy\, 29(4–5)\, 603–625.\n- Dosi\, G.\, Lechevalier\, 
+ S.\, and Secchi\, A.\, 2010\, Introduction: Interfirm heterogeneity–natu
+ re\, sources and consequences for industrial dynamics. Industrial and Corp
+ orate Change\, 19(6):1867–1890.\n\nPlus 18 additional readings (see the 
+ website).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-4.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture IV: Structural Change\, Structural Tran
+ sformation\, and “Economic Complexity”
+DTSTART;TZID=Europe/Amsterdam:20261022T133000
+DTEND;TZID=Europe/Amsterdam:20261022T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture IV (Week 4\, 4.2)\nLectur
+ er: Bart Verspagen\n\nRequired / core readings:\n- Fagerberg\, J.\, 2000\,
+  Technological progress\, structural change and productivity growth: a com
+ parative study\, Structural Change and Economic Dynamics\, vol. 11\, pp. 3
+ 93–411\n- Szirmai\, A.\, & Verspagen\, B. (2015). Manufacturing and econ
+ omic growth in developing countries\, 1950–2005. Structural change and e
+ conomic dynamics\, 34\, 46-59.\n- Lavopa\, A. & A. Szirmai\, 2021\, Struct
+ ural Change as a Modernization Process\, in N. Foster-McGregor et al (eds.
+ )\, New Perspectives on Structural Change\, Oxford University Press.\n\nPl
+ us 6 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S6@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture VI: From Correlation to Causality: Evalua
+ ting Education Policies Using the “Laboratory” of Education Systems
+DTSTART;TZID=Europe/Amsterdam:20261023T110000
+DTEND;TZID=Europe/Amsterdam:20261023T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture VI (Session 6)\nLecturer: Kristof 
+ De Witte
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-Office@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Policy Evaluation Office hour: Walk-in office hours to discuss the 
+ Pre-Analysis Plan
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+TRANSP:TRANSPARENT
+LOCATION:Room 3.09
+DESCRIPTION:Public Policy Evaluation · Office hour (Lecture 8)\nLecturer: 
+ Lonneke Nillesen\nDate or time not confirmed: see notes.\nNote: Time not g
+ iven in the sources.
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-5.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture V: Innovation systems: national\, s
+ ectoral\, regional
+DTSTART;TZID=Europe/Amsterdam:20261028T133000
+DTEND;TZID=Europe/Amsterdam:20261028T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture V (Week 5\, 5
+ .1)\nLecturer: Bart Verspagen\nDate or time not confirmed: see notes.\nNot
+ e: Date follows the integrated course outline of 5 October 2026 (ETI on We
+ dnesday\, SED on Thursday). The earlier coursework spreadsheet ends on 18
+ –19 November with a different order of topics.\n\nRequired / core readin
+ gs:\n- Freeman\, C.\, 1995 The ‘national system of innovation’ in hist
+ orical perspective. Cambridge J. Econ. 19\, 5\n- Pavitt\, K. (1984). Secto
+ ral patterns of technical change: towards a taxonomy and a theory. Researc
+ h policy\, 13(6)\, 343-373.\n- Lundvall\, B.-Å. (ed.). (1992). National s
+ ystems of innovation: Toward a theory of innovation and interactive learni
+ ng. Pinter.\n- Nelson\, R. R. (Ed.). (1993). National innovation systems: 
+ a comparative analysis. Oxford University Press.\n- Cooke\, P.\, Uranga\, 
+ M. G.\, & Etxebarria\, G. (1997). Regional innovation systems: Institution
+ al and organisational dimensions. Research policy\, 26(4-5)\, 475-491.\n- 
+ Malerba\, F. (2002). Sectoral systems of innovation and production. Resear
+ ch policy\, 31(2)\, 247-264.\n\nPlus 8 additional readings (see the websit
+ e).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-5.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture V: Modelling structural change\, innova
+ tion and economic development
+DTSTART;TZID=Europe/Amsterdam:20261029T133000
+DTEND;TZID=Europe/Amsterdam:20261029T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture V (Week 5\, 5.2)\nLecture
+ r: Tommaso Ciarli\nDate or time not confirmed: see notes.\nNote: Date foll
+ ows the integrated course outline of 5 October 2026 (ETI on Wednesday\, SE
+ D on Thursday). The earlier coursework spreadsheet ends on 18–19 Novembe
+ r with a different order of topics.\n\nRequired / core readings:\n- Ciarli
+ \, T. (2012) “Structural Interactions and Long Run Growth: An Applicatio
+ n of Experimental Design to Agent Based Models.” Revue de l’OFCE\, Deb
+ ates and policies 124: 295-345.\n\nPlus 15 additional readings (see the we
+ bsite).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S7@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture VII: Financing and inequality in health a
+ nd healthcare
+DTSTART;TZID=Europe/Amsterdam:20261030T090000
+DTEND;TZID=Europe/Amsterdam:20261030T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture VII (Session 7)\nLecturer: Wim Gro
+ ot
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-6.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture VI: Technological paradigms and tra
+ jectories
+DTSTART;TZID=Europe/Amsterdam:20261104T133000
+DTEND;TZID=Europe/Amsterdam:20261104T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture VI (Week 6\, 
+ 6.1)\nLecturer: Bart Verspagen\nDate or time not confirmed: see notes.\nNo
+ te: Opens with a 20-minute presentation by a full-time PhD fellow (assesse
+ d)\, followed by discussion. Presenter: TBC.\nNote: Date follows the integ
+ rated course outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday
+ ). The earlier coursework spreadsheet ends on 18–19 November with a diff
+ erent order of topics.\n\nRequired / core readings:\n- Dosi\, G.\, 1982\, 
+ Technological paradigms and technological trajectories: A suggested interp
+ retation of the determinants and directions of technical change\, Research
+  Policy\, 11(3)\, 147-162.\n- Verspagen\, B.\, 2007\, Mapping Technologica
+ l Trajectories as Patent Citation Networks: A Study on the History of Fuel
+  Cell Research\, Advances in Complex Systems\, 10(1):93.\n\nPlus 4 additio
+ nal readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-6.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture VI: Appropriate technologies
+DTSTART;TZID=Europe/Amsterdam:20261105T133000
+DTEND;TZID=Europe/Amsterdam:20261105T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture VI (Week 6\, 6.2)\nLectur
+ er: Tommaso Ciarli\nDate or time not confirmed: see notes.\nNote: Opens wi
+ th a 20-minute presentation by a full-time PhD fellow (assessed)\, followe
+ d by discussion. Presenter: TBC.\nNote: Date follows the integrated course
+  outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday). The earli
+ er coursework spreadsheet ends on 18–19 November with a different order 
+ of topics.\n\nRequired / core readings:\n- Kaplinsky\, R. (2011). Schumach
+ er meets Schumpeter: Appropriate technology below the radar. Research Poli
+ cy\, 40(2)\, 193–203.\n- Basu\, S.\, & Weil\, D. N. (1998). Appropriate 
+ technology and growth. Quarterly Journal of Economics\, 113(4)\, 1025–10
+ 54.\n- Moscona\, J.\, & Sastry\, K. A. (2025). Inappropriate technology: E
+ vidence from global agriculture. NBER Working Paper 33500.\n\nPlus 17 addi
+ tional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S8@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture VIII: Inequality dimensions
+DTSTART;TZID=Europe/Amsterdam:20261106T110000
+DTEND;TZID=Europe/Amsterdam:20261106T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture VIII (Session 8)\nLecturer: Bruno 
+ Martorano\nNote: Group work: each group gives a 10-minute presentation on 
+ one dimension of inequality and acts as discussant for another group (5-mi
+ nute discussion). Final readings and groups were assigned in the first ses
+ sion\; the readings under "Further" are the manual’s “Other readings
+ ”.\n\nRequired / core readings:\n- Bertrand\, M.\, & Mullainathan\, S. (
+ 2004). Are Emily and Greg more employable than Lakisha and Jamal? A field 
+ experiment on labor market discrimination. American Economic Review\, 94(4
+ )\, 991–1013.\n- Blau\, F. D.\, & Kahn\, L. M. (2017). The gender wage g
+ ap: Extent\, trends\, and explanations. Journal of Economic Literature\, 5
+ 5(3)\, 789–865.\n- Corak\, M. (2013). Income inequality\, equality of op
+ portunity\, and intergenerational mobility. Journal of Economic Perspectiv
+ es\, 27(3)\, 79–102.\n\nPlus 6 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-7.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture VII: Innovation Indicators
+DTSTART;TZID=Europe/Amsterdam:20261111T133000
+DTEND;TZID=Europe/Amsterdam:20261111T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture VII (Week 7\,
+  7.1)\nLecturer: Bart Verspagen\nDate or time not confirmed: see notes.\nN
+ ote: Opens with a 20-minute presentation by a full-time PhD fellow (assess
+ ed)\, followed by discussion. Presenter: TBC.\nNote: Date follows the inte
+ grated course outline of 5 October 2026 (ETI on Wednesday\, SED on Thursda
+ y). The earlier coursework spreadsheet ends on 18–19 November with a dif
+ ferent order of topics.\n\nRequired / core readings:\n- Bogliacino\, F.\, 
+ Perani\, G.\, Pianta\, M.\, & Supino\, S. (2012). Innovation and developme
+ nt: The evidence from innovation surveys. Latin American Business Review\,
+  13(3)\, 219-261.\n- Jaffe\, A. B.\, & Trajtenberg\, M. (2002). Patents\, 
+ citations\, and innovations: A window on the knowledge economy. MIT press.
+ \n- Nagaoka\, S.\, Motohashi\, K.\, & Goto\, A. (2010). Patent statistics 
+ as an innovation indicator. In Handbook of the Economics of Innovation (Vo
+ l. 2\, pp. 1083-1127). North-Holland.\n\nPlus 5 additional readings (see t
+ he website).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-7.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture VII: Innovation and production capabili
+ ties
+DTSTART;TZID=Europe/Amsterdam:20261112T133000
+DTEND;TZID=Europe/Amsterdam:20261112T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture VII (Week 7\, 7.2)\nLectu
+ rer: Tommaso Ciarli\nDate or time not confirmed: see notes.\nNote: Opens w
+ ith a 20-minute presentation by a full-time PhD fellow (assessed)\, follow
+ ed by discussion. Presenter: TBC.\nNote: Date follows the integrated cours
+ e outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday). The earl
+ ier coursework spreadsheet ends on 18–19 November with a different order
+  of topics.\n\nRequired / core readings:\n- Bell\, M. (2009). "Innovation 
+ Capabilities and Directions of Development." STEPS Working Paper 33\, STEP
+ S Centre.\n- Fagerberg\, J.\, Srholec\, M. and B. Verspagen\, 2010\, Innov
+ ation and economic development\, in B. Hall and N. Rosenberg (eds.)\, The 
+ Handbook of the Economics of Innovation\, Chapter 20\, Elsevier.\n- Lall\,
+  S.\, 1992\, Technological capabilities and industrialization\, World Deve
+ lopment 20\, 165–186.\n\nPlus 17 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S9@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture IX: Gender (in)equality - causes and cons
+ equences
+DTSTART;TZID=Europe/Amsterdam:20261113T110000
+DTEND;TZID=Europe/Amsterdam:20261113T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture IX (Session 9)\nLecturer: Eleonora
+  (Lonneke) Nillesen\n\nRequired / core readings:\n- Anderson\, S. (2025). 
+ Gender Biased Norms. https://doi.org/10.2139/ssrn.5460014\n- Bertrand\, M.
+  (2020). Gender in the Twenty-First Century. AEA Papers and Proceedings\, 
+ 110\, 1–24. https://doi.org/10.1257/pandp.20201126\n- Jayachandran\, S. 
+ (2015). The Roots of Gender Inequality in Developing Countries. Annual Rev
+ iew of Economics\, 7(1)\, 63–88. https://doi.org/10.1146/annurev-economi
+ cs-080614-115404
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-8.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture VIII: Automation and employment
+DTSTART;TZID=Europe/Amsterdam:20261118T133000
+DTEND;TZID=Europe/Amsterdam:20261118T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture VIII (Week 8\
+ , 8.1)\nLecturer: Tommaso Ciarli\nDate or time not confirmed: see notes.\n
+ Note: Opens with a 20-minute presentation by a full-time PhD fellow (asses
+ sed)\, followed by discussion. Presenter: TBC.\nNote: Date follows the int
+ egrated course outline of 5 October 2026 (ETI on Wednesday\, SED on Thursd
+ ay). The earlier coursework spreadsheet ends on 18–19 November with a di
+ fferent order of topics.\n\nRequired / core readings:\n- Vivarelli\, Marco
+ \, 2007\, Innovation and employment: A survey\, IZA Discussion Papers\, No
+ . 2621\, Institute for the Study of Labor (IZA)\, Bonn\, https://nbn-resol
+ ving.de/urn:nbn:de:101:1-2008042202\n- Autor\, D. H.\, 2022\, The Labor Ma
+ rket Impacts of Technological Change: From Unbridled Enthusiasm to Qualifi
+ ed Optimism to Vast Uncertainty. SSRN Electronic Journal (2022). doi:10.21
+ 39/ssrn.4122803\n\nPlus 27 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-8.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture VIII: Trade\, GVCs\, FDI and developmen
+ t
+DTSTART;TZID=Europe/Amsterdam:20261119T133000
+DTEND;TZID=Europe/Amsterdam:20261119T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture VIII (Week 8\, 8.2)\nLect
+ urer: Bart Verspagen\nDate or time not confirmed: see notes.\nNote: Opens 
+ with a 20-minute presentation by a full-time PhD fellow (assessed)\, follo
+ wed by discussion. Presenter: TBC.\nNote: Date follows the integrated cour
+ se outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday). The ear
+ lier coursework spreadsheet ends on 18–19 November with a different orde
+ r of topics.\n\nRequired / core readings:\n- Lall\, S. (2000). The Technol
+ ogical structure and performance of developing country manufactured export
+ s\, 1985-98. Oxford development studies\, 28(3)\, 337- 369.\n- Los\, B.\, 
+ Timmer\, M. and G. de Vries\, 2015\, How global are global value chains? A
+  new approach to measure international fragmentation\, Journal of Regional
+  Science\, vol. 55: 66–92\n- Goerg\, H. and D. Greenaway\, (2004). Much 
+ Ado about Nothing? Do Domestic Firms Really Benefit from Foreign Direct In
+ vestment? World Bank Research Observer\, 19\, 171-197.\n\nPlus 9 additiona
+ l readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S10@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture X: Migration and development
+DTSTART;TZID=Europe/Amsterdam:20261120T110000
+DTEND;TZID=Europe/Amsterdam:20261120T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture X (Session 10)\nLecturer: Melissa 
+ Siegel\nNote: Watch the Migration Basics playlist before the session\; the
+  Migration and Development playlist is for review afterwards.
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-9.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture IX: Climate change and sustainabili
+ ty
+DTSTART;TZID=Europe/Amsterdam:20261125T133000
+DTEND;TZID=Europe/Amsterdam:20261125T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture IX (Week 9\, 
+ 9.1)\nLecturer: Bart Verspagen\nDate or time not confirmed: see notes.\nNo
+ te: Opens with a 20-minute presentation by a full-time PhD fellow (assesse
+ d)\, followed by discussion. Presenter: TBC.\nNote: Date follows the integ
+ rated course outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday
+ ). The earlier coursework spreadsheet ends on 18–19 November with a diff
+ erent order of topics.\n\nRequired / core readings:\n- Acemoglu\, D.\, Agh
+ ion\, P.\, Bursztyn\, L.\, & Hemous\, D. (2012). “The Environment and Di
+ rected Technical Change.” American Economic Review\, 102(1): 131–166\n
+ - Unruh\, G. C. (2000). Understanding carbon lock-in. Energy policy\, 28(1
+ 2)\, 817- 830.\n- Porter\, M. E. and van der Linde\, C. (1995). Toward a n
+ ew conception of the environment-competitiveness relationship. Journal of 
+ economic perspectives\, 9(4)\, 97-118.\n- Jacobsson\, S.\, & Bergek\, A. (
+ 2004). Transforming the energy sector: the evolution of technological syst
+ ems in renewable energy technology. Industrial and corporate change\, 13(5
+ )\, 815-849.\n\nPlus 9 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-9.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture IX: Institutions
+DTSTART;TZID=Europe/Amsterdam:20261126T133000
+DTEND;TZID=Europe/Amsterdam:20261126T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture IX (Week 9\, 9.2)\nLectur
+ er: Tommaso Ciarli\nDate or time not confirmed: see notes.\nNote: Opens wi
+ th a 20-minute presentation by a full-time PhD fellow (assessed)\, followe
+ d by discussion. Presenter: TBC.\nNote: Date follows the integrated course
+  outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday). The earli
+ er coursework spreadsheet ends on 18–19 November with a different order 
+ of topics.\n\nRequired / core readings:\n- Acemoglu\, D.\, Johnson\, S.\, 
+ & Robinson\, J. A. (2005). Institutions as a fundamental cause of long-run
+  growth. In P. Aghion & S. Durlauf (Eds.)\, Handbook of Economic Growth (V
+ ol. 1A\, ch. 6\, pp. 385–472). Elsevier.\n- Nelson\, R. R.\, & Sampat\, 
+ B. N. (2001). Making sense of institutions as a factor shaping economic pe
+ rformance. Journal of Economic Behavior & Organization\, 44(1)\, 31–54.\
+ n- Chang\, H.-J. (2011). Institutions and economic development: Theory\, p
+ olicy and history. Journal of Institutional Economics\, 7(4)\, 473–498.\
+ n\nPlus 22 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S11@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture XI: Climate change: unequal vulnerability
+ \, strategies\, and human behavior
+DTSTART;TZID=Europe/Amsterdam:20261127T110000
+DTEND;TZID=Europe/Amsterdam:20261127T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture XI (Session 11)\nLecturer: Sanae O
+ kamoto\n\nRequired / core readings:\n- Thomas K\, Hardy RD\, Lazrus H\, et
+  al. Explaining differential vulnerability to climate change: A social sci
+ ence review. WIREs Clim Change. 2019\; 10:e565. https://doi.org/10.1002/wc
+ c.565\n- Vollmer\, A.\, S. Ceolotto\, and N. Farrell. 2026. “Nature-Base
+ d Solutions for Climate Adaptation: Review of Barriers to Adoption and Gui
+ delines for Policymakers.” Environmental Policy and Governance 36\, no. 
+ 3: 422–443. https://doi.org/10.1002/eet.70056\n- Nielsen\, K. S.\, Colog
+ na\, V.\, Bauer\, J. M. et al. Realizing the full potential of behavioural
+  science for climate change mitigation. Nature Climate Change\, 14\, 322
+ –330 (2024). https://doi.org/10.1038/s41558-024-01951-1
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-10.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture X: Technological change\, structura
+ l change and inequality
+DTSTART;TZID=Europe/Amsterdam:20261202T133000
+DTEND;TZID=Europe/Amsterdam:20261202T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture X (Week 10\, 
+ 10.1)\nLecturer: Tommaso Ciarli\nDate or time not confirmed: see notes.\nN
+ ote: Opens with a 20-minute presentation by a full-time PhD fellow (assess
+ ed)\, followed by discussion. Presenter: TBC.\nNote: Date follows the inte
+ grated course outline of 5 October 2026 (ETI on Wednesday\, SED on Thursda
+ y). The earlier coursework spreadsheet ends on 18–19 November with a dif
+ ferent order of topics.\n\nRequired / core readings:\n- Ciarli\, T. and R
+ àfols\, I. (2019). The Relation between Research Priorities and Societal 
+ Demands: The Case of Rice. Research Policy\, 48(4):949–967.\n- Ciarli\, 
+ Tommaso\, Maria Savona\, and Jodie Thorpe\, 2021\, Innovation for Inclusiv
+ e Structural Change\, in Jeong-Dong Lee\, Keun Lee\, Slavo Radosevic\, Dir
+ k Meissner\, and Nicholas S. Vonortas (eds)\, The Challenges of Technology
+  and Economic Catch- Up in Emerging Economies\, Oxford University Press.\n
+ \nPlus 24 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-10.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture X: Intellectual property rights and dev
+ elopment
+DTSTART;TZID=Europe/Amsterdam:20261203T133000
+DTEND;TZID=Europe/Amsterdam:20261203T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture X (Week 10\, 10.2)\nLectu
+ rer: Bart Verspagen\nDate or time not confirmed: see notes.\nNote: Opens w
+ ith a 20-minute presentation by a full-time PhD fellow (assessed)\, follow
+ ed by discussion. Presenter: TBC.\nNote: Date follows the integrated cours
+ e outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday). The earl
+ ier coursework spreadsheet ends on 18–19 November with a different order
+  of topics.\n\nRequired / core readings:\n- CIPR\, 2002\, Integrating Inte
+ llectual Property Rights and Development Policy.\n- Park\, W. G.\, & Lippo
+ ldt\, D. (2005). International Licensing and the Strengthening of Intellec
+ tual Property Rights in Developing Countries during the 1990s. OECD econom
+ ic studies\, 2005(1).\n\nPlus 3 additional readings (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S12@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture XII: The welfare state\, social protectio
+ n and poverty
+DTSTART;TZID=Europe/Amsterdam:20261204T090000
+DTEND;TZID=Europe/Amsterdam:20261204T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture XII (Session 12)\nLecturer: Franzi
+ ska Gassmann\n\nRequired / core readings:\n- Alderman\, H. and R. Yemtsov 
+ (2013)\, ‘How Can Safety Nets Contribute to Economic Growth?’\, Policy
+  Research Working Paper 6437\, The World Bank\, Washington DC. https://ope
+ nknowledge.worldbank.org/handle/10986/15578\n- Atkinson\, A. B. (1996). Th
+ e Economics of the Welfare State. The American Economist\, 40(2)\, 5–15.
+  doi:10.1177/056943459604000202\n- Barr\, N. (1992). Economic Theory and t
+ he Welfare State: A Survey and Interpretation. Journal of Economic Literat
+ ure\, 30(2)\, 741–803. http://www.jstor.org/stable/2727702\n- Barrientos
+ \, A. (2012)\, ‘Social Transfers and Growth: What Do We Know? What Do We
+  Need to Find Out?’\, World Development\, 40(1)\, pp. 11–20. https://d
+ oi.org/10.1016/j.worlddev.2011.05.012\n- Beaulier\, S. and Caplan\, B. (20
+ 07)\, Behavioral Economics and Perverse Effects of the Welfare State. Kykl
+ os\, 60: 485–507. https://doi.org/10.1111/j.1467-6435.2007.00382.x\n- De
+ vereux\, S. & R. Sabates-Wheeler (2004). Transformative social protection.
+  IDS Working Paper 232. Brighton: IDS.\n- Lindbeck\, A. (2006). The Welfar
+ e State — Background\, Achievements\, Problems. IFN Working Paper No. 66
+ 2\, Research Institute of Industrial Economics (IFN)\, Stockholm.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S13@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture XIII: Taxation and inequality
+DTSTART;TZID=Europe/Amsterdam:20261204T110000
+DTEND;TZID=Europe/Amsterdam:20261204T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture XIII (Session 13)\nLecturer: Bruno
+  Martorano\n\nRequired / core readings:\n- Piketty (2014)\, Capital in the
+  Twenty-First Century\, Harvard University Press\, chap. 14 “Rethinking 
+ the Progressive Income Tax”\n- Piketty\, T.\, Saez\, E.\, & Stantcheva\,
+  S. (2014). Optimal Taxation of Top Labor Incomes: A Tale of Three Elastic
+ ities. American Economic Journal: Economic Policy\, 6(1): 230–71.\n- Iva
+ nova\, A.\, Keen\, M.\, & Klemm\, A. (2005). The Russian ‘flat tax’ re
+ form. Economic Policy\, 20(43)\, 398–444. https://www.imf.org/external/p
+ ubs/ft/wp/2005/wp0516.pdf\n- Martorano\, B. (2014). The Impact of Uruguay
+ ’s 2007 Tax Reform on Equity and Efficiency. Development Policy Review\,
+  32(6)\, 701–714. https://onlinelibrary.wiley.com/doi/epdf/10.1111/dpr.1
+ 2085\n\nOptional:\n- Diamond\, P.\, & Saez\, E. (2011). The Case for a Pro
+ gressive Tax: From Basic Research to Policy Recommendations. Journal of Ec
+ onomic Perspectives\, 25(4)\, pp. 165–190.\n- IMF (2017)\, Fiscal Monito
+ r 2017. https://www.imf.org/en/Publications/FM/Issues/2017/10/05/fiscal-mo
+ nitor-october-2017\n- Martorano\, B. (2018). Taxation and inequality in de
+ veloping countries: Lessons from the recent experience of Latin America. J
+ ournal of International Development\, 30(2): 256– 273. https://onlinelib
+ rary.wiley.com/doi/epdf/10.1002/jid.3350\n- Alstadsæter\, A.\, Johannesen
+ \, N.\, & Zucman\, G. (2018). Who owns the wealth in tax havens? Macro evi
+ dence and implications for global inequality. Journal of Public Economics\
+ , 162\, 89–100.
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-11.1@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Technology & Innovation Lecture XI: Innovation policies
+DTSTART;TZID=Europe/Amsterdam:20261209T133000
+DTEND;TZID=Europe/Amsterdam:20261209T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Economics of Technology and Innovation · Lecture XI (Week 11\,
+  11.1)\nLecturer: Bart Verspagen\nDate or time not confirmed: see notes.\n
+ Note: Opens with a 20-minute presentation by a full-time PhD fellow (asses
+ sed)\, followed by discussion. Presenter: TBC.\nNote: Date follows the int
+ egrated course outline of 5 October 2026 (ETI on Wednesday\, SED on Thursd
+ ay). The earlier coursework spreadsheet ends on 18–19 November with a di
+ fferent order of topics.\n\nRequired / core readings:\n- Lundvall\, B.-Å.
+ \, Borrás\, S. (2005). Science\, Technology and Innovation Policy. In J. 
+ Fagerberg\, D. Mowery & R. Nelson (Eds). The Oxford Handbook of Innovation
+  (pp. 599-631)\, Oxford University Press.\n- Steinmueller\, W. E. (2010). 
+ Economics of technology policy. In B.H. Hall & N. Rosenberg (Eds.)\, Handb
+ ook of the Economics of Innovation (Vol. 2\, pp. 1181- 1218)\, North-Holla
+ nd.\n- Schot\, J.\, & Steinmueller\, W. E. (2018). Three frames for innova
+ tion policy: R&D\, systems of innovation and transformative change. Resear
+ ch policy\, 47(9)\, 1554- 1567.\n\nPlus 4 additional readings (see the web
+ site).
+END:VEVENT
+BEGIN:VEVENT
+UID:SED-11.2@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Socio-Economic Dev. Lecture XI: Industrial policies
+DTSTART;TZID=Europe/Amsterdam:20261210T133000
+DTEND;TZID=Europe/Amsterdam:20261210T153000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Socio-Economic Development · Lecture XI (Week 11\, 11.2)\nLect
+ urer: Tommaso Ciarli\nDate or time not confirmed: see notes.\nNote: Opens 
+ with a 20-minute presentation by a full-time PhD fellow (assessed)\, follo
+ wed by discussion. Presenter: TBC.\nNote: Date follows the integrated cour
+ se outline of 5 October 2026 (ETI on Wednesday\, SED on Thursday). The ear
+ lier coursework spreadsheet ends on 18–19 November with a different orde
+ r of topics.\n\nRequired / core readings:\n- Juhász\, R.\, Lane\, N.\, & 
+ Rodrik\, D. (2024). The new economics of industrial policy. Annual Review 
+ of Economics\, 16\, 213–242.\n- Warwick\, K.\, 2013. Beyond Industrial P
+ olicy: Emerging Issues and New Trends (No. 2)\, OECD Science\, Technology 
+ and Industry Policy Papers. OECD Publishing.\n\nPlus 22 additional reading
+ s (see the website).
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S14@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture XIV: The political economy of inequality
+DTSTART;TZID=Europe/Amsterdam:20261211T110000
+DTEND;TZID=Europe/Amsterdam:20261211T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture XIV (Session 14)\nLecturer: Bruno 
+ Martorano\n\nRequired / core readings:\n- Günther\, I. and Martorano\, B.
+  (2023). Inequality\, social mobility and redistributive preferences. UNU-
+ MERIT Working Paper No. 017. https://www.merit.unu.edu/publications/wppdf/
+ 2023/wp2023-017.pdf\n- Iacoella\, F.\, Justino\, P.\, & Martorano\, B. (20
+ 20). Roots of dissent: Trade liberalization and the rise of populism in Br
+ azil. WIDER Working Paper 2020/118.\n- Iacoella\, F.\, Justino\, P.\, & Ma
+ rtorano\, B. (2021). Do pandemics lead to rebellion? Policy responses to C
+ OVID-19\, inequality\, and protests in the USA. WIDER Working Paper 2021/5
+ 7.\n- Justino\, P.\, Martorano\, B.\, & Metzger\, L. (2024). Can Preferenc
+ es for Redistribution Explain the Impact of Austerity on Political Partici
+ pation? Evidence from the UK. Oxford Bulletin of Economics and Statistics.
+ \n\nOptional:\n- Giuliano\, P. and Spilimbergo\, A. (2024). Aggregate Shoc
+ ks and the Formation of Preferences and Beliefs. NBER Working Paper No. w3
+ 2669.\n- Stantcheva\, S. (2024). Perceptions and preferences for redistrib
+ ution. Oxford Open Economics\, 3(Supplement_1)\, i96–i100.\n- Hauser\, O
+ . P.\, & Norton\, M. I. (2017). (Mis)perceptions of inequality. Current Op
+ inion in Psychology\, 18\, 21–25.\n- Hirschman\, A. O.\, & Rothschild\, 
+ M. (1973). The changing tolerance for income inequality in the course of e
+ conomic development. Quarterly Journal of Economics\, 87(4)\, 544–566.\n
+ - Hvidberg\, K. B.\, Kreiner\, C. T.\, & Stantcheva\, S. (2023). Social po
+ sitions and fairness views on inequality. Review of Economic Studies\, 90(
+ 6)\, 3083–3118.\n- Starmans\, C.\, Sheskin\, M.\, & Bloom\, P. (2017). W
+ hy people prefer unequal societies. Nature Human Behaviour\, 1(4)\, 0082.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S15@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture XV: Fellows present their topic
+DTSTART;TZID=Europe/Amsterdam:20261218T090000
+DTEND;TZID=Europe/Amsterdam:20261218T110000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture XV (Session 15)\nLecturer: Bruno M
+ artorano\nNote: Fellows present their initial ideas for the final research
+  proposal: 20-minute slot each (about 10 minutes of presentation\, the res
+ t for discussion). Attendance at both sessions is expected\; acting as dis
+ cussant is part of the exercise.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-S16@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Human Development Lecture XVI: Fellows present their topic
+DTSTART;TZID=Europe/Amsterdam:20261218T110000
+DTEND;TZID=Europe/Amsterdam:20261218T130000
+LOCATION:Belvedere Room 3
+DESCRIPTION:Human Development · Lecture XVI (Session 16)\nLecturer: Bruno 
+ Martorano\nNote: Fellows present their initial ideas for the final researc
+ h proposal: 20-minute slot each (about 10 minutes of presentation\, the re
+ st for discussion). Attendance at both sessions is expected\; acting as di
+ scussant is part of the exercise.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-poverty-measure@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:PRESENTATION: Presentation: your ideal global poverty measure
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+TRANSP:TRANSPARENT
+DESCRIPTION:Human Development\nEach fellow presents an ideal global poverty
+  measure (max. 12 minutes)\, applied to real-world data: concept and defin
+ ition\, choice of indicator(s)\, and the final measure.
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-SED-presenter-list@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:DUE: Send the presentation list (ETI and SED)
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+TRANSP:TRANSPARENT
+DESCRIPTION:Economics of Technology and Innovation\nOne student emails a si
+ ngle list stating who presents in which session (each fellow presents twic
+ e\, once per course\, in weeks 6–11).
+END:VEVENT
+BEGIN:VEVENT
+UID:PPE-exam@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:EXAM: Take-home exam\, Public Policy Evaluation
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+DESCRIPTION:Public Policy Evaluation\nWeight 50%. The source gives 25 Octob
+ er 2026 (a Sunday) with “no class”\; exact release and submission time
+ s are not stated.\nNot confirmed.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-group-work@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:PRESENTATION: Group presentation: dimensions of inequality
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+DESCRIPTION:Human Development\n10-minute group presentation on an assigned 
+ paper plus discussant role for another group.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-topic-presentation@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:PRESENTATION: Presentation of your research proposal idea
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+TRANSP:TRANSPARENT
+DESCRIPTION:Human Development\n20-minute slot: about 10 minutes of presenta
+ tion\, the rest for comments and questions.
+END:VEVENT
+BEGIN:VEVENT
+UID:HD-final@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:DUE: Final assignment: research proposal\, Human Development
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+TRANSP:TRANSPARENT
+DESCRIPTION:Human Development\nIndividual short research proposal\, 2\,000 
+ words\, with a novel idea and the empirical strategy to address it.
+END:VEVENT
+BEGIN:VEVENT
+UID:ETI-SED-final@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:DUE: Final integrated essay (ETI and SED)
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+TRANSP:TRANSPARENT
+DESCRIPTION:Economics of Technology and Innovation\nMax. 5\,000 words\; 60%
+  of the grade. Combines the topics and questions of two lectures\, one fro
+ m each course\, other than those presented. Final date TBC.\nNot confirmed
+ .
+END:VEVENT
+BEGIN:VEVENT
+UID:Y1-proposal@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:DUE: PhD proposal submission to the PhD Office
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+TRANSP:TRANSPARENT
+DESCRIPTION:Programme\nNo later than 20 May. Max. 4\,000 words excluding re
+ ferences and appendices\; requires supervisor endorsement\; submit at leas
+ t two weeks before the defence.
+END:VEVENT
+BEGIN:VEVENT
+UID:Y1-revision@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:DUE: Proposal resubmission (only if “Revision”)
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+TRANSP:TRANSPARENT
+DESCRIPTION:Programme\nThe welcome presentation gives 31 August for resubmi
+ ssion\; the PhD Guide says revisions are normally submitted by mid-August.
+ \nNot confirmed.
+END:VEVENT
+BEGIN:VEVENT
+UID:sept-event@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:September PhD event (Research Week and Internal Conference)
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20261001
+TRANSP:TRANSPARENT
+DESCRIPTION:Skills trainings\, first-year proposal presentations (22–23 S
+ eptember)\, Internal Conference (24–25 September).
+END:VEVENT
+BEGIN:VEVENT
+UID:reg-p3@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:SBE course registration deadline\, education period 3
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+TRANSP:TRANSPARENT
+DESCRIPTION:Midnight Dutch time.
+END:VEVENT
+BEGIN:VEVENT
+UID:reg-p4@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:SBE course registration deadline\, education period 4
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+TRANSP:TRANSPARENT
+DESCRIPTION:Midnight Dutch time.
+END:VEVENT
+BEGIN:VEVENT
+UID:xmas@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Christmas holidays
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20270102
+TRANSP:TRANSPARENT
+DESCRIPTION:The academic calendar prints “25/01/2026 – 01/01/2027”\; 
+ read as 25 December.
+END:VEVENT
+BEGIN:VEVENT
+UID:coursework-end@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:End of mandatory coursework (semester 1)
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+DESCRIPTION:Mandatory coursework runs until the end of January\; minimum gr
+ ade 6\, required average 7.5.
+END:VEVENT
+BEGIN:VEVENT
+UID:carnival@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Carnival
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270213
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:reg-p5@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:SBE course registration deadline\, education period 5
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+TRANSP:TRANSPARENT
+DESCRIPTION:Midnight Dutch time.
+END:VEVENT
+BEGIN:VEVENT
+UID:march-week@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:March Research Week (mandatory)
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270327
+TRANSP:TRANSPARENT
+DESCRIPTION:Proposal progress presentations\, higher-year presentations\, s
+ kills and methods sessions\; with Dual Career fellows.
+END:VEVENT
+BEGIN:VEVENT
+UID:goodfriday@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Good Friday
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:easter@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Easter Monday
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:reg-p6@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:SBE course registration deadline\, education period 6
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+TRANSP:TRANSPARENT
+DESCRIPTION:Midnight Dutch time.
+END:VEVENT
+BEGIN:VEVENT
+UID:kingsday@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Bridge Day and King’s Day
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270428
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:liberation@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Liberation Day
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:ascension@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Ascension Day and Bridge Day
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270508
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:whit@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:Whit Monday
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+BEGIN:VEVENT
+UID:agreement@unu-merit-calendar
+DTSTAMP:20261007T224134Z
+SUMMARY:PhD Agreement to the PhD Office (after admission to year 2)
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+TRANSP:TRANSPARENT
+DESCRIPTION:
+END:VEVENT
+END:VCALENDAR
