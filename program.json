@@ -1,7 +1,7 @@
 {
  "meta": {
   "title": "UNU-MERIT PhD · Full-time Year 1 · 2026–27",
-  "updated": "2026-10-08",
+  "updated": "2026-10-12",
   "note": "Source: the cohort OneDrive folder “FT First-year ’26-27” (version of 7 October 2026). Zoom links and e-mail addresses are deliberately not published."
  },
  "courses": [
@@ -774,8 +774,8 @@
    "title": "Inequality",
    "type": "lecture",
    "date": "2026-10-16",
-   "start": "11:00",
-   "end": "13:00",
+   "start": "09:00",
+   "end": "11:00",
    "room": "Belvedere Room 3",
    "lecturer": "Bruno Martorano",
    "readings": {
@@ -797,11 +797,14 @@
     ]
    },
    "essay_questions": [],
-   "notes": [],
+   "notes": [
+    "Moved from 11:00–13:00 to 09:00–11:00 (announced to the cohort; not yet in the course files). The announcement gave only the new start time; the two-hour length and the room are unchanged unless announced otherwise."
+   ],
    "confidence": "HIGH",
    "sources": [
     "FT First-year '26-27/Mandatory courses/Human Development/Course_manual_Human_Development_2026.pdf",
-    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx"
+    "FT First-year '26-27/Mandatory courses/coursework schedule Semester 1 - AY2026-27.xlsx",
+    "Announcement to the cohort, reported on 12 October 2026"
    ]
   },
   {
